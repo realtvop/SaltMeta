@@ -38940,6 +38940,9 @@
           "level": "3",
           "internalLevel": 3,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 114,
@@ -38952,7 +38955,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -38961,6 +38965,9 @@
           "level": "7",
           "internalLevel": 7,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 223,
@@ -38973,7 +38980,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -38982,6 +38990,9 @@
           "level": "11+",
           "internalLevel": 11.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "Luxizhel",
           "noteCounts": {
             "tap": 343,
@@ -38994,7 +39005,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -39003,6 +39015,9 @@
           "level": "13+",
           "internalLevel": 13.9,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 522,
@@ -39015,7 +39030,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -39024,6 +39040,9 @@
           "level": "5",
           "internalLevel": 5,
           "version": "MURASAKi",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 173,
@@ -39046,6 +39065,9 @@
           "level": "7+",
           "internalLevel": 7.6,
           "version": "MURASAKi",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 288,
@@ -39068,6 +39090,9 @@
           "level": "12+",
           "internalLevel": 12.8,
           "version": "MURASAKi",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "rioN",
           "noteCounts": {
             "tap": 417,
@@ -39090,6 +39115,9 @@
           "level": "13",
           "internalLevel": 13.4,
           "version": "MURASAKi",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "Techno Kitchen",
           "noteCounts": {
             "tap": 468,
@@ -151888,6 +151916,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 194,
@@ -151900,7 +151931,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -151909,6 +151941,9 @@
           "level": "8",
           "internalLevel": 8,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 308,
@@ -151921,7 +151956,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -151930,6 +151966,9 @@
           "level": "10+",
           "internalLevel": 10.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 335,
@@ -151942,7 +151981,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -151951,6 +151991,9 @@
           "level": "13+",
           "internalLevel": 13.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "Jack",
           "noteCounts": {
             "tap": 590,
@@ -151963,7 +152006,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ],
@@ -153027,6 +153071,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 175,
@@ -153039,7 +153086,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153048,6 +153096,9 @@
           "level": "7+",
           "internalLevel": 7.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 263,
@@ -153060,7 +153111,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153069,6 +153121,9 @@
           "level": "11",
           "internalLevel": 11,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 276,
@@ -153081,7 +153136,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153090,6 +153146,9 @@
           "level": "13+",
           "internalLevel": 13.8,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "Luxizhel",
           "noteCounts": {
             "tap": 599,
@@ -153102,7 +153161,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -153121,6 +153181,9 @@
           "level": "5",
           "internalLevel": 5,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 151,
@@ -153133,7 +153196,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153142,6 +153206,9 @@
           "level": "7+",
           "internalLevel": 7.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 247,
@@ -153154,7 +153221,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153163,6 +153231,9 @@
           "level": "11+",
           "internalLevel": 11.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 433,
@@ -153175,7 +153246,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153184,6 +153256,9 @@
           "level": "13+",
           "internalLevel": 13.9,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
             "tap": 533,
@@ -153196,7 +153271,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -153215,6 +153291,9 @@
           "level": "6",
           "internalLevel": 6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 281,
@@ -153227,7 +153306,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153236,6 +153316,9 @@
           "level": "9",
           "internalLevel": 9,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 479,
@@ -153248,7 +153331,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153257,6 +153341,9 @@
           "level": "13",
           "internalLevel": 13.5,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 705,
@@ -153269,7 +153356,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153278,6 +153366,9 @@
           "level": "14+",
           "internalLevel": 14.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "サファ太 vs Luxizhel",
           "noteCounts": {
             "tap": 744,
@@ -153290,7 +153381,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -153637,6 +153729,9 @@
           "level": "5",
           "internalLevel": 5,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 255,
@@ -153649,7 +153744,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153658,6 +153754,9 @@
           "level": "7+",
           "internalLevel": 7.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 377,
@@ -153670,7 +153769,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153679,6 +153779,9 @@
           "level": "11",
           "internalLevel": 11,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
             "tap": 461,
@@ -153691,7 +153794,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153700,6 +153804,9 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "りんご Full Set",
           "noteCounts": {
             "tap": 634,
@@ -153712,7 +153819,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -153731,6 +153839,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 231,
@@ -153743,7 +153854,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153752,6 +153864,9 @@
           "level": "7",
           "internalLevel": 7,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 343,
@@ -153764,7 +153879,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153773,6 +153889,9 @@
           "level": "10+",
           "internalLevel": 10.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
             "tap": 434,
@@ -153785,7 +153904,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153794,6 +153914,9 @@
           "level": "13",
           "internalLevel": 13.4,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "ロシェ@ペンギン と はっぴー",
           "noteCounts": {
             "tap": 615,
@@ -153806,7 +153929,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -153825,6 +153949,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 170,
@@ -153837,7 +153964,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153846,6 +153974,9 @@
           "level": "6",
           "internalLevel": 6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 273,
@@ -153858,7 +153989,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153867,6 +153999,9 @@
           "level": "10+",
           "internalLevel": 10.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 386,
@@ -153879,7 +154014,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153888,6 +154024,9 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 584,
@@ -153900,7 +154039,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -153919,6 +154059,9 @@
           "level": "5",
           "internalLevel": 5,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 183,
@@ -153931,7 +154074,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153940,6 +154084,9 @@
           "level": "8",
           "internalLevel": 8,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 336,
@@ -153952,7 +154099,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153961,6 +154109,9 @@
           "level": "12",
           "internalLevel": 12,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 451,
@@ -153973,7 +154124,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -153982,6 +154134,9 @@
           "level": "14",
           "internalLevel": 14.1,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "メロンポップ vs Luxizhel",
           "noteCounts": {
             "tap": 626,
@@ -153994,7 +154149,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -155603,6 +155759,9 @@
           "level": "3",
           "internalLevel": 3,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 141,
@@ -155615,7 +155774,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -155624,6 +155784,9 @@
           "level": "7+",
           "internalLevel": 7.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 316,
@@ -155636,7 +155799,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -155645,6 +155809,9 @@
           "level": "11",
           "internalLevel": 11,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 341,
@@ -155657,7 +155824,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -155666,6 +155834,9 @@
           "level": "13",
           "internalLevel": 13.2,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 392,
@@ -155678,7 +155849,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -158314,6 +158486,9 @@
           "level": "3",
           "internalLevel": 3,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 181,
@@ -158326,7 +158501,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158335,6 +158511,9 @@
           "level": "7",
           "internalLevel": 7,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 326,
@@ -158347,7 +158526,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158356,6 +158536,9 @@
           "level": "10",
           "internalLevel": 10,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "ロシェ@ペンギン",
           "noteCounts": {
             "tap": 262,
@@ -158368,7 +158551,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158377,6 +158561,9 @@
           "level": "13",
           "internalLevel": 13.2,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
             "tap": 444,
@@ -158389,7 +158576,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -158408,6 +158596,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 205,
@@ -158420,7 +158611,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158429,6 +158621,9 @@
           "level": "8",
           "internalLevel": 8,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 347,
@@ -158441,7 +158636,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158450,6 +158646,9 @@
           "level": "10+",
           "internalLevel": 10.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "ロシェ@ペンギン",
           "noteCounts": {
             "tap": 434,
@@ -158462,7 +158661,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158471,6 +158671,9 @@
           "level": "13",
           "internalLevel": 13.2,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "アマリリス",
           "noteCounts": {
             "tap": 549,
@@ -158483,7 +158686,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -158502,6 +158706,9 @@
           "level": "5",
           "internalLevel": 5,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 201,
@@ -158514,7 +158721,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158523,6 +158731,9 @@
           "level": "8",
           "internalLevel": 8,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 376,
@@ -158535,7 +158746,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158544,6 +158756,9 @@
           "level": "11",
           "internalLevel": 11,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "アマリリス",
           "noteCounts": {
             "tap": 495,
@@ -158556,7 +158771,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158565,6 +158781,9 @@
           "level": "13+",
           "internalLevel": 13.8,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "ぴちネコ",
           "noteCounts": {
             "tap": 530,
@@ -158577,7 +158796,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -158596,6 +158816,9 @@
           "level": "3",
           "internalLevel": 3,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 123,
@@ -158608,7 +158831,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158617,6 +158841,9 @@
           "level": "6",
           "internalLevel": 6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 268,
@@ -158629,7 +158856,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158638,6 +158866,9 @@
           "level": "9",
           "internalLevel": 9,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 349,
@@ -158650,7 +158881,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158659,6 +158891,9 @@
           "level": "13",
           "internalLevel": 13,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "きょむりん",
           "noteCounts": {
             "tap": 522,
@@ -158671,7 +158906,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -158690,6 +158926,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 209,
@@ -158702,7 +158941,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158711,6 +158951,9 @@
           "level": "8",
           "internalLevel": 8,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 330,
@@ -158723,7 +158966,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158732,6 +158976,9 @@
           "level": "11",
           "internalLevel": 11,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
             "tap": 388,
@@ -158744,7 +158991,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158753,6 +159001,9 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "アマリリス",
           "noteCounts": {
             "tap": 418,
@@ -158765,7 +159016,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -158784,6 +159036,9 @@
           "level": "5",
           "internalLevel": 5,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 206,
@@ -158796,7 +159051,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158805,6 +159061,9 @@
           "level": "7+",
           "internalLevel": 7.6,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 341,
@@ -158817,7 +159076,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158826,6 +159086,9 @@
           "level": "12",
           "internalLevel": 12,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
             "tap": 267,
@@ -158838,7 +159101,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -158847,6 +159111,9 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "PRiSM",
+          "regionVersionOverride": {
+            "cn": 2025
+          },
           "noteDesigner": "Luxizhel",
           "noteCounts": {
             "tap": 589,
@@ -158859,7 +159126,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ],
