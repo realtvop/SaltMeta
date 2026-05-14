@@ -145094,7 +145094,8 @@
       ],
       "aliases": {
         "cn": [
-          "shining ray ～僕らの絆～"
+          "shining ray ～僕らの絆～",
+          "shining ray"
         ]
       }
     },
@@ -173605,6 +173606,264 @@
       ]
     },
     {
+      "id": 1957,
+      "title": "オールマスター",
+      "artist": "大漠波新 feat.ヲタみん",
+      "bpm": 150,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 127,
+            "hold": 16,
+            "slide": 8,
+            "touch": 6,
+            "break": 8,
+            "total": 165
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 263,
+            "hold": 12,
+            "slide": 11,
+            "touch": 11,
+            "break": 18,
+            "total": 315
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 340,
+            "hold": 65,
+            "slide": 42,
+            "touch": 5,
+            "break": 88,
+            "total": 540
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 603,
+            "hold": 59,
+            "slide": 96,
+            "touch": 68,
+            "break": 31,
+            "total": 857
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1958,
+      "title": "STRAY",
+      "artist": "umigame",
+      "bpm": 130,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 145,
+            "hold": 9,
+            "slide": 4,
+            "touch": 15,
+            "break": 4,
+            "total": 177
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 229,
+            "hold": 16,
+            "slide": 6,
+            "touch": 13,
+            "break": 3,
+            "total": 267
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 330,
+            "hold": 49,
+            "slide": 34,
+            "touch": 20,
+            "break": 15,
+            "total": 448
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 487,
+            "hold": 59,
+            "slide": 73,
+            "touch": 22,
+            "break": 46,
+            "total": 687
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1959,
+      "title": "クロノイデア",
+      "artist": "iDEN LiLY feat.X-Fenriey",
+      "bpm": 190,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 178,
+            "hold": 17,
+            "slide": 8,
+            "touch": 28,
+            "break": 8,
+            "total": 239
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 340,
+            "hold": 18,
+            "slide": 8,
+            "touch": 16,
+            "break": 6,
+            "total": 388
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11+",
+          "internalLevel": 11.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 403,
+            "hold": 79,
+            "slide": 41,
+            "touch": 25,
+            "break": 46,
+            "total": 594
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 714,
+            "hold": 50,
+            "slide": 138,
+            "touch": 32,
+            "break": 82,
+            "total": 1016
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 1969,
       "title": "TECHNOPOLIS 2085",
       "artist": "PRASTIK DANCEFLOOR",
@@ -175566,6 +175825,522 @@
             "touch": 97,
             "break": 111,
             "total": 944
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1994,
+      "title": "Operation☆DOTABATA!",
+      "artist": "Mitsukiyo「ブルーアーカイブ -Blue Archive-」",
+      "bpm": 140,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 129,
+            "hold": 11,
+            "slide": 4,
+            "touch": 11,
+            "break": 7,
+            "total": 162
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 201,
+            "hold": 12,
+            "slide": 6,
+            "touch": 11,
+            "break": 8,
+            "total": 238
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 266,
+            "hold": 36,
+            "slide": 29,
+            "touch": 40,
+            "break": 57,
+            "total": 428
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 475,
+            "hold": 53,
+            "slide": 61,
+            "touch": 18,
+            "break": 97,
+            "total": 704
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1995,
+      "title": "RE Aoharu",
+      "artist": "Nor「ブルーアーカイブ -Blue Archive-」",
+      "bpm": 180,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 160,
+            "hold": 13,
+            "slide": 4,
+            "touch": 6,
+            "break": 3,
+            "total": 186
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 253,
+            "hold": 10,
+            "slide": 14,
+            "touch": 22,
+            "break": 6,
+            "total": 305
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 405,
+            "hold": 40,
+            "slide": 44,
+            "touch": 5,
+            "break": 43,
+            "total": 537
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 534,
+            "hold": 16,
+            "slide": 112,
+            "touch": 29,
+            "break": 41,
+            "total": 732
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1996,
+      "title": "Usagi Flap",
+      "artist": "Nor「ブルーアーカイブ -Blue Archive-」",
+      "bpm": 170,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 123,
+            "hold": 13,
+            "slide": 4,
+            "touch": 19,
+            "break": 2,
+            "total": 161
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 220,
+            "hold": 20,
+            "slide": 6,
+            "touch": 24,
+            "break": 4,
+            "total": 274
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 302,
+            "hold": 60,
+            "slide": 29,
+            "touch": 27,
+            "break": 9,
+            "total": 427
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "カマボコ君",
+          "noteCounts": {
+            "tap": 430,
+            "hold": 80,
+            "slide": 91,
+            "touch": 60,
+            "break": 8,
+            "total": 669
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1997,
+      "title": "キスキツネ",
+      "artist": "HIMEHINA",
+      "bpm": null,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1998,
+      "title": "WWW",
+      "artist": "HIMEHINA",
+      "bpm": null,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1999,
+      "title": "うたかたよいかないで",
+      "artist": "HIMEHINA",
+      "bpm": null,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
           },
           "availableRegions": [
             "jp"
