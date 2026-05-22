@@ -176141,7 +176141,7 @@
       "id": 1997,
       "title": "キスキツネ",
       "artist": "HIMEHINA",
-      "bpm": null,
+      "bpm": 148,
       "category": "POPS＆アニメ",
       "isLocked": false,
       "charts": [
@@ -176189,7 +176189,7 @@
           "level": "10",
           "internalLevel": 10,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 278,
             "hold": 47,
@@ -176206,9 +176206,9 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13+",
-          "internalLevel": 13.6,
+          "internalLevel": 13.8,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
             "tap": 508,
             "hold": 103,
@@ -176227,7 +176227,7 @@
       "id": 1998,
       "title": "WWW",
       "artist": "HIMEHINA",
-      "bpm": null,
+      "bpm": 146,
       "category": "POPS＆アニメ",
       "isLocked": false,
       "charts": [
@@ -176275,7 +176275,7 @@
           "level": "10+",
           "internalLevel": 10.6,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "おそろっちーぬ",
           "noteCounts": {
             "tap": 206,
             "hold": 43,
@@ -176292,9 +176292,9 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13",
-          "internalLevel": 13,
+          "internalLevel": 13.4,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "じゃこレモン",
           "noteCounts": {
             "tap": 402,
             "hold": 24,
@@ -176313,7 +176313,7 @@
       "id": 1999,
       "title": "うたかたよいかないで",
       "artist": "HIMEHINA",
-      "bpm": null,
+      "bpm": 166,
       "category": "POPS＆アニメ",
       "isLocked": false,
       "charts": [
@@ -176361,7 +176361,7 @@
           "level": "10",
           "internalLevel": 10,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
             "tap": 479,
             "hold": 52,
@@ -176378,9 +176378,9 @@
           "type": "dx",
           "difficulty": 3,
           "level": "13",
-          "internalLevel": 13,
+          "internalLevel": 13.2,
           "version": "CiRCLE PLUS",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 548,
             "hold": 39,
