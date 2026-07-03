@@ -64,7 +64,6 @@ export type ChartCompacted = [
     [number, number, number | null, number, number], // noteCounts: [tap, hold, slide, touch, break]
 
     AvailableRegion[],
-    FitDiffDFCompacted | null, // fitDiffDF
 ]
 
 export type VersionCompacted = [

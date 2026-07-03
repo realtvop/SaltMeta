@@ -1,5 +1,4 @@
 import type { ChartCompacted, MusicCompacted, VersionCompacted } from "./compacted";
-import { compactFitDiffDF } from "./compacted";
 import type { Music, Version } from "./normal";
 import type { AvailableRegion } from "./data";
 import { categories } from "./data";
@@ -78,7 +77,6 @@ export function compactMusicMetadata(metadata: MusicMetadata): MusicMetadataComp
                     chart.noteCounts.break,
                 ],
                 chart.availableRegions,
-                chart.fitDiffDF ? compactFitDiffDF(chart.fitDiffDF) : null,
             ];
         });
 

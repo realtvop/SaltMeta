@@ -320,7 +320,6 @@ export function convertNextToLegacy(metadata: MusicMetadataNext): { musics: Musi
                     noteDesigner: chart.noteDesigner,
                     noteCounts: chart.noteCounts,
                     availableRegions,
-                    ...(chart.fitDiffDF ? { fitDiffDF: chart.fitDiffDF } : {}),
                 } satisfies Chart;
             });
 
@@ -358,7 +357,6 @@ export function convertLegacyToNext(metadata: { musics: Music[]; versions: Versi
                     noteDesigner: chart.noteDesigner,
                     noteCounts: chart.noteCounts,
                     regions,
-                    ...(chart.fitDiffDF ? { fitDiffDF: chart.fitDiffDF } : {}),
                 };
             });
 

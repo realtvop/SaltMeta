@@ -28,6 +28,17 @@ export interface FitDiffDF {
     fcDist: number[];
 }
 
+export interface FitDiffDF {
+    cnt: number;
+    diff: string;
+    fitDiff: number;
+    avg: number;
+    avgDx: number;
+    stdDev: number;
+    dist: number[];
+    fcDist: number[];
+}
+
 export interface Chart {
     type: "sd" | "dx" | "utage";
     difficulty: MusicDifficultyID;
@@ -48,8 +59,6 @@ export interface Chart {
 
     availableRegions: AvailableRegion[];
     // isSpecial: boolean;
-
-    fitDiffDF?: FitDiffDF;
 }
 
 export interface Version {

@@ -267,7 +267,7 @@ describe("next metadata", () => {
         });
     });
 
-    test("round-trips fitDiffDF through compacted and legacy conversions", () => {
+    test("round-trips fitDiffDF through compacted next metadata", () => {
         const fitDiffDF = {
             cnt: 1345,
             diff: "12",
@@ -298,9 +298,6 @@ describe("next metadata", () => {
         expect(expanded.musics[0].charts[0].fitDiffDF).toEqual(fitDiffDF);
 
         const legacy = convertNextToLegacy(withFitDiff);
-        expect(legacy.musics[0].charts[0].fitDiffDF).toEqual(fitDiffDF);
-
-        const lifted = convertLegacyToNext(legacy);
-        expect(lifted.musics[0].charts[0].fitDiffDF).toEqual(fitDiffDF);
+        expect((legacy.musics[0].charts[0] as { fitDiffDF?: unknown }).fitDiffDF).toBeUndefined();
     });
 });
