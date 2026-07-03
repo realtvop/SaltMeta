@@ -89,9 +89,9 @@ function convertChart(
 }
 
 async function convertMusic(song: Song, cnChartMetadata: Map<string, ChineseChartMetadata>): Promise<MusicNext> {
-    const id = await matchSongID(song.title) ?? -1;
+    const id = await matchSongID(song) ?? -1;
 
-    return {
+    const music: MusicNext = {
         id,
         title: song.title,
         artist: song.artist,
@@ -101,7 +101,9 @@ async function convertMusic(song: Song, cnChartMetadata: Map<string, ChineseChar
         isLocked: song.isLocked,
 
         charts: song.sheets.map(sheet => convertChart(sheet, id, cnChartMetadata)).filter(chart => Object.values(chart.regions).some(Boolean)),
-    }
+    };
+
+    return song.comment ? { ...music, comment: song.comment } : music;
 }
 
 function convertVersions(versions: VersionOri[]): Version[] {

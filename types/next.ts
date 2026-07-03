@@ -20,6 +20,7 @@ export interface MusicNext {
     aliases?: {
         cn: string[];
     };
+    comment?: string;
 
     category: string;
     isLocked: boolean;
@@ -76,6 +77,7 @@ export type MusicNextCompacted = [
 
     ChartNextCompacted[], // charts
     string[] | null, // aliasesCn
+    string | null, // comment
 ];
 
 export interface MusicMetadataNextCompacted {
@@ -150,6 +152,7 @@ export function compactNextMusicMetadata(metadata: MusicMetadataNext): MusicMeta
     const musics: MusicNextCompacted[] = metadata.musics.map(music => {
         const categoryIndex = categories.indexOf(music.category);
         const aliasesCn = music.aliases?.cn?.length ? music.aliases.cn : null;
+        const comment = music.comment?.length ? music.comment : null;
 
         const charts: ChartNextCompacted[] = music.charts.map(chart => {
             const typeIndex = chart.type === "sd" ? 0 : chart.type === "dx" ? 1 : 2;
@@ -185,6 +188,7 @@ export function compactNextMusicMetadata(metadata: MusicMetadataNext): MusicMeta
             music.isLocked,
             charts,
             aliasesCn,
+            comment,
         ];
     });
 
@@ -204,7 +208,7 @@ export function convertNextCompactedToNormal(compacted: MusicMetadataNextCompact
     }));
 
     const musics: MusicNext[] = compacted.musics.map(compactedMusic => {
-        const [id, title, artist, bpm, categoryIndex, isLocked, chartsCompacted, aliasesCn] = compactedMusic;
+        const [id, title, artist, bpm, categoryIndex, isLocked, chartsCompacted, aliasesCn, comment] = compactedMusic;
 
         if (categoryIndex < 0 || categoryIndex >= categories.length) {
             throw new Error(`Category index ${categoryIndex} not found for music ${id}`);
@@ -272,7 +276,8 @@ export function convertNextCompactedToNormal(compacted: MusicMetadataNextCompact
             isLocked,
             charts,
         };
-        return aliasesCn && aliasesCn.length ? { ...base, aliases: { cn: aliasesCn } } : base;
+        const withAliases = aliasesCn && aliasesCn.length ? { ...base, aliases: { cn: aliasesCn } } : base;
+        return comment ? { ...withAliases, comment } : withAliases;
     });
 
     return { musics, versions };
