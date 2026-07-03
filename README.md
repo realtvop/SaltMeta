@@ -60,6 +60,7 @@ Use the prebuilt IIFE bundle (global name `MaimaiMetadata`).
     - [MusicNext](#musicnext)
     - [ChartNext](#chartnext)
     - [ChartRegionData](#chartregiondata)
+    - [FitDiffDF](#fitdiffdf)
   - [Compacted Format](#compacted-format)
     - [MusicCompacted](#musiccompacted)
     - [ChartCompacted](#chartcompacted)
@@ -254,6 +255,7 @@ interface ChartNext {
         total: number;
     };
     regions: Partial<Record<AvailableRegion, ChartRegionData | null>>;
+    fitDiffDF?: FitDiffDF; // Fitted difficulty statistics from diving-fish chart_stats (next format only)
 }
 ```
 
@@ -270,6 +272,23 @@ interface ChartRegionData {
 ```
 
 `version` is usually a version name string. China (`cn`) may use a numeric version year, matching the legacy `regionVersionOverride.cn` behavior.
+
+#### FitDiffDF
+
+Per-chart fitted difficulty statistics sourced from the [diving-fish `/chart_stats`](https://www.diving-fish.com/api/maimaidxprober/chart_stats) endpoint. Only present on the next format; legacy charts do not include this field. Field names are converted from the diving-fish snake_case response to camelCase.
+
+```typescript
+interface FitDiffDF {
+    cnt: number;      // Sample count
+    diff: string;     // Official difficulty label, e.g. "14+"
+    fitDiff: number;  // Fitted difficulty value
+    avg: number;      // Average achievement rate
+    avgDx: number;     // Average DX score
+    stdDev: number;    // Standard deviation of achievement rate
+    dist: number[];    // Rating distribution: d, c, b, bb, bbb, a, aa, aaa, s, sp, ss, ssp, sss, sssp
+    fcDist: number[];  // Full Combo distribution: none, fc, fcp, ap, app
+}
+```
 
 ### Compacted Format
 
@@ -334,6 +353,22 @@ type ChartNextCompacted = [
     [AvailableRegion, string, number, number | ["raw", string | number]][], // 2. regions: [region, level, internalLevel, versionRef]
     string, // 3. noteDesigner
     [number, number, number | null, number, number], // 4. noteCounts: [tap, hold, slide, touch, break]
+    FitDiffDFCompacted | null, // 5. fitDiffDF: null when diving-fish has no stats for this chart
+]
+```
+
+#### FitDiffDFCompacted
+
+```typescript
+type FitDiffDFCompacted = [
+    number, // 0. cnt
+    string, // 1. diff
+    number, // 2. fitDiff
+    number, // 3. avg
+    number, // 4. avgDx
+    number, // 5. stdDev
+    number[], // 6. dist
+    number[], // 7. fcDist
 ]
 ```
 

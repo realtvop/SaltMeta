@@ -22,6 +22,7 @@ maimai DX 歌曲元数据和封面图片。
     - [MusicNext](#musicnext)
     - [ChartNext](#chartnext)
     - [ChartRegionData](#chartregiondata)
+    - [FitDiffDF](#fitdiffdf)
   - [压缩格式](#压缩格式)
     - [MusicCompacted](#musiccompacted)
     - [ChartCompacted](#chartcompacted)
@@ -216,6 +217,7 @@ interface ChartNext {
         total: number;
     };
     regions: Partial<Record<AvailableRegion, ChartRegionData | null>>;
+    fitDiffDF?: FitDiffDF; // 来自 diving-fish chart_stats 的拟合难度统计（仅 next 格式）
 }
 ```
 
@@ -232,6 +234,23 @@ interface ChartRegionData {
 ```
 
 `version` 通常是版本名字符串。国服 (`cn`) 可以使用数字年份，语义与旧格式的 `regionVersionOverride.cn` 一致。
+
+#### FitDiffDF
+
+每个谱面的拟合难度统计数据，来源于 diving-fish 的 [`/chart_stats`](https://www.diving-fish.com/api/maimaidxprober/chart_stats) 接口。仅 next 格式会携带该字段，旧格式谱面不包含。字段名由 diving-fish 返回的 snake_case 转为 camelCase。
+
+```typescript
+interface FitDiffDF {
+    cnt: number;      // 样本数量
+    diff: string;     // 官标难度等级，如 "14+"
+    fitDiff: number;  // 拟合难度
+    avg: number;      // 平均达成率
+    avgDx: number;     // 平均 DX 分数
+    stdDev: number;    // 达成率标准差
+    dist: number[];    // 评级分布：d, c, b, bb, bbb, a, aa, aaa, s, sp, ss, ssp, sss, sssp
+    fcDist: number[];  // Full Combo 分布：非、fc、fcp、ap、app
+}
+```
 
 ### 压缩格式
 
@@ -296,6 +315,22 @@ type ChartNextCompacted = [
     [AvailableRegion, string, number, number | ["raw", string | number]][], // 2. 地区: [region, level, internalLevel, versionRef]
     string, // 3. 谱面设计者
     [number, number, number | null, number, number], // 4. 物量: [tap, hold, slide, touch, break]
+    FitDiffDFCompacted | null, // 5. fitDiffDF: 当 diving-fish 没有该谱面数据时为 null
+]
+```
+
+#### FitDiffDFCompacted
+
+```typescript
+type FitDiffDFCompacted = [
+    number, // 0. cnt
+    string, // 1. diff
+    number, // 2. fitDiff
+    number, // 3. avg
+    number, // 4. avgDx
+    number, // 5. stdDev
+    number[], // 6. dist
+    number[], // 7. fcDist
 ]
 ```
 
