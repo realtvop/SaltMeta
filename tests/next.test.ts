@@ -31,6 +31,7 @@ const fixture: MusicMetadataNext = {
             bpm: 180,
             category: "maimai",
             isLocked: false,
+            comment: "Utage-only fixture comment",
             charts: [
                 {
                     type: "dx",
@@ -94,6 +95,17 @@ describe("next metadata", () => {
             version: 2027,
         });
         expect(expanded.musics[0].charts[0].regions.us).toBeUndefined();
+        expect(expanded.musics[0].comment).toBe("Utage-only fixture comment");
+    });
+
+    test("reads next compacted metadata without the optional comment slot", () => {
+        const compacted = compactNextMusicMetadata(fixture);
+        const oldCompacted = {
+            ...compacted,
+            musics: compacted.musics.map(music => music.slice(0, 8)),
+        };
+
+        expect(convertNextCompactedToNormal(oldCompacted).musics[0].comment).toBeUndefined();
     });
 
     test("keeps raw numeric and unknown string versions unambiguous", () => {
