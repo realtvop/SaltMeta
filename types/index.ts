@@ -2,9 +2,27 @@ import type { ChartCompacted, MusicCompacted, VersionCompacted } from "./compact
 import type { Music, Version } from "./normal";
 import type { AvailableRegion } from "./data";
 import { categories } from "./data";
+export {
+    compactNextMusicMetadata,
+    convertLegacyToNext,
+    convertNextCompactedToNormal,
+    convertNextToLegacy,
+} from "./next";
 
 export type { Music, Chart, Version } from "./normal";
 export type { MusicCompacted, ChartCompacted, VersionCompacted } from "./compacted";
+export type {
+    ChartNext,
+    ChartNextCompacted,
+    ChartRegionCompacted,
+    ChartRegionData,
+    ChartRegions,
+    MusicMetadataNext,
+    MusicMetadataNextCompacted,
+    MusicNext,
+    MusicNextCompacted,
+    VersionReferenceCompacted,
+} from "./next";
 export type { AvailableRegion, MusicDifficultyID } from "./data";
 
 export { categories } from "./data";

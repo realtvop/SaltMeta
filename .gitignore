@@ -1,3 +1,4 @@
 dist/
 node_modules/
 maimai_music_metadata-*.tgz
+.DS_Store

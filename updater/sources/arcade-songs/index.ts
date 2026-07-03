@@ -1,7 +1,7 @@
-import type { Music, Version } from "../../../types";
+import type { MusicMetadataNext } from "../../../types";
 import { convertArcadeSongsData } from "./converter";
 import type { ArcadeSongsData } from "./types";
-import { fetchChineseChartVersions } from "../cn-version";
+import { fetchLxnsData } from "../lxns";
 
 const DATA_URL = "https://dp4p6x0xfi5o9.cloudfront.net/maimai/data.json";
 
@@ -11,14 +11,8 @@ async function fetchArcadeSongsData(): Promise<ArcadeSongsData> {
     return data;
 }
 
-export function getArcadeSongsData(): Promise<{
-    musics: Music[];
-    versions: Version[];
-}> {
-    return Promise.all([
-        fetchArcadeSongsData(),
-        fetchChineseChartVersions(),
-    ]).then(([arcadeData, cnVersionMap]) =>
-        convertArcadeSongsData(arcadeData, cnVersionMap),
+export function getArcadeSongsData(): Promise<MusicMetadataNext> {
+    return fetchArcadeSongsData().then(async arcadeData =>
+        convertArcadeSongsData(arcadeData, await fetchLxnsData(arcadeData.versions)),
     );
 }

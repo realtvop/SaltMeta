@@ -18,13 +18,16 @@
     "dist",
     "types",
     "meta.compacted.json",
-    "meta.json"
+    "meta.json",
+    "meta.next.compacted.json",
+    "meta.next.json",
+    "meta.next.unformatted.json"
   ],
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
     "prepare": "npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "bun test"
   },
   "sideEffects": false,
   "repository": {

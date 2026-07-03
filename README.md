@@ -23,6 +23,9 @@ const normal = convertCompactedToNormal(compactedPayload);
 
 // Convert back to the compacted representation when you need to save bandwidth
 const compacted = compactMusicMetadata(normal);
+
+// Opt in to the next metadata shape with per-region chart data
+const nextMetadata = await loadFullMetadata({ format: "next" });
 ```
 
 ### Browser `<script>` tag
@@ -44,6 +47,8 @@ Use the prebuilt IIFE bundle (global name `MaimaiMetadata`).
 - [File Types](#file-types)
   - [meta.json / meta.unformatted.json](#metajson--metaunformattedjson)
   - [meta.compacted.json](#metacompactedjson)
+  - [meta.next.json / meta.next.unformatted.json](#metanextjson--metanextunformattedjson)
+  - [meta.next.compacted.json](#metanextcompactedjson)
 - [Cover Images](#cover-images)
 - [Data Structure](#data-structure)
   - [Enums & Constants](#enums--constants)
@@ -51,6 +56,10 @@ Use the prebuilt IIFE bundle (global name `MaimaiMetadata`).
     - [Music](#music)
     - [Chart](#chart)
     - [Version](#version)
+  - [Next Normal Format](#next-normal-format)
+    - [MusicNext](#musicnext)
+    - [ChartNext](#chartnext)
+    - [ChartRegionData](#chartregiondata)
   - [Compacted Format](#compacted-format)
     - [MusicCompacted](#musiccompacted)
     - [ChartCompacted](#chartcompacted)
@@ -76,6 +85,30 @@ URL: `https://meta.salt.realtvop.top/meta.compacted.json`
 ```typescript
 export interface MusicMetadataCompacted {
     musics: MusicCompacted[];
+    versions: VersionCompacted[];
+}
+```
+
+### meta.next.json / meta.next.unformatted.json
+
+URL: `https://meta.salt.realtvop.top/meta.next.json` `https://meta.salt.realtvop.top/meta.next.unformatted.json`
+
+These files use the next format. Each chart stores region-specific `level`, `internalLevel`, and `version`. The npm loader uses the legacy compacted URL by default; pass `{ format: "next" }` to load this shape.
+
+```typescript
+export interface MusicMetadataNext {
+    musics: MusicNext[];
+    versions: Version[];
+}
+```
+
+### meta.next.compacted.json
+
+URL: `https://meta.salt.realtvop.top/meta.next.compacted.json`
+
+```typescript
+export interface MusicMetadataNextCompacted {
+    musics: MusicNextCompacted[];
     versions: VersionCompacted[];
 }
 ```
@@ -184,6 +217,60 @@ interface Version {
 }
 ```
 
+### Next Normal Format
+
+Corresponds to `meta.next.json` and `meta.next.unformatted.json`.
+
+#### MusicNext
+
+```typescript
+interface MusicNext {
+    id: number;
+    title: string;
+    artist: string;
+    bpm: number;
+    aliases?: {
+        cn: string[];
+    };
+    category: string;
+    isLocked: boolean;
+    charts: ChartNext[];
+}
+```
+
+#### ChartNext
+
+```typescript
+interface ChartNext {
+    type: "sd" | "dx" | "utage";
+    difficulty: MusicDifficultyID;
+    noteDesigner: string;
+    noteCounts: {
+        tap: number;
+        hold: number;
+        slide: number;
+        touch: number | null;
+        break: number;
+        total: number;
+    };
+    regions: Partial<Record<AvailableRegion, ChartRegionData | null>>;
+}
+```
+
+Generated next files omit unavailable regions. Consumers may treat a missing region or an explicit `null` value as unavailable.
+
+#### ChartRegionData
+
+```typescript
+interface ChartRegionData {
+    level: string;
+    internalLevel: number;
+    version: string | number;
+}
+```
+
+`version` is usually a version name string. China (`cn`) may use a numeric version year, matching the legacy `regionVersionOverride.cn` behavior.
+
 ### Compacted Format
 
 Corresponds to `meta.compacted.json`. Uses arrays to store data for smaller file size.
@@ -222,6 +309,35 @@ type ChartCompacted = [
     AvailableRegion[], // 8. availableRegions
 ]
 ```
+
+#### MusicNextCompacted
+
+```typescript
+type MusicNextCompacted = [
+    number, // 0. id
+    string, // 1. title
+    string, // 2. artist
+    number, // 3. bpm
+    number, // 4. categoryIndex
+    boolean, // 5. isLocked
+    ChartNextCompacted[], // 6. charts
+    string[] | null, // 7. aliasesCn
+]
+```
+
+#### ChartNextCompacted
+
+```typescript
+type ChartNextCompacted = [
+    number, // 0. type: 0=sd, 1=dx, 2=utage
+    MusicDifficultyID, // 1. difficulty
+    [AvailableRegion, string, number, number | ["raw", string | number]][], // 2. regions: [region, level, internalLevel, versionRef]
+    string, // 3. noteDesigner
+    [number, number, number | null, number, number], // 4. noteCounts: [tap, hold, slide, touch, break]
+]
+```
+
+In next compacted data, `versionRef` is a version index when it is a number. Raw numeric versions and unknown version strings are stored as `["raw", value]` to avoid ambiguity.
 
 #### VersionCompacted
 

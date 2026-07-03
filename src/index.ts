@@ -1,15 +1,32 @@
-import { categories, compactMusicMetadata } from "../types";
+import {
+    categories,
+    compactMusicMetadata,
+    compactNextMusicMetadata,
+    convertLegacyToNext,
+    convertNextCompactedToNormal,
+    convertNextToLegacy,
+} from "../types";
 import type {
     AvailableRegion,
     Chart,
     ChartCompacted,
+    ChartNext,
+    ChartNextCompacted,
+    ChartRegionCompacted,
+    ChartRegionData,
+    ChartRegions,
     Music,
     MusicCompacted,
     MusicDifficultyID,
     MusicMetadata,
     MusicMetadataCompacted,
+    MusicMetadataNext,
+    MusicMetadataNextCompacted,
+    MusicNext,
+    MusicNextCompacted,
     Version,
     VersionCompacted,
+    VersionReferenceCompacted,
 } from "../types";
 
 const typeIndexToName = ["sd", "dx", "utage"] as const;
@@ -121,28 +138,71 @@ export function convertCompactedToNormal(compacted: MusicMetadataCompacted): Mus
     return { musics, versions };
 }
 
+type LoadFullMetadataOptions =
+    | {
+        format?: "legacy";
+        url?: string;
+    }
+    | {
+        format: "next";
+        url?: string;
+    };
+
+export function loadFullMetadata(url?: string): Promise<MusicMetadata>;
+export function loadFullMetadata(options: { format: "legacy"; url?: string }): Promise<MusicMetadata>;
+export function loadFullMetadata(options: { format: "next"; url?: string }): Promise<MusicMetadataNext>;
 export async function loadFullMetadata(
-    url = "https://meta.salt.realtvop.top/meta.compacted.json",
-): Promise<MusicMetadata> {
+    options: string | LoadFullMetadataOptions = {},
+): Promise<MusicMetadata | MusicMetadataNext> {
+    const normalizedOptions = typeof options === "string" ? { format: "legacy" as const, url: options } : options;
+    const format = normalizedOptions.format ?? "legacy";
+    const url = normalizedOptions.url ?? (
+        format === "next"
+            ? "https://meta.salt.realtvop.top/meta.next.compacted.json"
+            : "https://meta.salt.realtvop.top/meta.compacted.json"
+    );
+
     const response = await fetch(url);
     if (!response.ok) {
         throw new Error(`Failed to load compacted metadata: ${response.status} ${response.statusText}`);
+    }
+
+    if (format === "next") {
+        const compacted = (await response.json()) as MusicMetadataNextCompacted;
+        return convertNextCompactedToNormal(compacted);
     }
 
     const compacted = (await response.json()) as MusicMetadataCompacted;
     return convertCompactedToNormal(compacted);
 }
 
-export { compactMusicMetadata, categories };
+export {
+    compactMusicMetadata,
+    compactNextMusicMetadata,
+    convertLegacyToNext,
+    convertNextCompactedToNormal,
+    convertNextToLegacy,
+    categories,
+};
 export type {
     AvailableRegion,
     Chart,
     ChartCompacted,
+    ChartNext,
+    ChartNextCompacted,
+    ChartRegionCompacted,
+    ChartRegionData,
+    ChartRegions,
     Music,
     MusicCompacted,
     MusicDifficultyID,
     MusicMetadata,
     MusicMetadataCompacted,
+    MusicMetadataNext,
+    MusicMetadataNextCompacted,
+    MusicNext,
+    MusicNextCompacted,
     Version,
     VersionCompacted,
+    VersionReferenceCompacted,
 };

@@ -1,60 +1,103 @@
-import type { Chart, Music, Version } from "../../../types";
+import type { AvailableRegion, ChartNext, MusicMetadataNext, MusicNext, Version } from "../../../types";
 import { matchSongID } from "../songid";
+import { createChineseChartMetadataKey, type ChineseChartMetadata } from "../lxns";
 import type { ArcadeSongsData, Sheet, Song, Version as VersionOri } from "./types";
+
+interface LxnsDataMaps {
+    chartMetadata: Map<string, ChineseChartMetadata>;
+    versionOverrides: Map<string, number>;
+}
 
 export async function convertArcadeSongsData(
     data: ArcadeSongsData,
-    cnVersionMap: Map<string, number>,
-): Promise<{
-    musics: Music[];
-    versions: Version[];
-}> {
+    lxnsData: LxnsDataMaps,
+): Promise<MusicMetadataNext> {
     return {
-        musics: (await Promise.all(data.songs.map(song => convertMusic(song, cnVersionMap)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
-        versions: convertVersions(data.versions),
+        musics: (await Promise.all(data.songs.map(song => convertMusic(song, lxnsData.chartMetadata)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
+        versions: convertVersions(data.versions, lxnsData.versionOverrides),
     };
 }
 
-function convertChart(sheet: Sheet, cnVersion: number | null): Chart {
-    const difficulty = ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
+function normalizeRegion(region: string): AvailableRegion {
+    return (region === "usa" ? "us" : region) as AvailableRegion;
+}
+
+function getBaseLevel(sheet: Sheet): string {
+    return getDifficulty(sheet) == -1 ? sheet.difficulty : sheet.level;
+}
+
+function getDifficulty(sheet: Sheet): number {
+    return ["basic", "advanced", "expert", "master", "remaster"].indexOf(sheet.difficulty);
+}
+
+function getChartType(sheet: Sheet): ChartNext["type"] {
+    return sheet.type.replace("std", "sd") as ChartNext["type"];
+}
+
+function getRegionOverride(sheet: Sheet, region: AvailableRegion): Partial<{
+    level: string;
+    internalLevel: number;
+    internalLevelValue: number;
+    version: string | number;
+}> {
+    const sourceRegion = region === "us" ? "usa" : region;
+    return (sheet.regionOverrides as Record<string, unknown> | undefined)?.[sourceRegion] as Partial<{
+        level: string;
+        internalLevel: number;
+        internalLevelValue: number;
+        version: string | number;
+    }> | undefined ?? {};
+}
+
+function convertChart(
+    sheet: Sheet,
+    musicId: number,
+    cnChartMetadata: Map<string, ChineseChartMetadata>,
+): ChartNext {
+    const difficulty = getDifficulty(sheet);
+    const chartType = getChartType(sheet);
+    const difficultyId = difficulty == -1 ? 10 : difficulty;
+    const baseLevel = getBaseLevel(sheet);
+    const baseInternalLevel = sheet.internalLevelValue;
     const baseVersion = sheet.version;
 
-    const availableRegions = Object.entries(sheet.regions)
-        .filter(([, available]) => available)
-        .map(([region]) => region === "usa" ? "us" : region) as Chart["availableRegions"]; // normalize region key
+    const regions: ChartNext["regions"] = {};
 
-    const regionVersionOverride: Chart["regionVersionOverride"] = {};
+    for (const [regionRaw, available] of Object.entries(sheet.regions)) {
+        if (!available) continue;
 
-    const intlOverride = sheet.regionOverrides?.intl?.version;
-    if (intlOverride && intlOverride !== baseVersion && availableRegions.includes("intl")) {
-        regionVersionOverride.intl = intlOverride;
+        const region = normalizeRegion(regionRaw);
+        const override = getRegionOverride(sheet, region);
+        regions[region] = {
+            level: override.level ?? baseLevel,
+            internalLevel: override.internalLevelValue ?? override.internalLevel ?? baseInternalLevel,
+            version: override.version ?? baseVersion,
+        };
     }
 
-    if (cnVersion !== null && cnVersion !== -1) {
-        regionVersionOverride.cn = cnVersion;
-        if (!availableRegions.includes("cn")) availableRegions.push("cn");
+    const cnMetadata = cnChartMetadata.get(createChineseChartMetadataKey(musicId, chartType, difficultyId));
+    if (cnMetadata) {
+        regions.cn = {
+            level: cnMetadata.level,
+            internalLevel: cnMetadata.internalLevel,
+            version: cnMetadata.version,
+        };
     }
 
     return {
-        type: sheet.type.replace("std", "sd") as Chart["type"],
-        difficulty: difficulty == -1 ? 10 : difficulty,
-        level: difficulty == -1 ? sheet.difficulty : sheet.level,
-        internalLevel: sheet.internalLevelValue,
-        version: baseVersion,
-        regionVersionOverride: Object.keys(regionVersionOverride).length ? regionVersionOverride : undefined,
-
+        type: chartType,
+        difficulty: difficultyId,
         noteDesigner: sheet.noteDesigner,
         noteCounts: sheet.noteCounts,
-
-        availableRegions,
+        regions,
     };
 }
 
-async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Promise<Music> {
-    const cnVersion = cnVersionMap.get(song.title.trim()) ?? null;
+async function convertMusic(song: Song, cnChartMetadata: Map<string, ChineseChartMetadata>): Promise<MusicNext> {
+    const id = await matchSongID(song) ?? -1;
 
-    return {
-        id: await matchSongID(song.title) ?? -1,
+    const music: MusicNext = {
+        id,
         title: song.title,
         artist: song.artist,
         bpm: song.bpm,
@@ -62,18 +105,20 @@ async function convertMusic(song: Song, cnVersionMap: Map<string, number>): Prom
         category: song.category,
         isLocked: song.isLocked,
 
-        charts: song.sheets.map(sheet => convertChart(sheet, cnVersion)).filter(chart => chart.availableRegions.length),
-    }
+        charts: song.sheets.map(sheet => convertChart(sheet, id, cnChartMetadata)).filter(chart => Object.values(chart.regions).some(Boolean)),
+    };
+
+    return song.comment ? { ...music, comment: song.comment } : music;
 }
 
-function convertVersions(versions: VersionOri[]): Version[] {
+function convertVersions(versions: VersionOri[], cnVersionOverrides: Map<string, number>): Version[] {
     const data = [];
     for (const version of versions) {
         data.push({
             version: version.version,
             word: version.abbr.match(/\((.*?)\)/)?.[1] ?? "",
             releaseDate: version.releaseDate,
-            cnVerOverride: null,
+            cnVerOverride: cnVersionOverrides.get(version.version) ?? null,
         });
     }
     return data;

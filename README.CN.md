@@ -9,6 +9,8 @@ maimai DX 歌曲元数据和封面图片。
 - [文件类型](#文件类型)
   - [meta.json / meta.unformatted.json](#metajson--metaunformattedjson)
   - [meta.compacted.json](#metacompactedjson)
+  - [meta.next.json / meta.next.unformatted.json](#metanextjson--metanextunformattedjson)
+  - [meta.next.compacted.json](#metanextcompactedjson)
 - [封面图片](#封面图片)
 - [数据结构](#数据结构)
   - [枚举与常量](#枚举与常量)
@@ -16,6 +18,10 @@ maimai DX 歌曲元数据和封面图片。
     - [Music](#music)
     - [Chart](#chart)
     - [Version](#version)
+  - [Next 普通格式](#next-普通格式)
+    - [MusicNext](#musicnext)
+    - [ChartNext](#chartnext)
+    - [ChartRegionData](#chartregiondata)
   - [压缩格式](#压缩格式)
     - [MusicCompacted](#musiccompacted)
     - [ChartCompacted](#chartcompacted)
@@ -41,6 +47,30 @@ URL: `https://meta.salt.realtvop.top/meta.compacted.json`
 ```typescript
 export interface MusicMetadataCompacted {
     musics: MusicCompacted[];
+    versions: VersionCompacted[];
+}
+```
+
+### meta.next.json / meta.next.unformatted.json
+
+URL: `https://meta.salt.realtvop.top/meta.next.json` `https://meta.salt.realtvop.top/meta.next.unformatted.json`
+
+这些文件使用 next 格式。每个谱面都可以为每个地区保存不同的 `level`、`internalLevel` 和 `version`。npm 加载器默认仍然使用旧的压缩 URL；传入 `{ format: "next" }` 才会加载 next 结构。
+
+```typescript
+export interface MusicMetadataNext {
+    musics: MusicNext[];
+    versions: Version[];
+}
+```
+
+### meta.next.compacted.json
+
+URL: `https://meta.salt.realtvop.top/meta.next.compacted.json`
+
+```typescript
+export interface MusicMetadataNextCompacted {
+    musics: MusicNextCompacted[];
     versions: VersionCompacted[];
 }
 ```
@@ -149,6 +179,60 @@ interface Version {
 }
 ```
 
+### Next 普通格式
+
+对应 `meta.next.json` 和 `meta.next.unformatted.json`。
+
+#### MusicNext
+
+```typescript
+interface MusicNext {
+    id: number;
+    title: string;
+    artist: string;
+    bpm: number;
+    aliases?: {
+        cn: string[];
+    };
+    category: string;
+    isLocked: boolean;
+    charts: ChartNext[];
+}
+```
+
+#### ChartNext
+
+```typescript
+interface ChartNext {
+    type: "sd" | "dx" | "utage";
+    difficulty: MusicDifficultyID;
+    noteDesigner: string;
+    noteCounts: {
+        tap: number;
+        hold: number;
+        slide: number;
+        touch: number | null;
+        break: number;
+        total: number;
+    };
+    regions: Partial<Record<AvailableRegion, ChartRegionData | null>>;
+}
+```
+
+生成出的 next 文件会省略不可用地区。消费方可以把缺失地区或显式 `null` 都视为不可用。
+
+#### ChartRegionData
+
+```typescript
+interface ChartRegionData {
+    level: string;
+    internalLevel: number;
+    version: string | number;
+}
+```
+
+`version` 通常是版本名字符串。国服 (`cn`) 可以使用数字年份，语义与旧格式的 `regionVersionOverride.cn` 一致。
+
 ### 压缩格式
 
 对应 `meta.compacted.json`。为了减小文件体积，使用数组存储数据。
@@ -187,6 +271,35 @@ type ChartCompacted = [
     AvailableRegion[], // 8. 可用区域
 ]
 ```
+
+#### MusicNextCompacted
+
+```typescript
+type MusicNextCompacted = [
+    number, // 0. id
+    string, // 1. 标题
+    string, // 2. 艺术家
+    number, // 3. bpm
+    number, // 4. 分类索引
+    boolean, // 5. 是否锁定
+    ChartNextCompacted[], // 6. 谱面列表
+    string[] | null, // 7. 中文别名
+]
+```
+
+#### ChartNextCompacted
+
+```typescript
+type ChartNextCompacted = [
+    number, // 0. 类型: 0=sd, 1=dx, 2=utage
+    MusicDifficultyID, // 1. 难度
+    [AvailableRegion, string, number, number | ["raw", string | number]][], // 2. 地区: [region, level, internalLevel, versionRef]
+    string, // 3. 谱面设计者
+    [number, number, number | null, number, number], // 4. 物量: [tap, hold, slide, touch, break]
+]
+```
+
+在 next 压缩数据中，`versionRef` 为数字时表示版本索引。原始数字版本和无法匹配版本表的字符串会保存为 `["raw", value]`，避免与版本索引产生歧义。
 
 #### VersionCompacted
 
