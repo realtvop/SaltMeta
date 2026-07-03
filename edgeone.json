@@ -1,0 +1,28 @@
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://github.com/realtvop/maimai_music_metadata",
+            "statusCode": 301
+        }
+    ],
+    "headers": [
+        {
+            "source": "/(.*)",
+            "headers": [
+                {
+                    "key": "Access-Control-Allow-Origin",
+                    "value": "*"
+                },
+                {
+                    "key": "Access-Control-Allow-Methods",
+                    "value": "GET, OPTIONS"
+                },
+                {
+                    "key": "Access-Control-Allow-Headers",
+                    "value": "X-Requested-With, Content-Type, Accept, Authorization"
+                }
+            ]
+        }
+    ]
+}
