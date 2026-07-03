@@ -5,6 +5,7 @@ import {
     convertLegacyToNext,
     convertNextCompactedToNormal,
     convertNextToLegacy,
+    NEXT_COMPACTED_VERSION,
 } from "../types";
 import type {
     AvailableRegion,
@@ -183,6 +184,7 @@ export {
     convertNextCompactedToNormal,
     convertNextToLegacy,
     categories,
+    NEXT_COMPACTED_VERSION,
 };
 export type {
     AvailableRegion,

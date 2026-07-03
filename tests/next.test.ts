@@ -300,4 +300,19 @@ describe("next metadata", () => {
         const legacy = convertNextToLegacy(withFitDiff);
         expect((legacy.musics[0].charts[0] as { fitDiffDF?: unknown }).fitDiffDF).toBeUndefined();
     });
+
+    test("throws an error when version is mismatched or missing", () => {
+        const compacted = compactNextMusicMetadata(fixture);
+        const invalidCompacted = {
+            ...compacted,
+            version: 999,
+        };
+        expect(() => convertNextCompactedToNormal(invalidCompacted as any)).toThrow(/Version mismatch/);
+
+        const missingVersionCompacted = {
+            ...compacted,
+        };
+        delete (missingVersionCompacted as any).version;
+        expect(() => convertNextCompactedToNormal(missingVersionCompacted as any)).toThrow();
+    });
 });

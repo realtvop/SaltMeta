@@ -7,6 +7,7 @@ export {
     convertLegacyToNext,
     convertNextCompactedToNormal,
     convertNextToLegacy,
+    NEXT_COMPACTED_VERSION,
 } from "./next";
 
 export type { Music, Chart, FitDiffDF, Version } from "./normal";

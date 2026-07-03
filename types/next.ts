@@ -82,7 +82,10 @@ export type MusicNextCompacted = [
     string | null, // comment
 ];
 
+export const NEXT_COMPACTED_VERSION = 1;
+
 export interface MusicMetadataNextCompacted {
+    version: number;
     musics: MusicNextCompacted[];
     versions: VersionCompacted[];
 }
@@ -195,12 +198,16 @@ export function compactNextMusicMetadata(metadata: MusicMetadataNext): MusicMeta
         ];
     });
 
-    return { musics, versions };
+    return { version: NEXT_COMPACTED_VERSION, musics, versions };
 }
 
 export function convertNextCompactedToNormal(compacted: MusicMetadataNextCompacted): MusicMetadataNext {
     if (!compacted || !Array.isArray(compacted.musics) || !Array.isArray(compacted.versions)) {
         throw new Error("Invalid next compacted metadata payload");
+    }
+
+    if (compacted.version !== NEXT_COMPACTED_VERSION) {
+        throw new Error(`Version mismatch. Expected: ${NEXT_COMPACTED_VERSION}, Got: ${compacted.version}`);
     }
 
     const versions = compacted.versions.map(([version, word, releaseDate, cnVerOverride]) => ({
