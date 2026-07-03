@@ -1,15 +1,20 @@
 import type { AvailableRegion, ChartNext, MusicMetadataNext, MusicNext, Version } from "../../../types";
 import { matchSongID } from "../songid";
-import { createChineseChartMetadataKey, type ChineseChartMetadata } from "../diving-fish";
+import { createChineseChartMetadataKey, type ChineseChartMetadata } from "../lxns";
 import type { ArcadeSongsData, Sheet, Song, Version as VersionOri } from "./types";
+
+interface LxnsDataMaps {
+    chartMetadata: Map<string, ChineseChartMetadata>;
+    versionOverrides: Map<string, number>;
+}
 
 export async function convertArcadeSongsData(
     data: ArcadeSongsData,
-    cnChartMetadata: Map<string, ChineseChartMetadata>,
+    lxnsData: LxnsDataMaps,
 ): Promise<MusicMetadataNext> {
     return {
-        musics: (await Promise.all(data.songs.map(song => convertMusic(song, cnChartMetadata)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
-        versions: convertVersions(data.versions),
+        musics: (await Promise.all(data.songs.map(song => convertMusic(song, lxnsData.chartMetadata)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
+        versions: convertVersions(data.versions, lxnsData.versionOverrides),
     };
 }
 
@@ -106,14 +111,14 @@ async function convertMusic(song: Song, cnChartMetadata: Map<string, ChineseChar
     return song.comment ? { ...music, comment: song.comment } : music;
 }
 
-function convertVersions(versions: VersionOri[]): Version[] {
+function convertVersions(versions: VersionOri[], cnVersionOverrides: Map<string, number>): Version[] {
     const data = [];
     for (const version of versions) {
         data.push({
             version: version.version,
             word: version.abbr.match(/\((.*?)\)/)?.[1] ?? "",
             releaseDate: version.releaseDate,
-            cnVerOverride: null,
+            cnVerOverride: cnVersionOverrides.get(version.version) ?? null,
         });
     }
     return data;

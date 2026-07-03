@@ -6,7 +6,7 @@ import {
     convertNextToLegacy,
     type MusicMetadataNext,
 } from "../types";
-import { createChineseChartMetadataKey } from "../updater/sources/diving-fish";
+import { createChineseChartMetadataKey, convertLxnsSongList } from "../updater/sources/lxns";
 
 const fixture: MusicMetadataNext = {
     versions: [
@@ -73,6 +73,66 @@ describe("next metadata", () => {
     test("uses stable keys for Chinese per-chart metadata", () => {
         expect(createChineseChartMetadataKey(8, "sd", 3)).toBe("8:sd:3");
         expect(createChineseChartMetadataKey(100517, "utage", 10)).toBe("100517:utage:10");
+    });
+
+    test("converts LXNS song list data to Chinese per-chart metadata", () => {
+        const arcadeVersions = Array.from({ length: 17 }, (_, index) => ({
+            version: index === 15 ? "Splash" : index === 16 ? "Splash PLUS" : `Version ${index}`,
+            word: "",
+            releaseDate: "2026-01-01",
+            cnVerOverride: null,
+        }));
+        const converted = convertLxnsSongList({
+            versions: [
+                { id: 21, title: "舞萌DX 2024", version: 24000 },
+                { id: 23, title: "舞萌DX 2025", version: 25000 },
+            ],
+            songs: [
+                {
+                    id: 100517,
+                    difficulties: {
+                        utage: [
+                            {
+                                type: "utage",
+                                difficulty: 0,
+                                level: "13+?",
+                                level_value: 13.7,
+                                version: 24000,
+                            },
+                        ],
+                    },
+                },
+                {
+                    id: 10517,
+                    difficulties: {
+                        dx: [
+                            {
+                                type: "dx",
+                                difficulty: 3,
+                                level: "12+",
+                                level_value: 12.8,
+                                version: 25000,
+                            },
+                        ],
+                    },
+                },
+            ],
+        }, arcadeVersions);
+
+        expect(converted.chartMetadata.get("100517:utage:10")).toEqual({
+            level: "13+?",
+            internalLevel: 13.7,
+            version: "舞萌DX 2024",
+        });
+        expect(converted.chartMetadata.get("517:dx:3")).toEqual({
+            level: "12+",
+            internalLevel: 12.8,
+            version: "舞萌DX 2025",
+        });
+        expect(converted.versionOverrides).toEqual(new Map([
+            ["Splash", 2024],
+            ["Splash PLUS", 2024],
+        ]));
     });
 
     test("round-trips per-region chart data through compacted format", () => {
