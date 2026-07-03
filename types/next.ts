@@ -1,7 +1,7 @@
 import type { AvailableRegion, MusicDifficultyID } from "./data";
 import { categories } from "./data";
-import type { Chart, Music, Version } from "./normal";
-import type { VersionCompacted } from "./compacted";
+import type { Chart, FitDiffDF, Music, Version } from "./normal";
+import { compactFitDiffDF, expandFitDiffDF, type FitDiffDFCompacted, type VersionCompacted } from "./compacted";
 
 export interface ChartRegionData {
     level: string;
@@ -41,6 +41,7 @@ export interface ChartNext {
         total: number;
     };
     regions: ChartRegions;
+    fitDiffDF?: FitDiffDF;
 }
 
 export interface MusicMetadataNext {
@@ -64,6 +65,7 @@ export type ChartNextCompacted = [
 
     string, // noteDesigner
     [number, number, number | null, number, number], // noteCounts: [tap, hold, slide, touch, break]
+    FitDiffDFCompacted | null, // fitDiffDF
 ];
 
 export type MusicNextCompacted = [
@@ -176,6 +178,7 @@ export function compactNextMusicMetadata(metadata: MusicMetadataNext): MusicMeta
                     chart.noteCounts.touch ?? 0,
                     chart.noteCounts.break,
                 ],
+                chart.fitDiffDF ? compactFitDiffDF(chart.fitDiffDF) : null,
             ];
         });
 
@@ -220,7 +223,7 @@ export function convertNextCompactedToNormal(compacted: MusicMetadataNextCompact
                 throw new Error(`Invalid next chart payload for music ${id}`);
             }
 
-            const [typeIndex, difficulty, regionEntries, noteDesigner, noteCountsCompacted] = compactedChart;
+            const [typeIndex, difficulty, regionEntries, noteDesigner, noteCountsCompacted, fitDiffDFCompacted] = compactedChart;
             const type = typeIndex === 0 ? "sd" : typeIndex === 1 ? "dx" : typeIndex === 2 ? "utage" : null;
             if (!type) {
                 throw new Error(`Chart type index ${typeIndex} not found for music ${id}`);
@@ -264,6 +267,9 @@ export function convertNextCompactedToNormal(compacted: MusicMetadataNextCompact
                     total,
                 },
                 regions,
+                ...(fitDiffDFCompacted && Array.isArray(fitDiffDFCompacted)
+                    ? { fitDiffDF: expandFitDiffDF(fitDiffDFCompacted as FitDiffDFCompacted) }
+                    : {}),
             };
         });
 
@@ -314,6 +320,7 @@ export function convertNextToLegacy(metadata: MusicMetadataNext): { musics: Musi
                     noteDesigner: chart.noteDesigner,
                     noteCounts: chart.noteCounts,
                     availableRegions,
+                    ...(chart.fitDiffDF ? { fitDiffDF: chart.fitDiffDF } : {}),
                 } satisfies Chart;
             });
 
@@ -351,6 +358,7 @@ export function convertLegacyToNext(metadata: { musics: Music[]; versions: Versi
                     noteDesigner: chart.noteDesigner,
                     noteCounts: chart.noteCounts,
                     regions,
+                    ...(chart.fitDiffDF ? { fitDiffDF: chart.fitDiffDF } : {}),
                 };
             });
 

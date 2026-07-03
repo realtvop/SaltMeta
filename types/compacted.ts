@@ -1,4 +1,43 @@
 import type { AvailableRegion, MusicDifficultyID } from "./data";
+import type { FitDiffDF } from "./normal";
+
+export type FitDiffDFCompacted = [
+    number, // cnt
+    string, // diff
+    number, // fitDiff
+    number, // avg
+    number, // avgDx
+    number, // stdDev
+    number[], // dist
+    number[], // fcDist
+];
+
+export function compactFitDiffDF(fitDiffDF: FitDiffDF): FitDiffDFCompacted {
+    return [
+        fitDiffDF.cnt,
+        fitDiffDF.diff,
+        fitDiffDF.fitDiff,
+        fitDiffDF.avg,
+        fitDiffDF.avgDx,
+        fitDiffDF.stdDev,
+        fitDiffDF.dist,
+        fitDiffDF.fcDist,
+    ];
+}
+
+export function expandFitDiffDF(compacted: FitDiffDFCompacted): FitDiffDF {
+    const [cnt, diff, fitDiff, avg, avgDx, stdDev, dist, fcDist] = compacted;
+    return {
+        cnt,
+        diff,
+        fitDiff,
+        avg,
+        avgDx,
+        stdDev,
+        dist,
+        fcDist,
+    };
+}
 
 export type MusicCompacted = [
     number, // id: < 10000, same for sd and dx
@@ -25,6 +64,7 @@ export type ChartCompacted = [
     [number, number, number | null, number, number], // noteCounts: [tap, hold, slide, touch, break]
 
     AvailableRegion[],
+    FitDiffDFCompacted | null, // fitDiffDF
 ]
 
 export type VersionCompacted = [

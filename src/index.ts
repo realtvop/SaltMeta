@@ -5,6 +5,7 @@ import {
     convertLegacyToNext,
     convertNextCompactedToNormal,
     convertNextToLegacy,
+    expandFitDiffDF,
 } from "../types";
 import type {
     AvailableRegion,
@@ -15,6 +16,7 @@ import type {
     ChartRegionCompacted,
     ChartRegionData,
     ChartRegions,
+    FitDiffDFCompacted,
     Music,
     MusicCompacted,
     MusicDifficultyID,
@@ -33,7 +35,7 @@ const typeIndexToName = ["sd", "dx", "utage"] as const;
 
 type ChartType = typeof typeIndexToName[number];
 
-const compactedChartTupleLength = 9;
+const compactedChartTupleLength = 10;
 
 function resolveChartType(typeIndex: number, musicId: number): ChartType {
     const type = typeIndexToName[typeIndex];
@@ -69,6 +71,7 @@ function expandChart(compacted: ChartCompacted, versions: Version[], musicId: nu
         noteDesigner,
         noteCountsCompacted,
         availableRegions,
+        fitDiffDFCompacted,
     ] = compacted;
 
     const type = resolveChartType(typeIndex, musicId);
@@ -87,6 +90,10 @@ function expandChart(compacted: ChartCompacted, versions: Version[], musicId: nu
     const touch = type === "sd" ? null : touchRaw ?? 0;
     const total = tap + hold + slide + (touch ?? 0) + breakCount;
 
+    const fitDiffDF = Array.isArray(fitDiffDFCompacted) && fitDiffDFCompacted.length === 8
+        ? (expandFitDiffDF(fitDiffDFCompacted as FitDiffDFCompacted))
+        : undefined;
+
     return {
         type,
         difficulty,
@@ -104,6 +111,7 @@ function expandChart(compacted: ChartCompacted, versions: Version[], musicId: nu
             total,
         },
         availableRegions,
+        ...(fitDiffDF ? { fitDiffDF } : {}),
     };
 }
 

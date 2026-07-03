@@ -7,6 +7,7 @@ import {
     type MusicMetadataNext,
 } from "../types";
 import { createChineseChartMetadataKey, convertLxnsSongList } from "../updater/sources/lxns";
+import { convertChartStats, createChartStatsKey } from "../updater/sources/diving-fish";
 
 const fixture: MusicMetadataNext = {
     versions: [
@@ -223,5 +224,83 @@ describe("next metadata", () => {
             internalLevel: 12,
             version: 2027,
         });
+    });
+
+    test("maps diving-fish chart_stats ids with the dx +10000 offset and camelCase keys", () => {
+        const chartStats = convertChartStats({
+            charts: {
+                "1235": [{}, {}, {}, { cnt: 10, diff: "14", fit_diff: 14.1, avg: 98, avg_dx: 100, std_dev: 1.2, dist: [], fc_dist: [] }, {}],
+                "11235": [{}, {}, {}, { cnt: 20, diff: "14+", fit_diff: 14.4, avg: 97, avg_dx: 200, std_dev: 2.1, dist: [], fc_dist: [] }, {}],
+                "100517": [{ cnt: 5, diff: "12?", fit_diff: 12.4, avg: 94, avg_dx: 50, std_dev: 3.3, dist: [], fc_dist: [] }, {}, {}, {}, {}],
+            },
+        });
+
+        expect(chartStats.chartMetadata.get(createChartStatsKey(1235, "sd", 3))).toEqual({
+            cnt: 10,
+            diff: "14",
+            fitDiff: 14.1,
+            avg: 98,
+            avgDx: 100,
+            stdDev: 1.2,
+            dist: [],
+            fcDist: [],
+        });
+        expect(chartStats.chartMetadata.get(createChartStatsKey(1235, "dx", 3))).toEqual({
+            cnt: 20,
+            diff: "14+",
+            fitDiff: 14.4,
+            avg: 97,
+            avgDx: 200,
+            stdDev: 2.1,
+            dist: [],
+            fcDist: [],
+        });
+        expect(chartStats.chartMetadata.get(createChartStatsKey(100517, "utage", 10))).toEqual({
+            cnt: 5,
+            diff: "12?",
+            fitDiff: 12.4,
+            avg: 94,
+            avgDx: 50,
+            stdDev: 3.3,
+            dist: [],
+            fcDist: [],
+        });
+    });
+
+    test("round-trips fitDiffDF through compacted and legacy conversions", () => {
+        const fitDiffDF = {
+            cnt: 1345,
+            diff: "12",
+            fitDiff: 11.98,
+            avg: 99.37,
+            avgDx: 780.46,
+            stdDev: 1.61,
+            dist: [16, 2, 3, 2, 4, 49, 84, 243, 229, 524, 416, 603, 1268, 2326],
+            fcDist: [1687, 1187, 2281, 312, 302],
+        };
+        const withFitDiff: MusicMetadataNext = {
+            ...fixture,
+            musics: [
+                {
+                    ...fixture.musics[0],
+                    charts: [
+                        {
+                            ...fixture.musics[0].charts[0],
+                            fitDiffDF,
+                        },
+                    ],
+                },
+            ],
+        };
+
+        const compacted = compactNextMusicMetadata(withFitDiff);
+        const expanded = convertNextCompactedToNormal(compacted);
+        expect(expanded.musics[0].charts[0].fitDiffDF).toEqual(fitDiffDF);
+
+        const legacy = convertNextToLegacy(withFitDiff);
+        expect(legacy.musics[0].charts[0].fitDiffDF).toEqual(fitDiffDF);
+
+        const lifted = convertLegacyToNext(legacy);
+        expect(lifted.musics[0].charts[0].fitDiffDF).toEqual(fitDiffDF);
     });
 });

@@ -1,6 +1,7 @@
-import type { AvailableRegion, ChartNext, MusicMetadataNext, MusicNext, Version } from "../../../types";
+import type { AvailableRegion, ChartNext, FitDiffDF, MusicMetadataNext, MusicNext, Version } from "../../../types";
 import { matchSongID } from "../songid";
 import { createChineseChartMetadataKey, type ChineseChartMetadata } from "../lxns";
+import { createChartStatsKey, type DivingFishChartStats } from "../diving-fish";
 import type { ArcadeSongsData, Sheet, Song, Version as VersionOri } from "./types";
 
 interface LxnsDataMaps {
@@ -11,9 +12,10 @@ interface LxnsDataMaps {
 export async function convertArcadeSongsData(
     data: ArcadeSongsData,
     lxnsData: LxnsDataMaps,
+    chartStats: DivingFishChartStats,
 ): Promise<MusicMetadataNext> {
     return {
-        musics: (await Promise.all(data.songs.map(song => convertMusic(song, lxnsData.chartMetadata)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
+        musics: (await Promise.all(data.songs.map(song => convertMusic(song, lxnsData.chartMetadata, chartStats.chartMetadata)))).filter(music => music.charts.length && music.id !== -1).sort((a, b) => a.id - b.id),
         versions: convertVersions(data.versions, lxnsData.versionOverrides),
     };
 }
@@ -53,6 +55,7 @@ function convertChart(
     sheet: Sheet,
     musicId: number,
     cnChartMetadata: Map<string, ChineseChartMetadata>,
+    fitDiffDFMap: Map<string, FitDiffDF>,
 ): ChartNext {
     const difficulty = getDifficulty(sheet);
     const chartType = getChartType(sheet);
@@ -84,16 +87,23 @@ function convertChart(
         };
     }
 
+    const fitDiffDF = fitDiffDFMap.get(createChartStatsKey(musicId, chartType, difficultyId));
+
     return {
         type: chartType,
         difficulty: difficultyId,
         noteDesigner: sheet.noteDesigner,
         noteCounts: sheet.noteCounts,
         regions,
+        ...(fitDiffDF ? { fitDiffDF } : {}),
     };
 }
 
-async function convertMusic(song: Song, cnChartMetadata: Map<string, ChineseChartMetadata>): Promise<MusicNext> {
+async function convertMusic(
+    song: Song,
+    cnChartMetadata: Map<string, ChineseChartMetadata>,
+    fitDiffDFMap: Map<string, FitDiffDF>,
+): Promise<MusicNext> {
     const id = await matchSongID(song) ?? -1;
 
     const music: MusicNext = {
@@ -105,7 +115,7 @@ async function convertMusic(song: Song, cnChartMetadata: Map<string, ChineseChar
         category: song.category,
         isLocked: song.isLocked,
 
-        charts: song.sheets.map(sheet => convertChart(sheet, id, cnChartMetadata)).filter(chart => Object.values(chart.regions).some(Boolean)),
+        charts: song.sheets.map(sheet => convertChart(sheet, id, cnChartMetadata, fitDiffDFMap)).filter(chart => Object.values(chart.regions).some(Boolean)),
     };
 
     return song.comment ? { ...music, comment: song.comment } : music;
