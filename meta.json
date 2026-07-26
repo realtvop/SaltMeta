@@ -58618,7 +58618,7 @@
           "type": "sd",
           "difficulty": 2,
           "level": "11+",
-          "internalLevel": 12.1,
+          "internalLevel": 11.6,
           "version": "MiLK",
           "regionVersionOverride": {
             "cn": "maimai MiLK"
@@ -110006,7 +110006,7 @@
           "type": "dx",
           "difficulty": 4,
           "level": "13",
-          "internalLevel": 12.8,
+          "internalLevel": 13,
           "version": "UNiVERSE",
           "noteDesigner": "隅田川星人",
           "noteCounts": {
@@ -119282,7 +119282,7 @@
           "type": "dx",
           "difficulty": 2,
           "level": "11+",
-          "internalLevel": 11,
+          "internalLevel": 11.6,
           "version": "UNiVERSE PLUS",
           "noteDesigner": "翠楼屋",
           "noteCounts": {
@@ -121129,7 +121129,7 @@
           "type": "dx",
           "difficulty": 2,
           "level": "11+",
-          "internalLevel": 11.2,
+          "internalLevel": 11.6,
           "version": "UNiVERSE PLUS",
           "regionVersionOverride": {
             "cn": "舞萌DX 2023"
@@ -161329,6 +161329,7 @@
       "aliases": {
         "cn": [
           "メイトなやつら（feat. 天開司, 佐藤ホームズ, あっくん大魔王 & 歌衣メイカ）",
+          "大魔王",
           "天开司"
         ]
       }

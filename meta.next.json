@@ -137541,17 +137541,17 @@
           "regions": {
             "jp": {
               "level": "11+",
-              "internalLevel": 12.1,
+              "internalLevel": 11.6,
               "version": "MiLK"
             },
             "intl": {
               "level": "11+",
-              "internalLevel": 12.1,
+              "internalLevel": 11.6,
               "version": "MiLK"
             },
             "us": {
               "level": "11+",
-              "internalLevel": 12.1,
+              "internalLevel": 11.6,
               "version": "MiLK"
             },
             "cn": {
@@ -254466,7 +254466,7 @@
           "regions": {
             "cn": {
               "level": "13",
-              "internalLevel": 12.8,
+              "internalLevel": 13,
               "version": "UNiVERSE"
             }
           }
@@ -274497,7 +274497,7 @@
           "regions": {
             "cn": {
               "level": "11+",
-              "internalLevel": 11,
+              "internalLevel": 11.6,
               "version": "UNiVERSE PLUS"
             }
           }
@@ -278445,17 +278445,17 @@
           "regions": {
             "jp": {
               "level": "11+",
-              "internalLevel": 11.2,
+              "internalLevel": 11.6,
               "version": "UNiVERSE PLUS"
             },
             "intl": {
               "level": "11+",
-              "internalLevel": 11.2,
+              "internalLevel": 11.6,
               "version": "UNiVERSE PLUS"
             },
             "us": {
               "level": "11+",
-              "internalLevel": 11.2,
+              "internalLevel": 11.6,
               "version": "UNiVERSE PLUS"
             },
             "cn": {
@@ -371473,6 +371473,7 @@
       "aliases": {
         "cn": [
           "メイトなやつら（feat. 天開司, 佐藤ホームズ, あっくん大魔王 & 歌衣メイカ）",
+          "大魔王",
           "天开司"
         ]
       }
