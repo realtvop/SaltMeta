@@ -149724,9 +149724,9 @@
             "tap": 519,
             "hold": 44,
             "slide": 40,
-            "touch": 221,
+            "touch": 211,
             "break": 46,
-            "total": 870
+            "total": 860
           },
           "regions": {
             "jp": {
