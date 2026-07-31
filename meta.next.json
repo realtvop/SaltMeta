@@ -405690,6 +405690,16 @@
               "level": "3",
               "internalLevel": 3,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -405707,6 +405717,16 @@
           },
           "regions": {
             "jp": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "6",
               "internalLevel": 6,
               "version": "CiRCLE PLUS"
@@ -405730,6 +405750,16 @@
               "level": "10",
               "internalLevel": 10,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "10",
+              "internalLevel": 10,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "10",
+              "internalLevel": 10,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -405747,6 +405777,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13",
+              "internalLevel": 13.1,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13",
+              "internalLevel": 13.1,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13",
               "internalLevel": 13.1,
               "version": "CiRCLE PLUS"
@@ -410894,6 +410934,14 @@
             "jp": {
               "level": "【宴】",
               "internalLevel": 10
+            },
+            "intl": {
+              "level": "【宴】",
+              "internalLevel": 10
+            },
+            "us": {
+              "level": "【宴】",
+              "internalLevel": 10
             }
           }
         }
@@ -414091,6 +414139,14 @@
             "jp": {
               "level": "【宴】",
               "internalLevel": 11
+            },
+            "intl": {
+              "level": "【宴】",
+              "internalLevel": 11
+            },
+            "us": {
+              "level": "【宴】",
+              "internalLevel": 11
             }
           }
         }
@@ -414268,6 +414324,14 @@
             "jp": {
               "level": "【宴】",
               "internalLevel": 12
+            },
+            "intl": {
+              "level": "【宴】",
+              "internalLevel": 12
+            },
+            "us": {
+              "level": "【宴】",
+              "internalLevel": 12
             }
           }
         }
@@ -414415,6 +414479,14 @@
             "jp": {
               "level": "【宴】",
               "internalLevel": 13
+            },
+            "intl": {
+              "level": "【宴】",
+              "internalLevel": 13
+            },
+            "us": {
+              "level": "【宴】",
+              "internalLevel": 13
             }
           }
         }
@@ -414481,6 +414553,14 @@
           },
           "regions": {
             "jp": {
+              "level": "【宴】",
+              "internalLevel": 14
+            },
+            "intl": {
+              "level": "【宴】",
+              "internalLevel": 14
+            },
+            "us": {
               "level": "【宴】",
               "internalLevel": 14
             }
