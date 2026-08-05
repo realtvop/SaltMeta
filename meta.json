@@ -21954,6 +21954,82 @@
       "isLocked": false,
       "charts": [
         {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 119
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 210
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 316
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": 521
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
           "type": "sd",
           "difficulty": 0,
           "level": "4",
@@ -113801,6 +113877,52 @@
             "jp",
             "intl",
             "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "インドア系ならトラックメイカー",
+          "室内系",
+          "nichan",
+          "小姐姐",
+          "一笔画",
+          "室内轨道制造商",
+          "indoor系",
+          "室内系的track maker",
+          "内向都是作曲家",
+          "室内系的trackmaker",
+          "track maker",
+          "法修散打"
+        ]
+      }
+    },
+    {
+      "id": 1358,
+      "title": "[音]インドア系ならトラックメイカー",
+      "artist": "Yunomi & nicamoq",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【音】",
+          "internalLevel": 14.6,
+          "version": null,
+          "regionVersionOverride": {},
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
           ]
         }
       ],
