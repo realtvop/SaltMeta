@@ -21961,11 +21961,11 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 93,
+            "hold": 11,
+            "slide": 4,
+            "touch": 7,
+            "break": 4,
             "total": 119
           },
           "availableRegions": [
@@ -21980,11 +21980,11 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 173,
+            "hold": 15,
+            "slide": 4,
+            "touch": 14,
+            "break": 4,
             "total": 210
           },
           "availableRegions": [
@@ -21999,11 +21999,11 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 212,
+            "hold": 42,
+            "slide": 28,
+            "touch": 5,
+            "break": 29,
             "total": 316
           },
           "availableRegions": [
@@ -22018,11 +22018,11 @@
           "version": "CiRCLE PLUS",
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 317,
+            "hold": 42,
+            "slide": 82,
+            "touch": 55,
+            "break": 25,
             "total": 521
           },
           "availableRegions": [
@@ -145137,111 +145137,6 @@
       }
     },
     {
-      "id": 1634,
-      "title": "青春コンプレックス",
-      "artist": "結束バンド",
-      "bpm": 190,
-      "category": "POPS＆アニメ",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "dx",
-          "difficulty": 0,
-          "level": "3",
-          "internalLevel": 3,
-          "version": "BUDDiES",
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 143,
-            "hold": 13,
-            "slide": 6,
-            "touch": 13,
-            "break": 7,
-            "total": 182
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "dx",
-          "difficulty": 1,
-          "level": "7",
-          "internalLevel": 7,
-          "version": "BUDDiES",
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 278,
-            "hold": 12,
-            "slide": 14,
-            "touch": 16,
-            "break": 5,
-            "total": 325
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "dx",
-          "difficulty": 2,
-          "level": "10",
-          "internalLevel": 10,
-          "version": "BUDDiES",
-          "noteDesigner": "はっぴー",
-          "noteCounts": {
-            "tap": 414,
-            "hold": 76,
-            "slide": 84,
-            "touch": 25,
-            "break": 27,
-            "total": 626
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "dx",
-          "difficulty": 3,
-          "level": "11+",
-          "internalLevel": 11.8,
-          "version": "BUDDiES",
-          "noteDesigner": "緑風 犬三郎",
-          "noteCounts": {
-            "tap": 532,
-            "hold": 49,
-            "slide": 121,
-            "touch": 23,
-            "break": 98,
-            "total": 823
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "dx",
-          "difficulty": 4,
-          "level": "13+",
-          "internalLevel": 13.8,
-          "version": "BUDDiES",
-          "noteDesigner": "鳩ホルダー",
-          "noteCounts": {
-            "tap": 708,
-            "hold": 45,
-            "slide": 119,
-            "touch": 35,
-            "break": 54,
-            "total": 961
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
       "id": 1636,
       "title": "さくゆいたいそう",
       "artist": "さくゆい",
@@ -146237,92 +146132,6 @@
           "天使金轮"
         ]
       }
-    },
-    {
-      "id": 1644,
-      "title": "story",
-      "artist": "前島麻由",
-      "bpm": 220,
-      "category": "POPS＆アニメ",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "dx",
-          "difficulty": 0,
-          "level": "3",
-          "internalLevel": 3,
-          "version": "BUDDiES",
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 73,
-            "hold": 12,
-            "slide": 2,
-            "touch": 7,
-            "break": 1,
-            "total": 95
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "dx",
-          "difficulty": 1,
-          "level": "7+",
-          "internalLevel": 7.6,
-          "version": "BUDDiES",
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 174,
-            "hold": 20,
-            "slide": 6,
-            "touch": 14,
-            "break": 4,
-            "total": 218
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "dx",
-          "difficulty": 2,
-          "level": "10+",
-          "internalLevel": 10.6,
-          "version": "BUDDiES",
-          "noteDesigner": "鳩ホルダー",
-          "noteCounts": {
-            "tap": 258,
-            "hold": 34,
-            "slide": 44,
-            "touch": 9,
-            "break": 27,
-            "total": 372
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "dx",
-          "difficulty": 3,
-          "level": "12",
-          "internalLevel": 12.2,
-          "version": "BUDDiES",
-          "noteDesigner": "PG-NAKAGAWA",
-          "noteCounts": {
-            "tap": 352,
-            "hold": 19,
-            "slide": 66,
-            "touch": 30,
-            "break": 24,
-            "total": 491
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        }
-      ]
     },
     {
       "id": 1645,
@@ -182548,7 +182357,9 @@
             "total": 177
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182567,7 +182378,9 @@
             "total": 311
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182586,7 +182399,9 @@
             "total": 485
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182605,7 +182420,9 @@
             "total": 740
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -182634,7 +182451,9 @@
             "total": 192
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182653,7 +182472,9 @@
             "total": 377
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182672,7 +182493,9 @@
             "total": 577
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182691,7 +182514,9 @@
             "total": 999
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -182720,7 +182545,9 @@
             "total": 204
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182739,7 +182566,9 @@
             "total": 329
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182758,7 +182587,9 @@
             "total": 629
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -182777,7 +182608,9 @@
             "total": 944
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -185904,36 +185737,6 @@
       ]
     },
     {
-      "id": 111634,
-      "title": "[協]青春コンプレックス",
-      "artist": "結束バンド",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 14.6,
-          "version": null,
-          "regionVersionOverride": {},
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
       "id": 111636,
       "title": "[奏]さくゆいたいそう",
       "artist": "さくゆい",
@@ -186569,36 +186372,6 @@
             "jp",
             "intl",
             "us"
-          ]
-        }
-      ]
-    },
-    {
-      "id": 121634,
-      "title": "[協]青春コンプレックス",
-      "artist": "結束バンド",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【協】",
-          "internalLevel": 13,
-          "version": null,
-          "regionVersionOverride": {},
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp"
           ]
         }
       ]

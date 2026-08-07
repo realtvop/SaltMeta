@@ -53961,11 +53961,11 @@
           "difficulty": 0,
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 93,
+            "hold": 11,
+            "slide": 4,
+            "touch": 7,
+            "break": 4,
             "total": 119
           },
           "regions": {
@@ -53981,11 +53981,11 @@
           "difficulty": 1,
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 173,
+            "hold": 15,
+            "slide": 4,
+            "touch": 14,
+            "break": 4,
             "total": 210
           },
           "regions": {
@@ -54001,11 +54001,11 @@
           "difficulty": 2,
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 212,
+            "hold": 42,
+            "slide": 28,
+            "touch": 5,
+            "break": 29,
             "total": 316
           },
           "regions": {
@@ -54021,11 +54021,11 @@
           "difficulty": 3,
           "noteDesigner": null,
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
+            "tap": 317,
+            "hold": 42,
+            "slide": 82,
+            "touch": 55,
+            "break": 25,
             "total": 521
           },
           "regions": {
@@ -333699,116 +333699,6 @@
       }
     },
     {
-      "id": 1634,
-      "title": "青春コンプレックス",
-      "artist": "結束バンド",
-      "bpm": 190,
-      "category": "POPS＆アニメ",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "dx",
-          "difficulty": 0,
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 143,
-            "hold": 13,
-            "slide": 6,
-            "touch": 13,
-            "break": 7,
-            "total": 182
-          },
-          "regions": {
-            "jp": {
-              "level": "3",
-              "internalLevel": 3,
-              "version": "BUDDiES"
-            }
-          }
-        },
-        {
-          "type": "dx",
-          "difficulty": 1,
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 278,
-            "hold": 12,
-            "slide": 14,
-            "touch": 16,
-            "break": 5,
-            "total": 325
-          },
-          "regions": {
-            "jp": {
-              "level": "7",
-              "internalLevel": 7,
-              "version": "BUDDiES"
-            }
-          }
-        },
-        {
-          "type": "dx",
-          "difficulty": 2,
-          "noteDesigner": "はっぴー",
-          "noteCounts": {
-            "tap": 414,
-            "hold": 76,
-            "slide": 84,
-            "touch": 25,
-            "break": 27,
-            "total": 626
-          },
-          "regions": {
-            "jp": {
-              "level": "10",
-              "internalLevel": 10,
-              "version": "BUDDiES"
-            }
-          }
-        },
-        {
-          "type": "dx",
-          "difficulty": 3,
-          "noteDesigner": "緑風 犬三郎",
-          "noteCounts": {
-            "tap": 532,
-            "hold": 49,
-            "slide": 121,
-            "touch": 23,
-            "break": 98,
-            "total": 823
-          },
-          "regions": {
-            "jp": {
-              "level": "11+",
-              "internalLevel": 11.8,
-              "version": "BUDDiES"
-            }
-          }
-        },
-        {
-          "type": "dx",
-          "difficulty": 4,
-          "noteDesigner": "鳩ホルダー",
-          "noteCounts": {
-            "tap": 708,
-            "hold": 45,
-            "slide": 119,
-            "touch": 35,
-            "break": 54,
-            "total": 961
-          },
-          "regions": {
-            "jp": {
-              "level": "13+",
-              "internalLevel": 13.8,
-              "version": "BUDDiES"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": 1636,
       "title": "さくゆいたいそう",
       "artist": "さくゆい",
@@ -336157,96 +336047,6 @@
           "天使金轮"
         ]
       }
-    },
-    {
-      "id": 1644,
-      "title": "story",
-      "artist": "前島麻由",
-      "bpm": 220,
-      "category": "POPS＆アニメ",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "dx",
-          "difficulty": 0,
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 73,
-            "hold": 12,
-            "slide": 2,
-            "touch": 7,
-            "break": 1,
-            "total": 95
-          },
-          "regions": {
-            "jp": {
-              "level": "3",
-              "internalLevel": 3,
-              "version": "BUDDiES"
-            }
-          }
-        },
-        {
-          "type": "dx",
-          "difficulty": 1,
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 174,
-            "hold": 20,
-            "slide": 6,
-            "touch": 14,
-            "break": 4,
-            "total": 218
-          },
-          "regions": {
-            "jp": {
-              "level": "7+",
-              "internalLevel": 7.6,
-              "version": "BUDDiES"
-            }
-          }
-        },
-        {
-          "type": "dx",
-          "difficulty": 2,
-          "noteDesigner": "鳩ホルダー",
-          "noteCounts": {
-            "tap": 258,
-            "hold": 34,
-            "slide": 44,
-            "touch": 9,
-            "break": 27,
-            "total": 372
-          },
-          "regions": {
-            "jp": {
-              "level": "10+",
-              "internalLevel": 10.6,
-              "version": "BUDDiES"
-            }
-          }
-        },
-        {
-          "type": "dx",
-          "difficulty": 3,
-          "noteDesigner": "PG-NAKAGAWA",
-          "noteCounts": {
-            "tap": 352,
-            "hold": 19,
-            "slide": 66,
-            "touch": 30,
-            "break": 24,
-            "total": 491
-          },
-          "regions": {
-            "jp": {
-              "level": "12",
-              "internalLevel": 12.2,
-              "version": "BUDDiES"
-            }
-          }
-        }
-      ]
     },
     {
       "id": 1645,
@@ -408218,6 +408018,16 @@
               "level": "3",
               "internalLevel": 3,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -408235,6 +408045,16 @@
           },
           "regions": {
             "jp": {
+              "level": "7",
+              "internalLevel": 7,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "7",
+              "internalLevel": 7,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "7",
               "internalLevel": 7,
               "version": "CiRCLE PLUS"
@@ -408258,6 +408078,16 @@
               "level": "9+",
               "internalLevel": 9.6,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "9+",
+              "internalLevel": 9.6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "9+",
+              "internalLevel": 9.6,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -408275,6 +408105,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13",
+              "internalLevel": 13.4,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13",
+              "internalLevel": 13.4,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13",
               "internalLevel": 13.4,
               "version": "CiRCLE PLUS"
@@ -408308,6 +408148,16 @@
               "level": "4",
               "internalLevel": 4,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "4",
+              "internalLevel": 4,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "4",
+              "internalLevel": 4,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -408325,6 +408175,16 @@
           },
           "regions": {
             "jp": {
+              "level": "8+",
+              "internalLevel": 8.6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "8+",
+              "internalLevel": 8.6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "8+",
               "internalLevel": 8.6,
               "version": "CiRCLE PLUS"
@@ -408348,6 +408208,16 @@
               "level": "12",
               "internalLevel": 12,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "12",
+              "internalLevel": 12,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "12",
+              "internalLevel": 12,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -408365,6 +408235,16 @@
           },
           "regions": {
             "jp": {
+              "level": "14",
+              "internalLevel": 14.5,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "14",
+              "internalLevel": 14.5,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "14",
               "internalLevel": 14.5,
               "version": "CiRCLE PLUS"
@@ -408398,6 +408278,16 @@
               "level": "6",
               "internalLevel": 6,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -408415,6 +408305,16 @@
           },
           "regions": {
             "jp": {
+              "level": "8",
+              "internalLevel": 8,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "8",
+              "internalLevel": 8,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "8",
               "internalLevel": 8,
               "version": "CiRCLE PLUS"
@@ -408438,6 +408338,16 @@
               "level": "12+",
               "internalLevel": 12.9,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "12+",
+              "internalLevel": 12.9,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "12+",
+              "internalLevel": 12.9,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -408455,6 +408365,16 @@
           },
           "regions": {
             "jp": {
+              "level": "14+",
+              "internalLevel": 14.7,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "14+",
+              "internalLevel": 14.7,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "14+",
               "internalLevel": 14.7,
               "version": "CiRCLE PLUS"
@@ -413591,36 +413511,6 @@
       "comment": "SLIDE BACK!!"
     },
     {
-      "id": 111634,
-      "title": "[協]青春コンプレックス",
-      "artist": "結束バンド",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "regions": {
-            "jp": {
-              "level": "【協】",
-              "internalLevel": 14.6
-            }
-          }
-        }
-      ],
-      "comment": "【🤝バディ】バンドメンバーを集めて挑め！（ヒーロー級）"
-    },
-    {
       "id": 111636,
       "title": "[奏]さくゆいたいそう",
       "artist": "さくゆい",
@@ -414600,36 +414490,6 @@
         }
       ],
       "comment": "ADVANCED（時代なので、急ぎで）"
-    },
-    {
-      "id": 121634,
-      "title": "[協]青春コンプレックス",
-      "artist": "結束バンド",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "regions": {
-            "jp": {
-              "level": "【協】",
-              "internalLevel": 13
-            }
-          }
-        }
-      ],
-      "comment": "【🤝バディ】バンドメンバーを集めて楽しもう！（入門編）"
     },
     {
       "id": 121852,
