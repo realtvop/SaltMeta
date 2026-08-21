@@ -406709,6 +406709,16 @@
               "level": "4",
               "internalLevel": 4,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "4",
+              "internalLevel": 4,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "4",
+              "internalLevel": 4,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -406726,6 +406736,16 @@
           },
           "regions": {
             "jp": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "6",
               "internalLevel": 6,
               "version": "CiRCLE PLUS"
@@ -406749,6 +406769,16 @@
               "level": "11",
               "internalLevel": 11,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "11",
+              "internalLevel": 11,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "11",
+              "internalLevel": 11,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -406766,6 +406796,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13",
+              "internalLevel": 13.3,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13",
+              "internalLevel": 13.3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13",
               "internalLevel": 13.3,
               "version": "CiRCLE PLUS"
@@ -406799,6 +406839,16 @@
               "level": "3",
               "internalLevel": 3,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -406816,6 +406866,16 @@
           },
           "regions": {
             "jp": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "6",
               "internalLevel": 6,
               "version": "CiRCLE PLUS"
@@ -406839,6 +406899,16 @@
               "level": "10+",
               "internalLevel": 10.6,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "10+",
+              "internalLevel": 10.6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "10+",
+              "internalLevel": 10.6,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -406856,6 +406926,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13",
+              "internalLevel": 13.3,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13",
+              "internalLevel": 13.3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13",
               "internalLevel": 13.3,
               "version": "CiRCLE PLUS"
@@ -406889,6 +406969,16 @@
               "level": "5",
               "internalLevel": 5,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "5",
+              "internalLevel": 5,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "5",
+              "internalLevel": 5,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -406906,6 +406996,16 @@
           },
           "regions": {
             "jp": {
+              "level": "8",
+              "internalLevel": 8,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "8",
+              "internalLevel": 8,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "8",
               "internalLevel": 8,
               "version": "CiRCLE PLUS"
@@ -406929,6 +407029,16 @@
               "level": "11+",
               "internalLevel": 11.6,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "11+",
+              "internalLevel": 11.6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "11+",
+              "internalLevel": 11.6,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -406946,6 +407056,16 @@
           },
           "regions": {
             "jp": {
+              "level": "14",
+              "internalLevel": 14.3,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "14",
+              "internalLevel": 14.3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "14",
               "internalLevel": 14.3,
               "version": "CiRCLE PLUS"
