@@ -410272,6 +410272,16 @@
               "level": "3",
               "internalLevel": 3,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -410289,6 +410299,16 @@
           },
           "regions": {
             "jp": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "6",
               "internalLevel": 6,
               "version": "CiRCLE PLUS"
@@ -410312,6 +410332,16 @@
               "level": "9+",
               "internalLevel": 9.6,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "9+",
+              "internalLevel": 9.6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "9+",
+              "internalLevel": 9.6,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -410329,6 +410359,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13",
+              "internalLevel": 13.2,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13",
+              "internalLevel": 13.2,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13",
               "internalLevel": 13.2,
               "version": "CiRCLE PLUS"
