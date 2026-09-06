@@ -263916,12 +263916,12 @@
           "difficulty": 3,
           "noteDesigner": "翠楼屋",
           "noteCounts": {
-            "tap": 753,
+            "tap": 783,
             "hold": 42,
             "slide": 55,
             "touch": 23,
             "break": 38,
-            "total": 911
+            "total": 941
           },
           "regions": {
             "jp": {
@@ -356187,8 +356187,8 @@
           "严肃灵梦",
           "电眼逼人",
           "灵梦戴眼镜",
-          "灵梦眼睛套长条",
-          "失落幻想"
+          "失落幻想",
+          "灵梦眼睛套长条"
         ]
       }
     },
@@ -385034,10 +385034,10 @@
           "noteCounts": {
             "tap": 512,
             "hold": 91,
-            "slide": 97,
+            "slide": 98,
             "touch": 43,
             "break": 43,
-            "total": 786
+            "total": 787
           },
           "regions": {
             "jp": {
@@ -394520,10 +394520,10 @@
           "noteCounts": {
             "tap": 406,
             "hold": 50,
-            "slide": 49,
+            "slide": 50,
             "touch": 41,
             "break": 42,
-            "total": 588
+            "total": 589
           },
           "regions": {
             "jp": {
