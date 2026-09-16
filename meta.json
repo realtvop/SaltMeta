@@ -74214,6 +74214,9 @@
           "level": "2",
           "internalLevel": 2,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 144,
@@ -74226,7 +74229,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -74235,6 +74239,9 @@
           "level": "6",
           "internalLevel": 6,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 198,
@@ -74247,7 +74254,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -74256,6 +74264,9 @@
           "level": "9+",
           "internalLevel": 9.9,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "Jack",
           "noteCounts": {
             "tap": 214,
@@ -74268,7 +74279,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -74277,6 +74289,9 @@
           "level": "13",
           "internalLevel": 13,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "チャン@DP皆伝",
           "noteCounts": {
             "tap": 259,
@@ -74289,7 +74304,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -156867,6 +156883,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 187,
@@ -156879,7 +156898,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -156888,6 +156908,9 @@
           "level": "6",
           "internalLevel": 6,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 249,
@@ -156900,7 +156923,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -156909,6 +156933,9 @@
           "level": "9",
           "internalLevel": 9.5,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 349,
@@ -156921,7 +156948,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -156930,6 +156958,9 @@
           "level": "13",
           "internalLevel": 13.2,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "譜面-100号",
           "noteCounts": {
             "tap": 498,
@@ -156942,7 +156973,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ],
@@ -166001,6 +166033,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 177,
@@ -166013,7 +166048,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166022,6 +166058,9 @@
           "level": "7+",
           "internalLevel": 7.7,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 302,
@@ -166034,7 +166073,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166043,6 +166083,9 @@
           "level": "11",
           "internalLevel": 11,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 377,
@@ -166055,7 +166098,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166064,6 +166108,9 @@
           "level": "14",
           "internalLevel": 14.1,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "きょむりん vs Luxizhel",
           "noteCounts": {
             "tap": 661,
@@ -166076,7 +166123,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -166095,6 +166143,9 @@
           "level": "3",
           "internalLevel": 3,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 171,
@@ -166107,7 +166158,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166116,6 +166168,9 @@
           "level": "6",
           "internalLevel": 6,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 237,
@@ -166128,7 +166183,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166137,6 +166193,9 @@
           "level": "11",
           "internalLevel": 11.2,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
             "tap": 276,
@@ -166149,7 +166208,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166158,6 +166218,9 @@
           "level": "14",
           "internalLevel": 14,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 512,
@@ -166170,7 +166233,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -166189,6 +166253,9 @@
           "level": "5",
           "internalLevel": 5,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 231,
@@ -166201,7 +166268,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166210,6 +166278,9 @@
           "level": "8",
           "internalLevel": 8,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 366,
@@ -166222,7 +166293,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166231,6 +166303,9 @@
           "level": "12",
           "internalLevel": 12.5,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 122,
@@ -166243,7 +166318,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166252,6 +166328,9 @@
           "level": "13+",
           "internalLevel": 13.9,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "Jack",
           "noteCounts": {
             "tap": 466,
@@ -166264,7 +166343,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -166283,6 +166363,9 @@
           "level": "7+",
           "internalLevel": 7.8,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 350,
@@ -166295,7 +166378,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166304,6 +166388,9 @@
           "level": "10",
           "internalLevel": 10.5,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 576,
@@ -166316,7 +166403,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166325,6 +166413,9 @@
           "level": "13",
           "internalLevel": 13.1,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "Luxizhel",
           "noteCounts": {
             "tap": 671,
@@ -166337,7 +166428,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166346,6 +166438,9 @@
           "level": "14+",
           "internalLevel": 14.9,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "7sRef -DOVE-",
           "noteCounts": {
             "tap": 831,
@@ -166358,7 +166453,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -166377,6 +166473,9 @@
           "level": "3",
           "internalLevel": 3,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 165,
@@ -166389,7 +166488,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166398,6 +166498,9 @@
           "level": "7+",
           "internalLevel": 7.7,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 275,
@@ -166410,7 +166513,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166419,6 +166523,9 @@
           "level": "12",
           "internalLevel": 12.5,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "Jack",
           "noteCounts": {
             "tap": 255,
@@ -166431,7 +166538,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166440,6 +166548,9 @@
           "level": "14",
           "internalLevel": 14.2,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 428,
@@ -166452,7 +166563,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -166471,6 +166583,9 @@
           "level": "7+",
           "internalLevel": 7.9,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 517,
@@ -166483,7 +166598,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166492,6 +166608,9 @@
           "level": "11",
           "internalLevel": 11,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 865,
@@ -166504,7 +166623,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166513,6 +166633,9 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 1017,
@@ -166525,7 +166648,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166534,6 +166658,9 @@
           "level": "14+",
           "internalLevel": 14.9,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "KALEIDXSCOPE",
           "noteCounts": {
             "tap": 1556,
@@ -166546,7 +166673,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166555,6 +166683,9 @@
           "level": "15",
           "internalLevel": 15,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "Xaleid◆scopiX",
           "noteCounts": {
             "tap": 1590,
@@ -166567,7 +166698,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -166586,6 +166718,9 @@
           "level": "4",
           "internalLevel": 4,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 279,
@@ -166598,7 +166733,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166607,6 +166743,9 @@
           "level": "8",
           "internalLevel": 8,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 523,
@@ -166619,7 +166758,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166628,6 +166768,9 @@
           "level": "12",
           "internalLevel": 12.5,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "きょむりん & Luxizhel",
           "noteCounts": {
             "tap": 712,
@@ -166640,7 +166783,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -166649,6 +166793,9 @@
           "level": "14",
           "internalLevel": 14,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "Jack + Soma",
           "noteCounts": {
             "tap": 777,
@@ -166661,7 +166808,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
@@ -167250,6 +167398,9 @@
           "level": "3",
           "internalLevel": 3,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 170,
@@ -167262,7 +167413,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -167271,6 +167423,9 @@
           "level": "7",
           "internalLevel": 7,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "-",
           "noteCounts": {
             "tap": 261,
@@ -167283,7 +167438,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -167292,6 +167448,9 @@
           "level": "10",
           "internalLevel": 10,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "鳩ホルダー",
           "noteCounts": {
             "tap": 380,
@@ -167304,7 +167463,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         },
         {
@@ -167313,6 +167473,9 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "PRiSM PLUS",
+          "regionVersionOverride": {
+            "cn": "舞萌DX 2026"
+          },
           "noteDesigner": "サファ太",
           "noteCounts": {
             "tap": 551,
@@ -167325,7 +167488,8 @@
           "availableRegions": [
             "jp",
             "intl",
-            "us"
+            "us",
+            "cn"
           ]
         }
       ]
