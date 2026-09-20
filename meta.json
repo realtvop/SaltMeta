@@ -166402,7 +166402,12 @@
             "cn"
           ]
         }
-      ]
+      ],
+      "aliases": {
+        "cn": [
+          "美国人"
+        ]
+      }
     },
     {
       "id": 1818,
@@ -171841,7 +171846,8 @@
       "aliases": {
         "cn": [
           "三日月ステップ 2023",
-          "三日月"
+          "三日月",
+          "新月乱步2023"
         ]
       }
     },
@@ -181228,7 +181234,9 @@
             "total": 218
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181247,7 +181255,9 @@
             "total": 350
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181266,7 +181276,9 @@
             "total": 658
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181285,7 +181297,9 @@
             "total": 961
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -181314,7 +181328,9 @@
             "total": 204
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181333,7 +181349,9 @@
             "total": 332
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181352,7 +181370,9 @@
             "total": 476
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181371,7 +181391,9 @@
             "total": 831
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -181400,7 +181422,9 @@
             "total": 229
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181419,7 +181443,9 @@
             "total": 327
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181438,7 +181464,9 @@
             "total": 620
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181457,7 +181485,9 @@
             "total": 869
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -181486,7 +181516,9 @@
             "total": 260
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181505,7 +181537,9 @@
             "total": 376
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181524,7 +181558,9 @@
             "total": 709
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -181543,7 +181579,9 @@
             "total": 998
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
