@@ -94,7 +94,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "maimai"
             },
             "us": {
@@ -381,7 +381,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "maimai"
             },
             "us": {
@@ -665,7 +665,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "maimai"
             },
             "us": {
@@ -1276,7 +1276,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "maimai"
             },
             "us": {
@@ -1637,7 +1637,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "maimai"
             },
             "us": {
@@ -2000,7 +2000,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "maimai"
             },
             "us": {
@@ -2355,7 +2355,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "maimai"
             },
             "us": {
@@ -3164,7 +3164,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.6,
+              "internalLevel": 7.9,
               "version": "maimai"
             },
             "us": {
@@ -3447,7 +3447,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "maimai"
             },
             "us": {
@@ -3733,7 +3733,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "maimai"
             },
             "us": {
@@ -4010,7 +4010,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "maimai"
             },
             "cn": {
@@ -4279,7 +4279,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "maimai"
             },
             "cn": {
@@ -4544,7 +4544,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "maimai"
             },
             "cn": {
@@ -5073,7 +5073,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "maimai"
             },
             "us": {
@@ -5357,7 +5357,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "maimai"
             },
             "us": {
@@ -5647,7 +5647,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "maimai"
             },
             "us": {
@@ -6007,7 +6007,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "maimai"
             },
             "us": {
@@ -6282,7 +6282,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "maimai"
             },
             "cn": {
@@ -6555,7 +6555,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "maimai PLUS"
             },
             "us": {
@@ -6904,7 +6904,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "maimai"
             },
             "us": {
@@ -7257,7 +7257,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "maimai"
             },
             "us": {
@@ -7610,7 +7610,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "maimai"
             },
             "us": {
@@ -7891,7 +7891,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "maimai"
             },
             "us": {
@@ -8175,7 +8175,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "maimai"
             },
             "us": {
@@ -8522,7 +8522,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "maimai"
             },
             "us": {
@@ -8875,7 +8875,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "maimai"
             },
             "us": {
@@ -9157,7 +9157,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "maimai"
             },
             "us": {
@@ -9447,7 +9447,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai"
             },
             "us": {
@@ -9994,7 +9994,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.6,
+              "internalLevel": 7.9,
               "version": "maimai"
             },
             "us": {
@@ -10352,7 +10352,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai"
             },
             "us": {
@@ -10700,7 +10700,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "maimai"
             },
             "us": {
@@ -10981,7 +10981,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "maimai"
             },
             "us": {
@@ -11268,7 +11268,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "maimai"
             },
             "us": {
@@ -11672,7 +11672,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "maimai"
             },
             "us": {
@@ -11955,7 +11955,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "maimai"
             },
             "us": {
@@ -12865,7 +12865,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "maimai"
             },
             "us": {
@@ -13217,7 +13217,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai"
             },
             "us": {
@@ -13504,7 +13504,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.8,
+              "internalLevel": 9.1,
               "version": "maimai"
             },
             "us": {
@@ -13790,7 +13790,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.4,
+              "internalLevel": 8.7,
               "version": "maimai"
             },
             "us": {
@@ -14071,7 +14071,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "maimai"
             },
             "us": {
@@ -14419,7 +14419,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "maimai PLUS"
             },
             "us": {
@@ -14766,7 +14766,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "maimai PLUS"
             },
             "us": {
@@ -15049,7 +15049,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "maimai PLUS"
             },
             "us": {
@@ -15459,7 +15459,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -15744,7 +15744,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -16378,7 +16378,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "maimai PLUS"
             },
             "us": {
@@ -16665,7 +16665,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "maimai PLUS"
             },
             "us": {
@@ -16950,7 +16950,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "maimai PLUS"
             },
             "us": {
@@ -17299,7 +17299,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "maimai PLUS"
             },
             "us": {
@@ -17591,7 +17591,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.4,
+              "internalLevel": 8.7,
               "version": "maimai PLUS"
             },
             "us": {
@@ -17908,7 +17908,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -18191,7 +18191,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -18544,7 +18544,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "maimai PLUS"
             },
             "us": {
@@ -19090,7 +19090,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "maimai PLUS"
             },
             "us": {
@@ -19374,7 +19374,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "maimai PLUS"
             },
             "us": {
@@ -19660,7 +19660,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "maimai PLUS"
             },
             "us": {
@@ -20225,7 +20225,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "maimai PLUS"
             },
             "us": {
@@ -20775,7 +20775,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "maimai PLUS"
             },
             "us": {
@@ -21492,7 +21492,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -21774,7 +21774,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "maimai PLUS"
             },
             "us": {
@@ -22058,7 +22058,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "maimai PLUS"
             },
             "us": {
@@ -22190,7 +22190,7 @@
             },
             "intl": {
               "level": "12",
-              "internalLevel": 12,
+              "internalLevel": 12.5,
               "version": "maimai PLUS"
             },
             "us": {
@@ -22256,7 +22256,7 @@
             },
             "intl": {
               "level": "13",
-              "internalLevel": 13,
+              "internalLevel": 13.5,
               "version": "maimai PLUS"
             },
             "us": {
@@ -22407,7 +22407,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "maimai PLUS"
             },
             "us": {
@@ -22695,7 +22695,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -23052,7 +23052,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "maimai PLUS"
             },
             "us": {
@@ -23402,7 +23402,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.8,
+              "internalLevel": 9.1,
               "version": "maimai PLUS"
             },
             "us": {
@@ -23687,7 +23687,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "maimai PLUS"
             },
             "us": {
@@ -23974,7 +23974,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "maimai PLUS"
             },
             "us": {
@@ -24262,7 +24262,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "maimai PLUS"
             },
             "us": {
@@ -24544,7 +24544,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.4,
+              "internalLevel": 8.7,
               "version": "maimai PLUS"
             },
             "us": {
@@ -24828,7 +24828,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -25110,7 +25110,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "maimai PLUS"
             },
             "us": {
@@ -25393,7 +25393,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "maimai PLUS"
             },
             "us": {
@@ -25676,7 +25676,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "maimai PLUS"
             },
             "us": {
@@ -26032,7 +26032,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -26643,7 +26643,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "maimai PLUS"
             },
             "us": {
@@ -27258,7 +27258,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -27611,7 +27611,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "maimai PLUS"
             },
             "us": {
@@ -27894,7 +27894,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.4,
+              "internalLevel": 8.7,
               "version": "maimai PLUS"
             },
             "us": {
@@ -28174,7 +28174,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "maimai PLUS"
             },
             "us": {
@@ -28450,7 +28450,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.6,
+              "internalLevel": 8.9,
               "version": "maimai PLUS"
             },
             "cn": {
@@ -28723,7 +28723,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "maimai PLUS"
             },
             "us": {
@@ -29070,7 +29070,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.6,
+              "internalLevel": 7.9,
               "version": "maimai PLUS"
             },
             "us": {
@@ -29350,7 +29350,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "maimai PLUS"
             },
             "us": {
@@ -29633,7 +29633,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "GreeN"
             },
             "us": {
@@ -30424,7 +30424,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "GreeN"
             },
             "us": {
@@ -30829,7 +30829,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "GreeN"
             },
             "us": {
@@ -31377,7 +31377,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "GreeN"
             },
             "us": {
@@ -31662,7 +31662,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "GreeN"
             },
             "us": {
@@ -32212,7 +32212,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "GreeN"
             },
             "us": {
@@ -32761,7 +32761,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "GreeN"
             },
             "us": {
@@ -33414,7 +33414,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN"
             },
             "us": {
@@ -33701,7 +33701,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "GreeN"
             },
             "us": {
@@ -33982,7 +33982,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "GreeN"
             },
             "us": {
@@ -34453,7 +34453,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "GreeN"
             },
             "us": {
@@ -35224,7 +35224,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "GreeN"
             },
             "us": {
@@ -35781,7 +35781,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "GreeN"
             },
             "us": {
@@ -36067,7 +36067,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "GreeN"
             },
             "us": {
@@ -36616,7 +36616,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "GreeN"
             },
             "us": {
@@ -36974,7 +36974,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.6,
+              "internalLevel": 7.9,
               "version": "GreeN"
             },
             "us": {
@@ -37262,7 +37262,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -38114,7 +38114,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -38407,7 +38407,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "GreeN"
             },
             "us": {
@@ -38975,7 +38975,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "GreeN"
             },
             "us": {
@@ -39256,7 +39256,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -39539,7 +39539,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "GreeN"
             },
             "us": {
@@ -39821,7 +39821,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "GreeN"
             },
             "us": {
@@ -40102,7 +40102,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.2,
               "version": "GreeN"
             },
             "us": {
@@ -40455,7 +40455,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "GreeN"
             },
             "us": {
@@ -40746,7 +40746,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "GreeN"
             },
             "us": {
@@ -41030,7 +41030,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -41584,7 +41584,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -41870,7 +41870,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.2,
               "version": "GreeN"
             },
             "us": {
@@ -42221,7 +42221,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "GreeN"
             },
             "us": {
@@ -42592,7 +42592,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE"
             },
             "us": {
@@ -42875,7 +42875,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -43162,7 +43162,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -43454,7 +43454,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -43735,7 +43735,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -44022,7 +44022,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -44308,7 +44308,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -44857,7 +44857,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -45150,7 +45150,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -45717,7 +45717,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "GreeN"
             },
             "us": {
@@ -46003,7 +46003,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.8,
+              "internalLevel": 9.1,
               "version": "GreeN"
             },
             "us": {
@@ -46357,7 +46357,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "GreeN"
             },
             "us": {
@@ -47259,7 +47259,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -47837,7 +47837,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN"
             },
             "us": {
@@ -48120,7 +48120,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -48471,7 +48471,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -49085,7 +49085,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -49370,7 +49370,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "GreeN"
             },
             "us": {
@@ -50001,7 +50001,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN PLUS"
             },
             "cn": {
@@ -50269,7 +50269,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "GreeN"
             },
             "us": {
@@ -50883,7 +50883,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -51242,7 +51242,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.6,
+              "internalLevel": 7.9,
               "version": "GreeN"
             },
             "us": {
@@ -51526,7 +51526,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -51813,7 +51813,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN"
             },
             "us": {
@@ -52162,7 +52162,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "GreeN"
             },
             "us": {
@@ -52511,7 +52511,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "GreeN"
             },
             "us": {
@@ -52797,7 +52797,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "GreeN"
             },
             "us": {
@@ -53079,7 +53079,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "GreeN"
             },
             "us": {
@@ -53360,7 +53360,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "GreeN"
             },
             "us": {
@@ -53710,7 +53710,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "GreeN"
             },
             "us": {
@@ -54137,7 +54137,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "GreeN"
             },
             "us": {
@@ -54417,7 +54417,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN"
             },
             "us": {
@@ -54700,7 +54700,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "GreeN"
             },
             "us": {
@@ -54983,7 +54983,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -55271,7 +55271,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -55554,7 +55554,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -56564,7 +56564,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi"
             },
             "us": {
@@ -56940,7 +56940,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.6,
+              "internalLevel": 7.9,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -57489,7 +57489,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -58061,7 +58061,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -58636,7 +58636,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "ORANGE"
             },
             "us": {
@@ -58984,7 +58984,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "ORANGE"
             },
             "us": {
@@ -59615,7 +59615,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -60611,7 +60611,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -61238,7 +61238,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -61786,7 +61786,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -62071,7 +62071,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "GreeN PLUS"
             },
             "cn": {
@@ -62338,7 +62338,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -62625,7 +62625,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -62907,7 +62907,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -63257,7 +63257,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -63537,7 +63537,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -63889,7 +63889,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -64175,7 +64175,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE"
             },
             "us": {
@@ -64726,7 +64726,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -65278,7 +65278,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -65561,7 +65561,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -66107,7 +66107,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -66393,7 +66393,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -66669,7 +66669,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "GreeN PLUS"
             },
             "cn": {
@@ -66936,7 +66936,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -67489,7 +67489,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -67776,7 +67776,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -68059,7 +68059,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -68346,7 +68346,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -68633,7 +68633,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -68984,7 +68984,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -69267,7 +69267,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -69552,7 +69552,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "ORANGE"
             },
             "us": {
@@ -69925,7 +69925,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.4,
+              "internalLevel": 7.7,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -70212,7 +70212,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -70746,7 +70746,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -71031,7 +71031,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -71313,7 +71313,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -71595,7 +71595,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -71883,7 +71883,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -72169,7 +72169,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "GreeN PLUS"
             },
             "us": {
@@ -72455,7 +72455,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -72736,7 +72736,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "ORANGE"
             },
             "us": {
@@ -73021,7 +73021,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE"
             },
             "us": {
@@ -73306,7 +73306,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "ORANGE"
             },
             "us": {
@@ -73588,7 +73588,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "ORANGE"
             },
             "us": {
@@ -73872,7 +73872,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "PiNK"
             },
             "us": {
@@ -74234,7 +74234,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "PiNK"
             },
             "us": {
@@ -74521,7 +74521,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "ORANGE"
             },
             "us": {
@@ -75068,7 +75068,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -75381,7 +75381,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -75741,7 +75741,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -76357,7 +76357,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "ORANGE"
             },
             "us": {
@@ -76911,7 +76911,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "ORANGE"
             },
             "us": {
@@ -77271,7 +77271,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "ORANGE"
             },
             "us": {
@@ -77821,7 +77821,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "ORANGE"
             },
             "us": {
@@ -78104,7 +78104,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -78386,7 +78386,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE"
             },
             "us": {
@@ -78738,7 +78738,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.4,
               "version": "ORANGE"
             },
             "us": {
@@ -79029,7 +79029,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -79318,7 +79318,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "ORANGE"
             },
             "us": {
@@ -79601,7 +79601,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "ORANGE"
             },
             "cn": {
@@ -79869,7 +79869,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "ORANGE"
             },
             "us": {
@@ -80151,7 +80151,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "ORANGE"
             },
             "us": {
@@ -80437,7 +80437,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "ORANGE"
             },
             "us": {
@@ -80724,7 +80724,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE"
             },
             "us": {
@@ -81005,7 +81005,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "ORANGE"
             },
             "us": {
@@ -81292,7 +81292,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "ORANGE"
             },
             "us": {
@@ -81587,7 +81587,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "ORANGE"
             },
             "us": {
@@ -81938,7 +81938,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "ORANGE"
             },
             "us": {
@@ -82219,7 +82219,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "ORANGE"
             },
             "us": {
@@ -82500,7 +82500,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -82782,7 +82782,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -83062,7 +83062,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -84516,7 +84516,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "PiNK"
             },
             "us": {
@@ -84806,7 +84806,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "PiNK"
             },
             "us": {
@@ -84938,7 +84938,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 12.9,
+              "internalLevel": 12.7,
               "version": "PiNK"
             },
             "us": {
@@ -85090,7 +85090,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.1,
+              "internalLevel": 7.4,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -85371,7 +85371,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -85727,7 +85727,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -86020,7 +86020,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -86302,7 +86302,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -86848,7 +86848,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -87140,7 +87140,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -87688,7 +87688,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.4,
+              "internalLevel": 8.7,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -87976,7 +87976,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "PiNK"
             },
             "us": {
@@ -88264,7 +88264,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "PiNK"
             },
             "us": {
@@ -88548,7 +88548,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "PiNK"
             },
             "us": {
@@ -88834,7 +88834,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "PiNK"
             },
             "us": {
@@ -89116,7 +89116,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.5,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -89403,7 +89403,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -89986,7 +89986,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "PiNK"
             },
             "us": {
@@ -90271,7 +90271,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -90552,7 +90552,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -90838,7 +90838,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "ORANGE PLUS"
             },
             "us": {
@@ -91127,7 +91127,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "PiNK"
             },
             "us": {
@@ -91414,7 +91414,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "PiNK"
             },
             "us": {
@@ -91699,7 +91699,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "PiNK"
             },
             "us": {
@@ -92074,7 +92074,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.4,
+              "internalLevel": 8.7,
               "version": "PiNK"
             },
             "us": {
@@ -92365,7 +92365,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "PiNK"
             },
             "us": {
@@ -92650,7 +92650,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "PiNK"
             },
             "us": {
@@ -92935,7 +92935,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "PiNK"
             },
             "us": {
@@ -93216,7 +93216,7 @@
             },
             "intl": {
               "level": "10",
-              "internalLevel": 11.1,
+              "internalLevel": 10.5,
               "version": "PiNK"
             },
             "us": {
@@ -93507,7 +93507,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "PiNK"
             },
             "us": {
@@ -93789,7 +93789,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "PiNK"
             },
             "us": {
@@ -94072,7 +94072,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "PiNK"
             },
             "us": {
@@ -94355,7 +94355,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "PiNK"
             },
             "us": {
@@ -94635,7 +94635,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -94923,7 +94923,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "PiNK"
             },
             "us": {
@@ -95213,7 +95213,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "PiNK"
             },
             "us": {
@@ -95561,7 +95561,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "PiNK"
             },
             "us": {
@@ -95911,7 +95911,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "PiNK"
             },
             "us": {
@@ -96198,7 +96198,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "PiNK"
             },
             "us": {
@@ -96481,7 +96481,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -96763,7 +96763,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "PiNK"
             },
             "us": {
@@ -97044,7 +97044,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "PiNK"
             },
             "us": {
@@ -97324,7 +97324,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "PiNK"
             },
             "us": {
@@ -97643,7 +97643,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "PiNK"
             }
           }
@@ -97789,7 +97789,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "PiNK"
             },
             "cn": {
@@ -98055,7 +98055,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "PiNK"
             },
             "us": {
@@ -98337,7 +98337,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "PiNK"
             },
             "us": {
@@ -98618,7 +98618,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.2,
+              "internalLevel": 9.6,
               "version": "MURASAKi"
             },
             "us": {
@@ -98902,7 +98902,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -99189,7 +99189,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -99745,7 +99745,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi"
             },
             "us": {
@@ -100030,7 +100030,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -100317,7 +100317,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.8,
+              "internalLevel": 9.1,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -100606,7 +100606,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.4,
+              "internalLevel": 9.8,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -100959,7 +100959,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "PiNK PLUS"
             },
             "cn": {
@@ -101231,7 +101231,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -101515,7 +101515,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -101800,7 +101800,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -102175,7 +102175,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -102457,7 +102457,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MURASAKi"
             },
             "us": {
@@ -102741,7 +102741,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MURASAKi"
             },
             "us": {
@@ -103116,7 +103116,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -103578,7 +103578,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -103867,7 +103867,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.6,
+              "internalLevel": 7.9,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -104241,7 +104241,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -104529,7 +104529,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "PiNK PLUS"
             },
             "cn": {
@@ -105175,7 +105175,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -105458,7 +105458,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -105744,7 +105744,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -106025,7 +106025,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -106310,7 +106310,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -106596,7 +106596,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -106881,7 +106881,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.8,
+              "internalLevel": 7.1,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -107227,7 +107227,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -107509,7 +107509,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -108060,7 +108060,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MURASAKi"
             },
             "us": {
@@ -108611,7 +108611,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -108906,7 +108906,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -109194,7 +109194,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -109476,7 +109476,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -109759,7 +109759,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "MiLK"
             },
             "us": {
@@ -110330,7 +110330,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -110618,7 +110618,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "PiNK PLUS"
             },
             "us": {
@@ -111184,7 +111184,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "MURASAKi"
             },
             "us": {
@@ -111467,7 +111467,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.1,
+              "internalLevel": 8.4,
               "version": "MURASAKi"
             },
             "us": {
@@ -111995,7 +111995,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MURASAKi"
             },
             "cn": {
@@ -112271,7 +112271,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MURASAKi"
             },
             "us": {
@@ -112567,7 +112567,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "MURASAKi"
             },
             "us": {
@@ -112854,7 +112854,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MURASAKi"
             },
             "us": {
@@ -113143,7 +113143,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MURASAKi"
             },
             "us": {
@@ -113433,7 +113433,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi"
             },
             "us": {
@@ -113715,7 +113715,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "MURASAKi"
             },
             "us": {
@@ -114169,7 +114169,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MURASAKi"
             },
             "us": {
@@ -114457,7 +114457,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "FiNALE"
             },
             "us": {
@@ -114738,7 +114738,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MURASAKi"
             },
             "us": {
@@ -115022,7 +115022,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.3,
+              "internalLevel": 9.7,
               "version": "MURASAKi"
             },
             "us": {
@@ -115304,7 +115304,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MURASAKi"
             },
             "us": {
@@ -115599,7 +115599,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MURASAKi"
             },
             "us": {
@@ -115893,7 +115893,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.4,
+              "internalLevel": 9.8,
               "version": "MURASAKi"
             },
             "us": {
@@ -116456,7 +116456,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MURASAKi"
             },
             "us": {
@@ -116749,7 +116749,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MURASAKi"
             },
             "us": {
@@ -117319,7 +117319,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi"
             },
             "us": {
@@ -117615,7 +117615,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.4,
+              "internalLevel": 8.7,
               "version": "MURASAKi"
             },
             "us": {
@@ -117897,7 +117897,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MURASAKi"
             },
             "us": {
@@ -118186,7 +118186,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MURASAKi"
             },
             "us": {
@@ -118474,7 +118474,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MURASAKi"
             },
             "us": {
@@ -119045,7 +119045,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi"
             },
             "us": {
@@ -119329,7 +119329,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MURASAKi"
             },
             "us": {
@@ -119614,7 +119614,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "MURASAKi"
             },
             "us": {
@@ -119895,7 +119895,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK"
             },
             "us": {
@@ -120179,7 +120179,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -120465,7 +120465,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.5,
               "version": "MURASAKi"
             },
             "us": {
@@ -120831,7 +120831,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MURASAKi"
             },
             "us": {
@@ -121382,7 +121382,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MURASAKi"
             },
             "us": {
@@ -121671,7 +121671,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MURASAKi"
             },
             "us": {
@@ -121965,7 +121965,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "MURASAKi"
             },
             "us": {
@@ -122246,7 +122246,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "MURASAKi"
             },
             "us": {
@@ -122794,7 +122794,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "MURASAKi"
             },
             "us": {
@@ -123083,7 +123083,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi"
             },
             "us": {
@@ -123366,7 +123366,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.6,
+              "internalLevel": 8.9,
               "version": "MURASAKi"
             },
             "us": {
@@ -123668,7 +123668,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -123954,7 +123954,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -124241,7 +124241,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -124526,7 +124526,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -124808,7 +124808,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -125172,7 +125172,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -125453,7 +125453,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -125825,7 +125825,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -126229,7 +126229,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -126516,7 +126516,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -127067,7 +127067,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -127357,7 +127357,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -127642,7 +127642,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -127930,7 +127930,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -128214,7 +128214,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -128569,7 +128569,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -128852,7 +128852,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -129146,7 +129146,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -129429,7 +129429,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -129711,7 +129711,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "MURASAKi PLUS"
             },
             "cn": {
@@ -130124,7 +130124,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 12.8,
+              "internalLevel": 12.7,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -130277,7 +130277,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -130562,7 +130562,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -131109,7 +131109,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -131402,7 +131402,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "MiLK"
             },
             "us": {
@@ -131688,7 +131688,7 @@
             },
             "intl": {
               "level": "10",
-              "internalLevel": 10.9,
+              "internalLevel": 10.3,
               "version": "MiLK"
             },
             "us": {
@@ -131975,7 +131975,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -132265,7 +132265,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -132552,7 +132552,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.5,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -132835,7 +132835,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -132967,7 +132967,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 12.9,
+              "internalLevel": 12.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -133117,7 +133117,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -133408,7 +133408,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -133692,7 +133692,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -133978,7 +133978,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -134442,7 +134442,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -135010,7 +135010,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -135304,7 +135304,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MURASAKi PLUS"
             },
             "us": {
@@ -135776,7 +135776,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK"
             },
             "us": {
@@ -136059,7 +136059,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK"
             },
             "us": {
@@ -136344,7 +136344,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MiLK"
             },
             "us": {
@@ -136749,7 +136749,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MiLK"
             },
             "us": {
@@ -137305,7 +137305,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK"
             },
             "us": {
@@ -137593,7 +137593,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK"
             },
             "us": {
@@ -137874,7 +137874,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK"
             },
             "us": {
@@ -138167,7 +138167,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MiLK"
             },
             "us": {
@@ -138460,7 +138460,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.8,
+              "internalLevel": 8.1,
               "version": "MiLK"
             },
             "us": {
@@ -138751,7 +138751,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.9,
+              "internalLevel": 7.2,
               "version": "MiLK"
             },
             "cn": {
@@ -139014,7 +139014,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.5,
               "version": "MiLK"
             },
             "cn": {
@@ -139288,7 +139288,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "MiLK"
             },
             "us": {
@@ -139847,7 +139847,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MiLK"
             },
             "us": {
@@ -140143,7 +140143,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK"
             },
             "us": {
@@ -140427,7 +140427,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "MiLK"
             },
             "us": {
@@ -140714,7 +140714,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MiLK"
             },
             "us": {
@@ -141006,7 +141006,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MiLK"
             },
             "us": {
@@ -141298,7 +141298,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK"
             },
             "us": {
@@ -141591,7 +141591,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK"
             },
             "us": {
@@ -142226,7 +142226,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK"
             },
             "us": {
@@ -142515,7 +142515,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK"
             },
             "us": {
@@ -142797,7 +142797,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK"
             },
             "us": {
@@ -143349,7 +143349,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK"
             },
             "us": {
@@ -143637,7 +143637,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MiLK"
             },
             "us": {
@@ -143993,7 +143993,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MiLK"
             },
             "us": {
@@ -144552,7 +144552,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MiLK"
             },
             "us": {
@@ -144836,7 +144836,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK"
             },
             "us": {
@@ -145122,7 +145122,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK"
             },
             "us": {
@@ -145404,7 +145404,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MiLK"
             },
             "us": {
@@ -145686,7 +145686,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MiLK"
             },
             "us": {
@@ -145967,7 +145967,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MiLK"
             },
             "cn": {
@@ -146240,7 +146240,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MiLK"
             },
             "us": {
@@ -146527,7 +146527,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK"
             },
             "us": {
@@ -146809,7 +146809,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "FiNALE"
             },
             "us": {
@@ -147090,7 +147090,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.2,
+              "internalLevel": 9.6,
               "version": "MiLK"
             },
             "us": {
@@ -147376,7 +147376,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK"
             },
             "us": {
@@ -147662,7 +147662,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MiLK"
             },
             "us": {
@@ -147950,7 +147950,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK"
             },
             "us": {
@@ -148234,7 +148234,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK"
             },
             "us": {
@@ -148519,7 +148519,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK"
             },
             "us": {
@@ -148809,7 +148809,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "MiLK"
             },
             "us": {
@@ -149091,7 +149091,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MiLK PLUS"
             },
             "cn": {
@@ -149435,7 +149435,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -149718,7 +149718,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -150263,7 +150263,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -150603,7 +150603,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -150886,7 +150886,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.2,
+              "internalLevel": 9.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -151190,7 +151190,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -151478,7 +151478,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.4,
+              "internalLevel": 8.7,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -151768,7 +151768,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -152058,7 +152058,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -152343,7 +152343,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -152541,7 +152541,7 @@
             },
             "intl": {
               "level": "13+",
-              "internalLevel": 13.8,
+              "internalLevel": 13.7,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -152692,7 +152692,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -152973,7 +152973,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -153258,7 +153258,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -153737,7 +153737,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -154114,7 +154114,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "FiNALE"
             },
             "us": {
@@ -154395,7 +154395,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -154685,7 +154685,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -154883,7 +154883,7 @@
             },
             "intl": {
               "level": "13+",
-              "internalLevel": 13.9,
+              "internalLevel": 13.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -155042,7 +155042,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -155332,7 +155332,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -155615,7 +155615,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -155964,7 +155964,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -156336,7 +156336,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -156627,7 +156627,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -156979,7 +156979,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -157265,7 +157265,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -157547,7 +157547,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -157834,7 +157834,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -158119,7 +158119,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -158406,7 +158406,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -158693,7 +158693,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -158978,7 +158978,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.8,
+              "internalLevel": 9.1,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -159263,7 +159263,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.5,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -159559,7 +159559,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -159849,7 +159849,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -160133,7 +160133,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -160418,7 +160418,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -160784,7 +160784,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -161069,7 +161069,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.2,
+              "internalLevel": 9.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -161358,7 +161358,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -161644,7 +161644,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8.2,
+              "internalLevel": 7.5,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -161928,7 +161928,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "MiLK PLUS"
             },
             "us": {
@@ -162218,7 +162218,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "FiNALE"
             },
             "us": {
@@ -162507,7 +162507,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "FiNALE"
             },
             "us": {
@@ -162784,7 +162784,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.9,
+              "internalLevel": 8.2,
               "version": "FiNALE"
             },
             "cn": {
@@ -163131,7 +163131,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 8.7,
+              "internalLevel": 8,
               "version": "FiNALE"
             },
             "us": {
@@ -163487,7 +163487,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "FiNALE"
             },
             "us": {
@@ -163775,7 +163775,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.5,
               "version": "FiNALE"
             },
             "us": {
@@ -164065,7 +164065,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "FiNALE"
             },
             "us": {
@@ -164360,7 +164360,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.2,
+              "internalLevel": 9.6,
               "version": "FiNALE"
             },
             "us": {
@@ -164643,7 +164643,7 @@
             },
             "intl": {
               "level": "10+",
-              "internalLevel": 11.3,
+              "internalLevel": 10.7,
               "version": "FiNALE"
             },
             "us": {
@@ -165020,7 +165020,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "FiNALE"
             },
             "us": {
@@ -165689,7 +165689,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.3,
+              "internalLevel": 9.7,
               "version": "FiNALE"
             },
             "us": {
@@ -166234,7 +166234,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "FiNALE"
             },
             "us": {
@@ -166683,7 +166683,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "FiNALE"
             },
             "us": {
@@ -167215,7 +167215,7 @@
             },
             "intl": {
               "level": "9+",
-              "internalLevel": 10.2,
+              "internalLevel": 9.6,
               "version": "FiNALE"
             },
             "us": {
@@ -167588,7 +167588,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "FiNALE"
             },
             "us": {
@@ -167880,7 +167880,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "FiNALE"
             },
             "us": {
@@ -168237,7 +168237,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "FiNALE"
             },
             "us": {
@@ -168521,7 +168521,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "FiNALE"
             },
             "us": {
@@ -168868,7 +168868,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "FiNALE"
             },
             "us": {
@@ -169154,7 +169154,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.5,
               "version": "FiNALE"
             },
             "us": {
@@ -169522,7 +169522,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "FiNALE"
             },
             "us": {
@@ -169814,7 +169814,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 8,
+              "internalLevel": 7.3,
               "version": "FiNALE"
             },
             "us": {
@@ -170098,7 +170098,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.2,
               "version": "FiNALE"
             },
             "us": {
@@ -170383,7 +170383,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "FiNALE"
             },
             "us": {
@@ -170956,7 +170956,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "FiNALE"
             },
             "us": {
@@ -171240,7 +171240,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "FiNALE"
             },
             "us": {
@@ -171591,7 +171591,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.3,
+              "internalLevel": 7.6,
               "version": "FiNALE"
             },
             "us": {
@@ -171877,7 +171877,7 @@
             },
             "intl": {
               "level": "10+",
-              "internalLevel": 11.2,
+              "internalLevel": 10.6,
               "version": "FiNALE"
             },
             "us": {
@@ -172886,7 +172886,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "FiNALE"
             },
             "us": {
@@ -173178,7 +173178,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.7,
+              "internalLevel": 9,
               "version": "FiNALE"
             },
             "us": {
@@ -173465,7 +173465,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "FiNALE"
             },
             "us": {
@@ -173756,7 +173756,7 @@
             },
             "intl": {
               "level": "7+",
-              "internalLevel": 8.5,
+              "internalLevel": 7.8,
               "version": "FiNALE"
             },
             "us": {
@@ -173954,7 +173954,7 @@
             },
             "intl": {
               "level": "13+",
-              "internalLevel": 13.8,
+              "internalLevel": 13.7,
               "version": "FiNALE"
             },
             "us": {
@@ -174108,7 +174108,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "FiNALE"
             },
             "us": {
@@ -174396,7 +174396,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.3,
+              "internalLevel": 8.6,
               "version": "FiNALE"
             },
             "us": {
@@ -174680,7 +174680,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9.2,
+              "internalLevel": 8.5,
               "version": "FiNALE"
             },
             "us": {
@@ -174967,7 +174967,7 @@
             },
             "intl": {
               "level": "8",
-              "internalLevel": 9,
+              "internalLevel": 8.3,
               "version": "FiNALE"
             },
             "us": {
@@ -175254,7 +175254,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "FiNALE"
             },
             "us": {
@@ -175633,7 +175633,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "FiNALE"
             },
             "us": {
@@ -175916,7 +175916,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 9.9,
+              "internalLevel": 9.3,
               "version": "FiNALE"
             },
             "us": {
@@ -176217,7 +176217,7 @@
             },
             "intl": {
               "level": "8+",
-              "internalLevel": 9.5,
+              "internalLevel": 8.8,
               "version": "FiNALE"
             },
             "us": {
@@ -176504,7 +176504,7 @@
             },
             "intl": {
               "level": "10",
-              "internalLevel": 10.9,
+              "internalLevel": 10.3,
               "version": "FiNALE"
             },
             "us": {
@@ -176806,7 +176806,7 @@
             },
             "intl": {
               "level": "7",
-              "internalLevel": 7.7,
+              "internalLevel": 7,
               "version": "MURASAKi PLUS"
             },
             "cn": {
@@ -176867,7 +176867,7 @@
             },
             "intl": {
               "level": "9",
-              "internalLevel": 10.7,
+              "internalLevel": 9,
               "version": "MURASAKi PLUS"
             },
             "cn": {
@@ -176928,7 +176928,7 @@
             },
             "intl": {
               "level": "13",
-              "internalLevel": 13.3,
+              "internalLevel": 13,
               "version": "MURASAKi PLUS"
             },
             "cn": {
@@ -190469,7 +190469,7 @@
             },
             "intl": {
               "level": "11+",
-              "internalLevel": 12.5,
+              "internalLevel": 11.9,
               "version": "maimaiでらっくす"
             },
             "us": {
@@ -195840,7 +195840,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 12.9,
+              "internalLevel": 12.8,
               "version": "maimaiでらっくす"
             },
             "us": {
@@ -201355,7 +201355,7 @@
             },
             "intl": {
               "level": "13",
-              "internalLevel": 13.7,
+              "internalLevel": 13.4,
               "version": "maimaiでらっくす PLUS"
             },
             "us": {
@@ -207216,7 +207216,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 13.2,
+              "internalLevel": 12.9,
               "version": "maimaiでらっくす PLUS"
             },
             "us": {
@@ -208357,7 +208357,7 @@
             },
             "intl": {
               "level": "12",
-              "internalLevel": 12.6,
+              "internalLevel": 12.5,
               "version": "maimaiでらっくす PLUS"
             },
             "us": {
@@ -208925,7 +208925,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 13,
+              "internalLevel": 12.8,
               "version": "maimaiでらっくす PLUS"
             },
             "us": {
@@ -209209,7 +209209,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 13,
+              "internalLevel": 12.8,
               "version": "maimaiでらっくす PLUS"
             },
             "us": {
@@ -210806,7 +210806,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 12.6,
+              "internalLevel": 12.7,
               "version": "maimaiでらっくす PLUS"
             },
             "us": {
@@ -216041,7 +216041,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 12.9,
+              "internalLevel": 12.8,
               "version": "Splash"
             },
             "us": {
@@ -223724,7 +223724,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 13.1,
+              "internalLevel": 12.9,
               "version": "Splash"
             },
             "us": {
@@ -238173,7 +238173,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 12.9,
+              "internalLevel": 12.8,
               "version": "Splash PLUS"
             },
             "us": {
@@ -282446,7 +282446,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 13,
+              "internalLevel": 12.9,
               "version": "UNiVERSE PLUS"
             },
             "us": {
@@ -285991,7 +285991,7 @@
             },
             "intl": {
               "level": "13+",
-              "internalLevel": 13.8,
+              "internalLevel": 13.7,
               "version": "FESTiVAL"
             },
             "us": {
@@ -399876,7 +399876,7 @@
             },
             "intl": {
               "level": "13+",
-              "internalLevel": 13.9,
+              "internalLevel": 13.8,
               "version": "CiRCLE"
             },
             "us": {
@@ -402216,7 +402216,7 @@
             },
             "intl": {
               "level": "13+",
-              "internalLevel": 13.9,
+              "internalLevel": 13.8,
               "version": "CiRCLE"
             },
             "us": {
@@ -404616,7 +404616,7 @@
             },
             "intl": {
               "level": "14",
-              "internalLevel": 14.2,
+              "internalLevel": 14.1,
               "version": "CiRCLE"
             },
             "us": {
@@ -405266,7 +405266,7 @@
             },
             "intl": {
               "level": "14",
-              "internalLevel": 14.6,
+              "internalLevel": 14.5,
               "version": "CiRCLE"
             },
             "us": {
@@ -405703,7 +405703,7 @@
             },
             "intl": {
               "level": "13",
-              "internalLevel": 13.2,
+              "internalLevel": 13,
               "version": "CiRCLE"
             },
             "us": {
@@ -406353,7 +406353,7 @@
             },
             "intl": {
               "level": "13",
-              "internalLevel": 13.6,
+              "internalLevel": 13.4,
               "version": "CiRCLE"
             },
             "us": {
@@ -407393,7 +407393,7 @@
             },
             "intl": {
               "level": "13+",
-              "internalLevel": 13.9,
+              "internalLevel": 13.8,
               "version": "CiRCLE"
             },
             "us": {
@@ -409103,7 +409103,7 @@
             },
             "intl": {
               "level": "14+",
-              "internalLevel": 14.7,
+              "internalLevel": 14.6,
               "version": "CiRCLE"
             },
             "us": {
@@ -409673,7 +409673,7 @@
             },
             "intl": {
               "level": "12+",
-              "internalLevel": 13,
+              "internalLevel": 12.9,
               "version": "CiRCLE"
             },
             "us": {
@@ -409803,7 +409803,7 @@
             },
             "intl": {
               "level": "13",
-              "internalLevel": 12.9,
+              "internalLevel": 13,
               "version": "CiRCLE"
             },
             "us": {
@@ -410323,7 +410323,7 @@
             },
             "intl": {
               "level": "14",
-              "internalLevel": 14,
+              "internalLevel": 14.1,
               "version": "CiRCLE PLUS"
             },
             "us": {
@@ -414203,7 +414203,7 @@
             },
             "intl": {
               "level": "13",
-              "internalLevel": 13.4,
+              "internalLevel": 13.2,
               "version": "CiRCLE PLUS"
             },
             "us": {
@@ -414333,7 +414333,7 @@
             },
             "intl": {
               "level": "13",
-              "internalLevel": 13.3,
+              "internalLevel": 13.1,
               "version": "CiRCLE PLUS"
             },
             "us": {
