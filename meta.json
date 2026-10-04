@@ -30659,12 +30659,12 @@
           "version": "MAGiCAL",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 118,
+            "hold": 9,
+            "slide": 4,
+            "touch": 7,
+            "break": 20,
+            "total": 158
           },
           "availableRegions": [
             "jp"
@@ -30678,12 +30678,12 @@
           "version": "MAGiCAL",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 204,
+            "hold": 12,
+            "slide": 6,
+            "touch": 28,
+            "break": 8,
+            "total": 258
           },
           "availableRegions": [
             "jp"
@@ -30695,14 +30695,14 @@
           "level": "10+",
           "internalLevel": 10.8,
           "version": "MAGiCAL",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 325,
+            "hold": 45,
+            "slide": 31,
+            "touch": 25,
+            "break": 21,
+            "total": 447
           },
           "availableRegions": [
             "jp"
@@ -30714,14 +30714,14 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "MAGiCAL",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
+            "tap": 465,
+            "hold": 25,
+            "slide": 78,
+            "touch": 127,
+            "break": 94,
+            "total": 789
           },
           "availableRegions": [
             "jp"
@@ -91565,12 +91565,12 @@
           "version": "MAGiCAL",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 174,
+            "hold": 10,
+            "slide": 9,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 4,
+            "total": 197
           },
           "availableRegions": [
             "jp"
@@ -91584,12 +91584,12 @@
           "version": "MAGiCAL",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 280,
+            "hold": 18,
+            "slide": 14,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 12,
+            "total": 324
           },
           "availableRegions": [
             "jp"
@@ -91601,14 +91601,14 @@
           "level": "10+",
           "internalLevel": 10.7,
           "version": "MAGiCAL",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 427,
+            "hold": 78,
+            "slide": 55,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 44,
+            "total": 604
           },
           "availableRegions": [
             "jp"
@@ -91620,14 +91620,14 @@
           "level": "13+",
           "internalLevel": 13.8,
           "version": "MAGiCAL",
-          "noteDesigner": null,
+          "noteDesigner": "サファ太",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 592,
+            "hold": 56,
+            "slide": 174,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 93,
+            "total": 915
           },
           "availableRegions": [
             "jp"
@@ -176150,7 +176150,7 @@
           "level": "14",
           "internalLevel": 14.1,
           "version": "CiRCLE",
-          "noteDesigner": null,
+          "noteDesigner": "はっぴー",
           "noteCounts": {
             "tap": 706,
             "hold": 17,
