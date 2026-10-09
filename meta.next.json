@@ -22185,7 +22185,7 @@
           "regions": {
             "jp": {
               "level": "12",
-              "internalLevel": 12,
+              "internalLevel": 12.5,
               "version": "maimai PLUS"
             },
             "intl": {
@@ -22195,7 +22195,7 @@
             },
             "us": {
               "level": "12",
-              "internalLevel": 12,
+              "internalLevel": 12.5,
               "version": "maimai PLUS"
             },
             "cn": {
@@ -22251,7 +22251,7 @@
           "regions": {
             "jp": {
               "level": "13",
-              "internalLevel": 13,
+              "internalLevel": 13.5,
               "version": "maimai PLUS"
             },
             "intl": {
@@ -22261,7 +22261,7 @@
             },
             "us": {
               "level": "13",
-              "internalLevel": 13,
+              "internalLevel": 13.5,
               "version": "maimai PLUS"
             },
             "cn": {

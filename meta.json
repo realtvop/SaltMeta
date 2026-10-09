@@ -8802,7 +8802,7 @@
           "type": "sd",
           "difficulty": 3,
           "level": "12",
-          "internalLevel": 12,
+          "internalLevel": 12.5,
           "version": "maimai PLUS",
           "noteDesigner": "mai-Star",
           "noteCounts": {
@@ -8824,7 +8824,7 @@
           "type": "sd",
           "difficulty": 4,
           "level": "13",
-          "internalLevel": 13,
+          "internalLevel": 13.5,
           "version": "maimai PLUS",
           "noteDesigner": "じゃこレモン",
           "noteCounts": {
