@@ -82128,6 +82128,116 @@
       }
     },
     {
+      "id": 397,
+      "title": "Can Do",
+      "artist": "GRANRODEO",
+      "bpm": 200,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "4",
+              "internalLevel": 4,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "7+",
+              "internalLevel": 7.7,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "10+",
+              "internalLevel": 10.8,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "noteDesigner": "mai-Star",
+          "noteCounts": {
+            "tap": 446,
+            "hold": 37,
+            "slide": 64,
+            "touch": null,
+            "break": 34,
+            "total": 581
+          },
+          "regions": {
+            "jp": {
+              "level": "13",
+              "internalLevel": 13.4,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "sd",
+          "difficulty": 4,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "13+",
+              "internalLevel": 13.7,
+              "version": "MAGiCAL"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": 399,
       "title": "不毛！",
       "artist": "ぽてんしゃる0",
@@ -415904,6 +416014,16 @@
               "level": "2",
               "internalLevel": 2,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "2",
+              "internalLevel": 2,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "2",
+              "internalLevel": 2,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -415921,6 +416041,16 @@
           },
           "regions": {
             "jp": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "6",
               "internalLevel": 6,
               "version": "CiRCLE PLUS"
@@ -415944,6 +416074,16 @@
               "level": "10",
               "internalLevel": 10.5,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "10",
+              "internalLevel": 10.5,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "10",
+              "internalLevel": 10.5,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -415961,6 +416101,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13",
+              "internalLevel": 13.1,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13",
+              "internalLevel": 13.1,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13",
               "internalLevel": 13.1,
               "version": "CiRCLE PLUS"
@@ -415994,6 +416144,16 @@
               "level": "3",
               "internalLevel": 3,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -416011,6 +416171,16 @@
           },
           "regions": {
             "jp": {
+              "level": "7",
+              "internalLevel": 7.5,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "7",
+              "internalLevel": 7.5,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "7",
               "internalLevel": 7.5,
               "version": "CiRCLE PLUS"
@@ -416034,6 +416204,16 @@
               "level": "10+",
               "internalLevel": 10.8,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "10+",
+              "internalLevel": 10.8,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "10+",
+              "internalLevel": 10.8,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -416054,6 +416234,16 @@
               "level": "11+",
               "internalLevel": 11.7,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "11+",
+              "internalLevel": 11.7,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "11+",
+              "internalLevel": 11.7,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -416071,6 +416261,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13",
+              "internalLevel": 13.3,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13",
+              "internalLevel": 13.3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13",
               "internalLevel": 13.3,
               "version": "CiRCLE PLUS"
@@ -416104,6 +416304,16 @@
               "level": "3",
               "internalLevel": 3,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -416121,6 +416331,16 @@
           },
           "regions": {
             "jp": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "6",
               "internalLevel": 6,
               "version": "CiRCLE PLUS"
@@ -416144,6 +416364,16 @@
               "level": "11",
               "internalLevel": 11,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "11",
+              "internalLevel": 11,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "11",
+              "internalLevel": 11,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -416161,6 +416391,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13+",
+              "internalLevel": 13.6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13+",
+              "internalLevel": 13.6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13+",
               "internalLevel": 13.6,
               "version": "CiRCLE PLUS"
@@ -417004,6 +417244,16 @@
               "level": "3",
               "internalLevel": 3,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -417021,6 +417271,16 @@
           },
           "regions": {
             "jp": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "6",
               "internalLevel": 6,
               "version": "CiRCLE PLUS"
@@ -417044,6 +417304,16 @@
               "level": "11",
               "internalLevel": 11.4,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "11",
+              "internalLevel": 11.4,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "11",
+              "internalLevel": 11.4,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -417061,6 +417331,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13+",
+              "internalLevel": 13.8,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13+",
+              "internalLevel": 13.8,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13+",
               "internalLevel": 13.8,
               "version": "CiRCLE PLUS"
@@ -421143,6 +421423,14 @@
             "jp": {
               "level": "【即】",
               "internalLevel": 14.6
+            },
+            "intl": {
+              "level": "【即】",
+              "internalLevel": 14.6
+            },
+            "us": {
+              "level": "【即】",
+              "internalLevel": 14.6
             }
           }
         }
@@ -422485,6 +422773,14 @@
           },
           "regions": {
             "jp": {
+              "level": "【覚】",
+              "internalLevel": 12
+            },
+            "intl": {
+              "level": "【覚】",
+              "internalLevel": 12
+            },
+            "us": {
               "level": "【覚】",
               "internalLevel": 12
             }

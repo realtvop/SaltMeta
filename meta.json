@@ -34090,6 +34090,111 @@
       }
     },
     {
+      "id": 397,
+      "title": "Can Do",
+      "artist": "GRANRODEO",
+      "bpm": 200,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.7,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "mai-Star",
+          "noteCounts": {
+            "tap": 446,
+            "hold": 37,
+            "slide": 64,
+            "touch": null,
+            "break": 34,
+            "total": 581
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 4,
+          "level": "13+",
+          "internalLevel": 13.7,
+          "version": "MAGiCAL",
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 399,
       "title": "不毛！",
       "artist": "ぽてんしゃる0",
@@ -185145,7 +185250,9 @@
             "total": 156
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185164,7 +185271,9 @@
             "total": 267
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185183,7 +185292,9 @@
             "total": 419
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185202,7 +185313,9 @@
             "total": 606
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -185231,7 +185344,9 @@
             "total": 229
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185250,7 +185365,9 @@
             "total": 379
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185269,7 +185386,9 @@
             "total": 512
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185288,7 +185407,9 @@
             "total": 605
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185307,7 +185428,9 @@
             "total": 715
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -185336,7 +185459,9 @@
             "total": 205
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185355,7 +185480,9 @@
             "total": 300
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185374,7 +185501,9 @@
             "total": 522
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185393,7 +185522,9 @@
             "total": 767
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -186196,7 +186327,9 @@
             "total": 148
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -186215,7 +186348,9 @@
             "total": 302
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -186234,7 +186369,9 @@
             "total": 419
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -186253,7 +186390,9 @@
             "total": 740
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -188548,7 +188687,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -189400,7 +189541,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
