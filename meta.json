@@ -34123,12 +34123,12 @@
           "version": "MAGiCAL",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 146,
+            "hold": 8,
+            "slide": 4,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 4,
+            "total": 162
           },
           "availableRegions": [
             "jp"
@@ -34142,12 +34142,12 @@
           "version": "MAGiCAL",
           "noteDesigner": "-",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 199,
+            "hold": 22,
+            "slide": 6,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 6,
+            "total": 233
           },
           "availableRegions": [
             "jp"
@@ -34159,14 +34159,14 @@
           "level": "10+",
           "internalLevel": 10.8,
           "version": "MAGiCAL",
-          "noteDesigner": "Jack",
+          "noteDesigner": "はっぴー",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 337,
+            "hold": 33,
+            "slide": 25,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 20,
+            "total": 415
           },
           "availableRegions": [
             "jp"
@@ -34197,14 +34197,14 @@
           "level": "13+",
           "internalLevel": 13.7,
           "version": "MAGiCAL",
-          "noteDesigner": null,
+          "noteDesigner": "Luxizhel",
           "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
+            "tap": 446,
+            "hold": 19,
+            "slide": 106,
             "touch": null,
-            "break": null,
-            "total": null
+            "break": 43,
+            "total": 614
           },
           "availableRegions": [
             "jp"
@@ -185801,7 +185801,9 @@
             "total": 206
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185820,7 +185822,9 @@
             "total": 352
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185839,7 +185843,9 @@
             "total": 537
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185858,7 +185864,9 @@
             "total": 813
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -185887,7 +185895,9 @@
             "total": 232
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185906,7 +185916,9 @@
             "total": 423
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185925,7 +185937,9 @@
             "total": 633
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185944,7 +185958,9 @@
             "total": 888
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -185973,7 +185989,9 @@
             "total": 207
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -185992,7 +186010,9 @@
             "total": 398
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -186011,7 +186031,9 @@
             "total": 546
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -186030,7 +186052,9 @@
             "total": 803
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -186059,7 +186083,9 @@
             "total": 204
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -186078,7 +186104,9 @@
             "total": 368
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -186097,7 +186125,9 @@
             "total": 593
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         },
         {
@@ -186116,7 +186146,9 @@
             "total": 853
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -188352,7 +188384,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
@@ -189381,7 +189415,9 @@
             "total": null
           },
           "availableRegions": [
-            "jp"
+            "jp",
+            "intl",
+            "us"
           ]
         }
       ]
