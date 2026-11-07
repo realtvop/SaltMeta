@@ -11,6 +11,7 @@ interface Music {
 export interface AquaDXMusicCandidate {
     id: string;
     name: string;
+    ver: string;
     composer: string;
     genre: string;
     notes: { lv: number; }[];
@@ -40,6 +41,7 @@ export async function fetchMusicIDList(): Promise<AquaDXMusicCandidate[]> {
     return Object.entries(data).map(([id, music]) => ({
         id,
         name: music.name,
+        ver: music.ver,
         composer: music.composer,
         genre: music.genre,
         notes: music.notes,

@@ -73,6 +73,35 @@ const linkCandidates: SongIDCandidate[] = [
 ];
 
 describe("song ID matching", () => {
+    test("uses the mapped version to resolve the MAGiCAL utage ambiguity", () => {
+        const song = createSong({ title: "[覚]D✪N’T  ST✪P  R✪CKIN’", artist: "EB(aka EarBreaker)", category: "宴会場", version: "MAGiCAL", sheets: createSheets([12.6]) });
+        const candidates: SongIDCandidate[] = [
+            { id: "100364", name: song.title, composer: song.artist, genre: song.category, ver: "Ver1.00.00", notes: [{ lv: 12.7 }] },
+            { id: "110364", name: song.title, composer: song.artist, genre: song.category, ver: "Ver1.70.00", notes: [{ lv: 12.7 }] },
+        ];
+        expect(matchSongIDFromCandidates(song, candidates)).toBe(110364);
+    });
+
+    test("keeps ambiguous candidates ambiguous when the version is unmapped or matches multiple IDs", () => {
+        const song = createSong({ title: "Mirror", artist: "Shared Artist", version: "MAGiCAL", sheets: createSheets([7]) });
+        const candidates: SongIDCandidate[] = [
+            { id: "10", name: song.title, composer: song.artist, genre: song.category, ver: "Ver1.00.00", notes: [{ lv: 7 }] },
+            { id: "11", name: song.title, composer: song.artist, genre: song.category, notes: [{ lv: 7 }] },
+        ];
+        expect(() => matchSongIDFromCandidates(song, candidates)).toThrow(/Ambiguous/);
+        candidates[0].ver = "Ver1.70.00";
+        candidates[1].ver = "Ver1.70.00";
+        expect(() => matchSongIDFromCandidates(song, candidates)).toThrow(/Ambiguous/);
+    });
+
+    test("does not let a version match override a clearly better identity score", () => {
+        const song = createSong({ title: "Mirror", artist: "Actual Artist", version: "MAGiCAL", sheets: createSheets([7]) });
+        const candidates: SongIDCandidate[] = [
+            { id: "10", name: song.title, composer: song.artist, genre: song.category, notes: [{ lv: 7 }] },
+            { id: "11", name: song.title, composer: "Different", genre: song.category, ver: "Ver1.70.00", notes: [{ lv: 7 }] },
+        ];
+        expect(matchSongIDFromCandidates(song, candidates)).toBe(10);
+    });
     test("matches the original Link to AquaDX id 131", () => {
         const song = createSong({
             title: "Link",

@@ -6,9 +6,27 @@ const TITLE_SIMILARITY_THRESHOLD = 0.88;
 const ACCEPT_SCORE_THRESHOLD = 0.72;
 const ACCEPT_SCORE_MARGIN = 0.08;
 
+const AQUADX_VERSIONS: Record<string, string> = {
+    "Ver1.05.00": "maimaiでらっくす PLUS",
+    "Ver1.10.00": "Splash",
+    "Ver1.15.00": "Splash PLUS",
+    "Ver1.20.00": "UNiVERSE",
+    "Ver1.25.00": "UNiVERSE PLUS",
+    "Ver1.30.00": "FESTiVAL",
+    "Ver1.35.00": "FESTiVAL PLUS",
+    "Ver1.40.00": "BUDDiES",
+    "Ver1.45.00": "BUDDiES PLUS",
+    "Ver1.50.00": "PRiSM",
+    "Ver1.55.00": "PRiSM PLUS",
+    "Ver1.60.00": "CiRCLE",
+    "Ver1.65.00": "CiRCLE PLUS",
+    "Ver1.70.00": "MAGiCAL",
+};
+
 export interface SongIDCandidate {
     id: string;
     name: string;
+    ver?: string;
     composer?: string;
     genre?: string;
     bpm?: number;
@@ -49,6 +67,7 @@ function toSongIDCandidate(candidate: AquaDXMusicCandidate): SongIDCandidate {
     return {
         id: candidate.id,
         name: candidate.name,
+        ver: candidate.ver,
         composer: candidate.composer,
         genre: candidate.genre,
         notes: candidate.notes,
@@ -85,6 +104,18 @@ export function matchSongIDFromCandidates(song: Song, candidates: SongIDCandidat
     const second = scored.find(candidate => best && normalizeId(candidate.candidate.id) !== normalizeId(best.candidate.id));
     if (best && best.score >= ACCEPT_SCORE_THRESHOLD && (!second || best.score - second.score >= ACCEPT_SCORE_MARGIN)) {
         return normalizeId(best.candidate.id);
+    }
+
+    // Version is a tie-breaker: source versions can differ for rereleased songs.
+    if (best && best.score >= ACCEPT_SCORE_THRESHOLD) {
+        const versionMatches = scored.filter(({ candidate, score }) =>
+            best.score - score < ACCEPT_SCORE_MARGIN
+            && score >= ACCEPT_SCORE_THRESHOLD
+            && candidate.ver !== undefined
+            && AQUADX_VERSIONS[candidate.ver] === song.version,
+        );
+        const matchingIds = new Set(versionMatches.map(({ candidate }) => normalizeId(candidate.id)));
+        if (matchingIds.size === 1) return matchingIds.values().next().value!;
     }
 
     throw new Error(createAmbiguousMatchMessage(song, scored));
