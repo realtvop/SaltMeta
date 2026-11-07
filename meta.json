@@ -34111,111 +34111,6 @@
       }
     },
     {
-      "id": 397,
-      "title": "Can Do",
-      "artist": "GRANRODEO",
-      "bpm": 200,
-      "category": "POPS＆アニメ",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "sd",
-          "difficulty": 0,
-          "level": "4",
-          "internalLevel": 4,
-          "version": "MAGiCAL",
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 146,
-            "hold": 8,
-            "slide": 4,
-            "touch": null,
-            "break": 4,
-            "total": 162
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "sd",
-          "difficulty": 1,
-          "level": "7+",
-          "internalLevel": 7.7,
-          "version": "MAGiCAL",
-          "noteDesigner": "-",
-          "noteCounts": {
-            "tap": 199,
-            "hold": 22,
-            "slide": 6,
-            "touch": null,
-            "break": 6,
-            "total": 233
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "sd",
-          "difficulty": 2,
-          "level": "10+",
-          "internalLevel": 10.8,
-          "version": "MAGiCAL",
-          "noteDesigner": "はっぴー",
-          "noteCounts": {
-            "tap": 337,
-            "hold": 33,
-            "slide": 25,
-            "touch": null,
-            "break": 20,
-            "total": 415
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "sd",
-          "difficulty": 3,
-          "level": "13",
-          "internalLevel": 13.4,
-          "version": "MAGiCAL",
-          "noteDesigner": "mai-Star",
-          "noteCounts": {
-            "tap": 446,
-            "hold": 37,
-            "slide": 64,
-            "touch": null,
-            "break": 34,
-            "total": 581
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        },
-        {
-          "type": "sd",
-          "difficulty": 4,
-          "level": "13+",
-          "internalLevel": 13.7,
-          "version": "MAGiCAL",
-          "noteDesigner": "Luxizhel",
-          "noteCounts": {
-            "tap": 446,
-            "hold": 19,
-            "slide": 106,
-            "touch": null,
-            "break": 43,
-            "total": 614
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
       "id": 399,
       "title": "不毛！",
       "artist": "ぽてんしゃる0",
@@ -64343,54 +64238,6 @@
             "intl",
             "us",
             "cn"
-          ]
-        }
-      ],
-      "aliases": {
-        "cn": [
-          "energy synergy matrix",
-          "标esm",
-          "esm",
-          "沙雕猫",
-          "esm跑",
-          "神经猫",
-          "恶俗猫",
-          "饿死猫",
-          "跑路猫",
-          "dxesm",
-          "傻吊猫",
-          "dxesm跑",
-          "邮政",
-          "一只猫拖着另一只猫跑"
-        ]
-      }
-    },
-    {
-      "id": 734,
-      "title": "[回]ENERGY SYNERGY MATRIX",
-      "artist": "Tanchiky",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【回】",
-          "internalLevel": 13.6,
-          "version": null,
-          "regionVersionOverride": {},
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp"
           ]
         }
       ],
@@ -176269,36 +176116,6 @@
       ]
     },
     {
-      "id": 1903,
-      "title": "[奏]give it up to you",
-      "artist": "曲：中土智博／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【奏】",
-          "internalLevel": 13,
-          "version": null,
-          "regionVersionOverride": {},
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        }
-      ]
-    },
-    {
       "id": 1904,
       "title": "ICEBURN",
       "artist": "Srav3R",
@@ -186624,6 +186441,608 @@
       ]
     },
     {
+      "id": 2012,
+      "title": "Broomstick adventure!",
+      "artist": "しーけー",
+      "bpm": 180,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 169,
+            "hold": 14,
+            "slide": 4,
+            "touch": 8,
+            "break": 3,
+            "total": 198
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 316,
+            "hold": 17,
+            "slide": 5,
+            "touch": 12,
+            "break": 4,
+            "total": 354
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.9,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 409,
+            "hold": 59,
+            "slide": 24,
+            "touch": 6,
+            "break": 36,
+            "total": 534
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 517,
+            "hold": 41,
+            "slide": 84,
+            "touch": 70,
+            "break": 46,
+            "total": 758
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2013,
+      "title": "無彩色のディストピア",
+      "artist": "HyuN feat. ウォルピスカーター",
+      "bpm": 183,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 166,
+            "hold": 13,
+            "slide": 5,
+            "touch": 11,
+            "break": 11,
+            "total": 206
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 236,
+            "hold": 11,
+            "slide": 9,
+            "touch": 27,
+            "break": 8,
+            "total": 291
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "カマボコ君",
+          "noteCounts": {
+            "tap": 383,
+            "hold": 56,
+            "slide": 60,
+            "touch": 12,
+            "break": 36,
+            "total": 547
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 548,
+            "hold": 20,
+            "slide": 111,
+            "touch": 32,
+            "break": 43,
+            "total": 754
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2014,
+      "title": "Manifold Hypothesis",
+      "artist": "cybermiso feat. tigerlily",
+      "bpm": 174,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 180,
+            "hold": 9,
+            "slide": 5,
+            "touch": 20,
+            "break": 3,
+            "total": 217
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.7,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 342,
+            "hold": 18,
+            "slide": 8,
+            "touch": 11,
+            "break": 2,
+            "total": 381
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 293,
+            "hold": 75,
+            "slide": 38,
+            "touch": 20,
+            "break": 70,
+            "total": 496
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.9,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 665,
+            "hold": 40,
+            "slide": 108,
+            "touch": 45,
+            "break": 42,
+            "total": 900
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2015,
+      "title": "Inverted World",
+      "artist": "ARForest",
+      "bpm": 180,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 167,
+            "hold": 9,
+            "slide": 5,
+            "touch": 20,
+            "break": 4,
+            "total": 205
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7.5,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 289,
+            "hold": 14,
+            "slide": 6,
+            "touch": 22,
+            "break": 6,
+            "total": 337
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11+",
+          "internalLevel": 11.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 396,
+            "hold": 43,
+            "slide": 47,
+            "touch": 38,
+            "break": 14,
+            "total": 538
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.1,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 621,
+            "hold": 60,
+            "slide": 48,
+            "touch": 83,
+            "break": 42,
+            "total": 854
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2016,
+      "title": "相性×優勝ドロップス",
+      "artist": "Idios",
+      "bpm": 172,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 137,
+            "hold": 10,
+            "slide": 4,
+            "touch": 8,
+            "break": 12,
+            "total": 171
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 300,
+            "hold": 17,
+            "slide": 9,
+            "touch": 21,
+            "break": 6,
+            "total": 353
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10.5,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 364,
+            "hold": 60,
+            "slide": 41,
+            "touch": 9,
+            "break": 39,
+            "total": 513
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 486,
+            "hold": 50,
+            "slide": 115,
+            "touch": 35,
+            "break": 54,
+            "total": 740
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2017,
+      "title": "光線歌",
+      "artist": "Guiano",
+      "bpm": 138,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 138,
+            "hold": 12,
+            "slide": 3,
+            "touch": 8,
+            "break": 5,
+            "total": 166
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 235,
+            "hold": 11,
+            "slide": 12,
+            "touch": 29,
+            "break": 8,
+            "total": 295
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 311,
+            "hold": 67,
+            "slide": 17,
+            "touch": 32,
+            "break": 28,
+            "total": 455
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 385,
+            "hold": 47,
+            "slide": 102,
+            "touch": 82,
+            "break": 46,
+            "total": 662
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2018,
+      "title": "電脳眠眠猫",
+      "artist": "桃寝ちのい",
+      "bpm": 160,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 159,
+            "hold": 10,
+            "slide": 4,
+            "touch": 20,
+            "break": 4,
+            "total": 197
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 271,
+            "hold": 21,
+            "slide": 10,
+            "touch": 21,
+            "break": 6,
+            "total": 329
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10.4,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "ブレーンバスター",
+          "noteCounts": {
+            "tap": 383,
+            "hold": 47,
+            "slide": 35,
+            "touch": 16,
+            "break": 44,
+            "total": 525
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "CiRCLE PLUS",
+          "noteDesigner": "じゃこレモン",
+          "noteCounts": {
+            "tap": 612,
+            "hold": 11,
+            "slide": 164,
+            "touch": 24,
+            "break": 32,
+            "total": 843
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 2019,
       "title": "Cryogenic",
       "artist": "Camellia ft. Petra Gurin「In Falsus」",
@@ -186713,6 +187132,2724 @@
             "jp",
             "intl",
             "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020,
+      "title": "物語はここから",
+      "artist": "OSTER project feat. Kanata.N",
+      "bpm": 190,
+      "category": "maimai",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 192,
+            "hold": 12,
+            "slide": 4,
+            "touch": 4,
+            "break": 4,
+            "total": 216
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 262,
+            "hold": 14,
+            "slide": 7,
+            "touch": 40,
+            "break": 4,
+            "total": 327
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.9,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 348,
+            "hold": 73,
+            "slide": 39,
+            "touch": 12,
+            "break": 25,
+            "total": 497
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 564,
+            "hold": 65,
+            "slide": 80,
+            "touch": 32,
+            "break": 68,
+            "total": 809
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021,
+      "title": "ミルクミルクミルク",
+      "artist": "藤原ハガネ feat. マスタード",
+      "bpm": 200,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 205,
+            "hold": 12,
+            "slide": 4,
+            "touch": 8,
+            "break": 13,
+            "total": 242
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 297,
+            "hold": 12,
+            "slide": 8,
+            "touch": 24,
+            "break": 20,
+            "total": 361
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11+",
+          "internalLevel": 11.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 327,
+            "hold": 55,
+            "slide": 47,
+            "touch": 38,
+            "break": 146,
+            "total": 613
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 549,
+            "hold": 58,
+            "slide": 95,
+            "touch": 63,
+            "break": 71,
+            "total": 836
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2022,
+      "title": "MissionDistortion",
+      "artist": "Nor",
+      "bpm": 110,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 119,
+            "hold": 8,
+            "slide": 4,
+            "touch": 8,
+            "break": 4,
+            "total": 143
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 175,
+            "hold": 8,
+            "slide": 6,
+            "touch": 26,
+            "break": 4,
+            "total": 219
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.9,
+          "version": "MAGiCAL",
+          "noteDesigner": "カマボコ君",
+          "noteCounts": {
+            "tap": 362,
+            "hold": 70,
+            "slide": 29,
+            "touch": 5,
+            "break": 22,
+            "total": 488
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "はっぴー & サファ太",
+          "noteCounts": {
+            "tap": 316,
+            "hold": 57,
+            "slide": 93,
+            "touch": 69,
+            "break": 67,
+            "total": 602
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2023,
+      "title": "Dear Player 2",
+      "artist": "tn-shi",
+      "bpm": 205,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 220,
+            "hold": 14,
+            "slide": 4,
+            "touch": 14,
+            "break": 2,
+            "total": 254
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 309,
+            "hold": 18,
+            "slide": 18,
+            "touch": 41,
+            "break": 8,
+            "total": 394
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 346,
+            "hold": 85,
+            "slide": 66,
+            "touch": 37,
+            "break": 69,
+            "total": 603
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 664,
+            "hold": 101,
+            "slide": 66,
+            "touch": 57,
+            "break": 91,
+            "total": 979
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2024,
+      "title": "OV3RCLOCK",
+      "artist": "Alicemetix",
+      "bpm": 118,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "6",
+          "internalLevel": 6,
+          "version": null,
+          "regionVersionOverride": {
+            "intl": "CiRCLE PLUS"
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 195,
+            "hold": 18,
+            "slide": 4,
+            "touch": 3,
+            "break": 9,
+            "total": 229
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.9,
+          "version": null,
+          "regionVersionOverride": {
+            "intl": "CiRCLE PLUS"
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 219,
+            "hold": 22,
+            "slide": 6,
+            "touch": 8,
+            "break": 26,
+            "total": 281
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.6,
+          "version": null,
+          "regionVersionOverride": {
+            "intl": "CiRCLE PLUS"
+          },
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 376,
+            "hold": 44,
+            "slide": 26,
+            "touch": 71,
+            "break": 31,
+            "total": 548
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14+",
+          "internalLevel": 14.8,
+          "version": null,
+          "regionVersionOverride": {
+            "intl": "CiRCLE PLUS"
+          },
+          "noteDesigner": "LuxizheLemon",
+          "noteCounts": {
+            "tap": 685,
+            "hold": 40,
+            "slide": 91,
+            "touch": 24,
+            "break": 87,
+            "total": 927
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2025,
+      "title": "魔法仕掛けのファンタジア",
+      "artist": "igel",
+      "bpm": 280,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "MAGiCAL",
+          "regionVersionOverride": {
+            "intl": "CiRCLE PLUS",
+            "cn": "舞萌DX 2026"
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 164,
+            "hold": 15,
+            "slide": 8,
+            "touch": 15,
+            "break": 4,
+            "total": 206
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us",
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "MAGiCAL",
+          "regionVersionOverride": {
+            "intl": "CiRCLE PLUS",
+            "cn": "舞萌DX 2026"
+          },
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 248,
+            "hold": 8,
+            "slide": 18,
+            "touch": 15,
+            "break": 2,
+            "total": 291
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us",
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12.2,
+          "version": "MAGiCAL",
+          "regionVersionOverride": {
+            "intl": "CiRCLE PLUS",
+            "cn": "舞萌DX 2026"
+          },
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 477,
+            "hold": 50,
+            "slide": 50,
+            "touch": 4,
+            "break": 36,
+            "total": 617
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us",
+            "cn"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14+",
+          "internalLevel": 14.8,
+          "version": "MAGiCAL",
+          "regionVersionOverride": {
+            "intl": "CiRCLE PLUS",
+            "cn": "舞萌DX 2026"
+          },
+          "noteDesigner": "lynx magical symphony",
+          "noteCounts": {
+            "tap": 620,
+            "hold": 97,
+            "slide": 87,
+            "touch": 105,
+            "break": 146,
+            "total": 1055
+          },
+          "availableRegions": [
+            "jp",
+            "intl",
+            "us",
+            "cn"
+          ]
+        }
+      ],
+      "aliases": {
+        "cn": [
+          "魔法仕掛けのファンタジア",
+          "干脆面",
+          "魔法士",
+          "wec2026",
+          "魔法机关幻想曲",
+          "wec2026决胜曲",
+          "比日本人快",
+          "魔法披风",
+          "魔法士干脆面",
+          "魔法士挂"
+        ]
+      }
+    },
+    {
+      "id": 2040,
+      "title": "IMPACT",
+      "artist": "USAO feat.光吉猛修",
+      "bpm": 210,
+      "category": "オンゲキ＆CHUNITHM",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 251,
+            "hold": 9,
+            "slide": 4,
+            "touch": 20,
+            "break": 15,
+            "total": 299
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.9,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 351,
+            "hold": 20,
+            "slide": 14,
+            "touch": 12,
+            "break": 4,
+            "total": 401
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.7,
+          "version": "MAGiCAL",
+          "noteDesigner": "ロシェ@ペンギン",
+          "noteCounts": {
+            "tap": 415,
+            "hold": 75,
+            "slide": 74,
+            "touch": 91,
+            "break": 44,
+            "total": 699
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.1,
+          "version": "MAGiCAL",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 704,
+            "hold": 88,
+            "slide": 130,
+            "touch": 79,
+            "break": 71,
+            "total": 1072
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2041,
+      "title": "[HALO]",
+      "artist": "Blacklolita",
+      "bpm": 150,
+      "category": "オンゲキ＆CHUNITHM",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 136,
+            "hold": 9,
+            "slide": 4,
+            "touch": 11,
+            "break": 9,
+            "total": 169
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 228,
+            "hold": 12,
+            "slide": 6,
+            "touch": 26,
+            "break": 8,
+            "total": 280
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12,
+          "version": "MAGiCAL",
+          "noteDesigner": "発光ビーバー",
+          "noteCounts": {
+            "tap": 325,
+            "hold": 45,
+            "slide": 34,
+            "touch": 20,
+            "break": 63,
+            "total": 487
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 536,
+            "hold": 36,
+            "slide": 74,
+            "touch": 40,
+            "break": 137,
+            "total": 823
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2047,
+      "title": "ごはん食べヨ",
+      "artist": "Mega Shinnosuke",
+      "bpm": 191,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 96,
+            "hold": 8,
+            "slide": 3,
+            "touch": 6,
+            "break": 2,
+            "total": 115
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 199,
+            "hold": 12,
+            "slide": 6,
+            "touch": 7,
+            "break": 4,
+            "total": 228
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 232,
+            "hold": 30,
+            "slide": 21,
+            "touch": 11,
+            "break": 33,
+            "total": 327
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.2,
+          "version": "MAGiCAL",
+          "noteDesigner": "発光ビーバー",
+          "noteCounts": {
+            "tap": 287,
+            "hold": 32,
+            "slide": 70,
+            "touch": 94,
+            "break": 32,
+            "total": 515
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2048,
+      "title": "Ex-Otogibanashi (Anime ver.)",
+      "artist": "ryo (supercell), 月見ヤチヨ (cv.早見沙織)",
+      "bpm": 190,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 120,
+            "hold": 10,
+            "slide": 4,
+            "touch": 10,
+            "break": 2,
+            "total": 146
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7.2,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 179,
+            "hold": 13,
+            "slide": 7,
+            "touch": 19,
+            "break": 8,
+            "total": 226
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "MAGiCAL",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 309,
+            "hold": 18,
+            "slide": 46,
+            "touch": 12,
+            "break": 16,
+            "total": 401
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12",
+          "internalLevel": 12,
+          "version": "MAGiCAL",
+          "noteDesigner": "緑風 犬童子",
+          "noteCounts": {
+            "tap": 286,
+            "hold": 48,
+            "slide": 49,
+            "touch": 4,
+            "break": 29,
+            "total": 416
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13+",
+          "internalLevel": 13.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "Luxizhel & アマリリス",
+          "noteCounts": {
+            "tap": 404,
+            "hold": 42,
+            "slide": 84,
+            "touch": 42,
+            "break": 42,
+            "total": 614
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2049,
+      "title": "私は、わたしの事が好き。(Short ver.)",
+      "artist": "HoneyWorks, かぐや(cv.夏吉ゆうこ)",
+      "bpm": 193,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 97,
+            "hold": 11,
+            "slide": 6,
+            "touch": 10,
+            "break": 1,
+            "total": 125
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7.2,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 176,
+            "hold": 14,
+            "slide": 6,
+            "touch": 24,
+            "break": 2,
+            "total": 222
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "まぐランド",
+          "noteCounts": {
+            "tap": 277,
+            "hold": 44,
+            "slide": 30,
+            "touch": 17,
+            "break": 26,
+            "total": 394
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 441,
+            "hold": 26,
+            "slide": 92,
+            "touch": 24,
+            "break": 43,
+            "total": 626
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050,
+      "title": "ワールドイズマイン CPK! Remix (Anime ver.)",
+      "artist": "ryo (supercell), かぐや (cv.夏吉ゆうこ), 月見ヤチヨ (cv.早見沙織)",
+      "bpm": 118,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 69,
+            "hold": 9,
+            "slide": 4,
+            "touch": 13,
+            "break": 1,
+            "total": 96
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 165,
+            "hold": 10,
+            "slide": 4,
+            "touch": 11,
+            "break": 6,
+            "total": 196
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 209,
+            "hold": 26,
+            "slide": 11,
+            "touch": 11,
+            "break": 19,
+            "total": 276
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "11+",
+          "internalLevel": 11.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "緑風 犬童子",
+          "noteCounts": {
+            "tap": 274,
+            "hold": 21,
+            "slide": 58,
+            "touch": 14,
+            "break": 21,
+            "total": 388
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13",
+          "internalLevel": 13.3,
+          "version": "MAGiCAL",
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 303,
+            "hold": 45,
+            "slide": 42,
+            "touch": 45,
+            "break": 62,
+            "total": 497
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2051,
+      "title": "群青声明",
+      "artist": "佐藤塩 & 西園チグサ",
+      "bpm": 160,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 196,
+            "hold": 16,
+            "slide": 4,
+            "touch": 23,
+            "break": 3,
+            "total": 242
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 307,
+            "hold": 24,
+            "slide": 8,
+            "touch": 11,
+            "break": 5,
+            "total": 355
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 369,
+            "hold": 43,
+            "slide": 76,
+            "touch": 22,
+            "break": 17,
+            "total": 527
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "せめんともり & カマボコ君",
+          "noteCounts": {
+            "tap": 706,
+            "hold": 87,
+            "slide": 85,
+            "touch": 35,
+            "break": 61,
+            "total": 974
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2052,
+      "title": "推活天使ビビアンちゃん (feat.マスタード＆ビートまりお)",
+      "artist": "ファル公＆DJ Myosuke「ゲーム『ゼンレスゾーンゼロ』ビビアン 同人イメージソング」",
+      "bpm": 180,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 157,
+            "hold": 8,
+            "slide": 11,
+            "touch": 25,
+            "break": 7,
+            "total": 208
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.7,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 319,
+            "hold": 16,
+            "slide": 7,
+            "touch": 33,
+            "break": 6,
+            "total": 381
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 509,
+            "hold": 42,
+            "slide": 47,
+            "touch": 1,
+            "break": 97,
+            "total": 696
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.9,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太@プロキシ",
+          "noteCounts": {
+            "tap": 530,
+            "hold": 77,
+            "slide": 117,
+            "touch": 117,
+            "break": 264,
+            "total": 1105
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2053,
+      "title": "愛言葉V",
+      "artist": "DECO*27",
+      "bpm": 139,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 110,
+            "hold": 10,
+            "slide": 4,
+            "touch": 8,
+            "break": 3,
+            "total": 135
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 165,
+            "hold": 12,
+            "slide": 10,
+            "touch": 24,
+            "break": 4,
+            "total": 215
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "MAGiCAL",
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 295,
+            "hold": 26,
+            "slide": 32,
+            "touch": 30,
+            "break": 41,
+            "total": 424
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "ロシェ@ペンギン",
+          "noteCounts": {
+            "tap": 355,
+            "hold": 64,
+            "slide": 69,
+            "touch": 22,
+            "break": 46,
+            "total": 556
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2054,
+      "title": "PPPP (feat. Hatsune Miku, Kasane Teto)",
+      "artist": "TAK",
+      "bpm": 152,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 225,
+            "hold": 16,
+            "slide": 4,
+            "touch": 6,
+            "break": 2,
+            "total": 253
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 273,
+            "hold": 19,
+            "slide": 8,
+            "touch": 19,
+            "break": 8,
+            "total": 327
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 320,
+            "hold": 59,
+            "slide": 25,
+            "touch": 43,
+            "break": 53,
+            "total": 500
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "11+",
+          "internalLevel": 11.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "緑風 犬三郎",
+          "noteCounts": {
+            "tap": 391,
+            "hold": 118,
+            "slide": 98,
+            "touch": 21,
+            "break": 22,
+            "total": 650
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 4,
+          "level": "13+",
+          "internalLevel": 13.6,
+          "version": "MAGiCAL",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 575,
+            "hold": 73,
+            "slide": 110,
+            "touch": 27,
+            "break": 45,
+            "total": 830
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2056,
+      "title": "さっきゅんライト（2025）",
+      "artist": "石鹸屋",
+      "bpm": 123,
+      "category": "東方Project",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 190,
+            "hold": 8,
+            "slide": 6,
+            "touch": 7,
+            "break": 4,
+            "total": 215
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 218,
+            "hold": 17,
+            "slide": 10,
+            "touch": 13,
+            "break": 4,
+            "total": 262
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "MAGiCAL",
+          "noteDesigner": "せめんともり",
+          "noteCounts": {
+            "tap": 304,
+            "hold": 51,
+            "slide": 36,
+            "touch": 10,
+            "break": 53,
+            "total": 454
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "じゃこレモン",
+          "noteCounts": {
+            "tap": 642,
+            "hold": 88,
+            "slide": 114,
+            "touch": 18,
+            "break": 52,
+            "total": 914
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2057,
+      "title": "Antikythera [Vocal Version]",
+      "artist": "technoplanet feat. 木下珠子",
+      "bpm": 220,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 238,
+            "hold": 15,
+            "slide": 6,
+            "touch": 20,
+            "break": 5,
+            "total": 284
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8+",
+          "internalLevel": 8.7,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 359,
+            "hold": 22,
+            "slide": 14,
+            "touch": 26,
+            "break": 2,
+            "total": 423
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 350,
+            "hold": 77,
+            "slide": 62,
+            "touch": 52,
+            "break": 38,
+            "total": 579
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 639,
+            "hold": 99,
+            "slide": 79,
+            "touch": 103,
+            "break": 94,
+            "total": 1014
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2058,
+      "title": "Halzion",
+      "artist": "H△G",
+      "bpm": 135,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 106,
+            "hold": 9,
+            "slide": 6,
+            "touch": 13,
+            "break": 2,
+            "total": 136
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 223,
+            "hold": 10,
+            "slide": 7,
+            "touch": 13,
+            "break": 4,
+            "total": 257
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 242,
+            "hold": 49,
+            "slide": 45,
+            "touch": 16,
+            "break": 13,
+            "total": 365
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "発光ビーバー",
+          "noteCounts": {
+            "tap": 385,
+            "hold": 33,
+            "slide": 75,
+            "touch": 44,
+            "break": 26,
+            "total": 563
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2059,
+      "title": "天靈靈地靈靈",
+      "artist": "iKz feat.小可學妹",
+      "bpm": 155,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 158,
+            "hold": 9,
+            "slide": 4,
+            "touch": 13,
+            "break": 8,
+            "total": 192
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 246,
+            "hold": 20,
+            "slide": 8,
+            "touch": 26,
+            "break": 10,
+            "total": 310
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 385,
+            "hold": 54,
+            "slide": 23,
+            "touch": 15,
+            "break": 72,
+            "total": 549
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "アマリリス",
+          "noteCounts": {
+            "tap": 608,
+            "hold": 51,
+            "slide": 80,
+            "touch": 75,
+            "break": 102,
+            "total": 916
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060,
+      "title": "The Happycore Idol",
+      "artist": "3R2",
+      "bpm": 170,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 154,
+            "hold": 8,
+            "slide": 4,
+            "touch": 8,
+            "break": 5,
+            "total": 179
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 279,
+            "hold": 14,
+            "slide": 6,
+            "touch": 24,
+            "break": 8,
+            "total": 331
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "発光ビーバー",
+          "noteCounts": {
+            "tap": 345,
+            "hold": 60,
+            "slide": 18,
+            "touch": 22,
+            "break": 17,
+            "total": 462
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.7,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 547,
+            "hold": 55,
+            "slide": 92,
+            "touch": 20,
+            "break": 68,
+            "total": 782
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2061,
+      "title": "XODUS",
+      "artist": "DJ Myosuke & Gram",
+      "bpm": 202,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 200,
+            "hold": 12,
+            "slide": 6,
+            "touch": 15,
+            "break": 7,
+            "total": 240
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 308,
+            "hold": 16,
+            "slide": 10,
+            "touch": 23,
+            "break": 4,
+            "total": 361
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12+",
+          "internalLevel": 12.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 598,
+            "hold": 20,
+            "slide": 26,
+            "touch": 17,
+            "break": 36,
+            "total": 697
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "発光ビーバー",
+          "noteCounts": {
+            "tap": 810,
+            "hold": 71,
+            "slide": 78,
+            "touch": 41,
+            "break": 32,
+            "total": 1032
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2066,
+      "title": "ChaosBlue",
+      "artist": "GRANRODEO",
+      "bpm": 126,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 134,
+            "hold": 12,
+            "slide": 4,
+            "touch": 6,
+            "break": 6,
+            "total": 162
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 204,
+            "hold": 17,
+            "slide": 8,
+            "touch": 29,
+            "break": 4,
+            "total": 262
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 291,
+            "hold": 28,
+            "slide": 37,
+            "touch": 12,
+            "break": 48,
+            "total": 416
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "ぴちネコ",
+          "noteCounts": {
+            "tap": 411,
+            "hold": 62,
+            "slide": 80,
+            "touch": 85,
+            "break": 70,
+            "total": 708
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2067,
+      "title": "GO GO PARADISE!!",
+      "artist": "GRANRODEO",
+      "bpm": 154,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 172,
+            "hold": 10,
+            "slide": 5,
+            "touch": 8,
+            "break": 5,
+            "total": 200
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 280,
+            "hold": 16,
+            "slide": 7,
+            "touch": 21,
+            "break": 8,
+            "total": 332
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10",
+          "internalLevel": 10.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "発光ビーバー",
+          "noteCounts": {
+            "tap": 380,
+            "hold": 37,
+            "slide": 40,
+            "touch": 27,
+            "break": 26,
+            "total": 510
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.3,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 561,
+            "hold": 27,
+            "slide": 109,
+            "touch": 56,
+            "break": 53,
+            "total": 806
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2068,
+      "title": "Happy Halloween",
+      "artist": "Junky feat. 鏡音リン",
+      "bpm": 120,
+      "category": "niconico＆ボーカロイド",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "2",
+          "internalLevel": 2,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 115,
+            "hold": 8,
+            "slide": 4,
+            "touch": 8,
+            "break": 8,
+            "total": 143
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 214,
+            "hold": 8,
+            "slide": 6,
+            "touch": 11,
+            "break": 6,
+            "total": 245
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "9+",
+          "internalLevel": 9.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 215,
+            "hold": 79,
+            "slide": 30,
+            "touch": 20,
+            "break": 19,
+            "total": 363
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 265,
+            "hold": 24,
+            "slide": 65,
+            "touch": 30,
+            "break": 33,
+            "total": 417
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2069,
+      "title": "All Over Again",
+      "artist": "Zekk",
+      "bpm": 210,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "5",
+          "internalLevel": 5,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 200,
+            "hold": 12,
+            "slide": 10,
+            "touch": 17,
+            "break": 2,
+            "total": 241
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 374,
+            "hold": 19,
+            "slide": 9,
+            "touch": 21,
+            "break": 2,
+            "total": 425
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11+",
+          "internalLevel": 11.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 623,
+            "hold": 85,
+            "slide": 60,
+            "touch": 21,
+            "break": 23,
+            "total": 812
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.9,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 693,
+            "hold": 48,
+            "slide": 134,
+            "touch": 82,
+            "break": 137,
+            "total": 1094
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070,
+      "title": "Energy",
+      "artist": "Ryo Nakamura",
+      "bpm": 128,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "3",
+          "internalLevel": 3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 154,
+            "hold": 10,
+            "slide": 4,
+            "touch": 14,
+            "break": 4,
+            "total": 186
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 242,
+            "hold": 12,
+            "slide": 6,
+            "touch": 26,
+            "break": 5,
+            "total": 291
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.6,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 332,
+            "hold": 36,
+            "slide": 52,
+            "touch": 31,
+            "break": 18,
+            "total": 469
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 613,
+            "hold": 43,
+            "slide": 104,
+            "touch": 40,
+            "break": 61,
+            "total": 861
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2071,
+      "title": "Crossfire",
+      "artist": "Blacklolita",
+      "bpm": 200,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 229,
+            "hold": 9,
+            "slide": 7,
+            "touch": 15,
+            "break": 5,
+            "total": 265
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "7",
+          "internalLevel": 7.5,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 325,
+            "hold": 7,
+            "slide": 11,
+            "touch": 36,
+            "break": 4,
+            "total": 383
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "11",
+          "internalLevel": 11,
+          "version": "MAGiCAL",
+          "noteDesigner": "サファ太",
+          "noteCounts": {
+            "tap": 332,
+            "hold": 91,
+            "slide": 40,
+            "touch": 57,
+            "break": 63,
+            "total": 583
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "13+",
+          "internalLevel": 13.9,
+          "version": "MAGiCAL",
+          "noteDesigner": "Jack",
+          "noteCounts": {
+            "tap": 200,
+            "hold": 164,
+            "slide": 229,
+            "touch": 99,
+            "break": 49,
+            "total": 741
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2072,
+      "title": "RE!NCARN4T10N",
+      "artist": "xi",
+      "bpm": 186,
+      "category": "ゲーム＆バラエティ",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "level": "6",
+          "internalLevel": 6,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 201,
+            "hold": 9,
+            "slide": 10,
+            "touch": 19,
+            "break": 3,
+            "total": 242
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "level": "8",
+          "internalLevel": 8.3,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 378,
+            "hold": 20,
+            "slide": 12,
+            "touch": 24,
+            "break": 4,
+            "total": 438
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "level": "12",
+          "internalLevel": 12.2,
+          "version": "MAGiCAL",
+          "noteDesigner": "発光ビーバー",
+          "noteCounts": {
+            "tap": 514,
+            "hold": 43,
+            "slide": 50,
+            "touch": 22,
+            "break": 34,
+            "total": 663
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "level": "14",
+          "internalLevel": 14.3,
+          "version": "MAGiCAL",
+          "noteDesigner": "けんけん法師",
+          "noteCounts": {
+            "tap": 797,
+            "hold": 57,
+            "slide": 113,
+            "touch": 74,
+            "break": 67,
+            "total": 1108
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2086,
+      "title": "Can Do",
+      "artist": "GRANRODEO",
+      "bpm": 200,
+      "category": "POPS＆アニメ",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "sd",
+          "difficulty": 0,
+          "level": "4",
+          "internalLevel": 4,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 146,
+            "hold": 8,
+            "slide": 4,
+            "touch": null,
+            "break": 4,
+            "total": 162
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 1,
+          "level": "7+",
+          "internalLevel": 7.7,
+          "version": "MAGiCAL",
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": 199,
+            "hold": 22,
+            "slide": 6,
+            "touch": null,
+            "break": 6,
+            "total": 233
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 2,
+          "level": "10+",
+          "internalLevel": 10.8,
+          "version": "MAGiCAL",
+          "noteDesigner": "はっぴー",
+          "noteCounts": {
+            "tap": 337,
+            "hold": 33,
+            "slide": 25,
+            "touch": null,
+            "break": 20,
+            "total": 415
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 3,
+          "level": "13",
+          "internalLevel": 13.4,
+          "version": "MAGiCAL",
+          "noteDesigner": "mai-Star",
+          "noteCounts": {
+            "tap": 446,
+            "hold": 37,
+            "slide": 64,
+            "touch": null,
+            "break": 34,
+            "total": 581
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        },
+        {
+          "type": "sd",
+          "difficulty": 4,
+          "level": "13+",
+          "internalLevel": 13.7,
+          "version": "MAGiCAL",
+          "noteDesigner": "Luxizhel",
+          "noteCounts": {
+            "tap": 446,
+            "hold": 19,
+            "slide": 106,
+            "touch": null,
+            "break": 43,
+            "total": 614
+          },
+          "availableRegions": [
+            "jp"
           ]
         }
       ]
@@ -187129,36 +190266,6 @@
           "屏幕清洁大师"
         ]
       }
-    },
-    {
-      "id": 100364,
-      "title": "[覚]D✪N’T  ST✪P  R✪CKIN’",
-      "artist": "EB(aka EarBreaker)",
-      "bpm": null,
-      "category": "宴会場",
-      "isLocked": false,
-      "charts": [
-        {
-          "type": "utage",
-          "difficulty": 10,
-          "level": "【覚】",
-          "internalLevel": 12.6,
-          "version": null,
-          "regionVersionOverride": {},
-          "noteDesigner": null,
-          "noteCounts": {
-            "tap": null,
-            "hold": null,
-            "slide": null,
-            "touch": null,
-            "break": null,
-            "total": null
-          },
-          "availableRegions": [
-            "jp"
-          ]
-        }
-      ]
     },
     {
       "id": 100456,
@@ -187686,6 +190793,36 @@
       }
     },
     {
+      "id": 110269,
+      "title": "[音]裏表ラバーズ",
+      "artist": "wowaka",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【音】",
+          "internalLevel": 14,
+          "version": null,
+          "regionVersionOverride": {},
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 110281,
       "title": "[回]ダブルラリアット",
       "artist": "アゴアニキ",
@@ -187785,6 +190922,36 @@
             "jp",
             "intl",
             "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110364,
+      "title": "[覚]D✪N’T  ST✪P  R✪CKIN’",
+      "artist": "EB(aka EarBreaker)",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【覚】",
+          "internalLevel": 12.6,
+          "version": null,
+          "regionVersionOverride": {},
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
           ]
         }
       ]
@@ -188081,6 +191248,36 @@
             "jp",
             "intl",
             "us"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110734,
+      "title": "[回]ENERGY SYNERGY MATRIX",
+      "artist": "Tanchiky",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【回】",
+          "internalLevel": 13.6,
+          "version": null,
+          "regionVersionOverride": {},
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
           ]
         }
       ]
@@ -189639,6 +192836,36 @@
       ]
     },
     {
+      "id": 111836,
+      "title": "[音]ビビデバ",
+      "artist": "星街すいせい（ホロライブ）",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【音】",
+          "internalLevel": 13.6,
+          "version": null,
+          "regionVersionOverride": {},
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
+          ]
+        }
+      ]
+    },
+    {
       "id": 111838,
       "title": "[助]メズマライザー",
       "artist": "サツキ feat.初音ミク・重音テト",
@@ -189749,6 +192976,36 @@
             "intl",
             "us",
             "cn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111903,
+      "title": "[奏]give it up to you",
+      "artist": "曲：中土智博／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "level": "【奏】",
+          "internalLevel": 13,
+          "version": null,
+          "regionVersionOverride": {},
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "availableRegions": [
+            "jp"
           ]
         }
       ]
