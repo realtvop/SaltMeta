@@ -414285,6 +414285,16 @@
               "level": "2",
               "internalLevel": 2,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "2",
+              "internalLevel": 2,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "2",
+              "internalLevel": 2,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -414302,6 +414312,16 @@
           },
           "regions": {
             "jp": {
+              "level": "7",
+              "internalLevel": 7.2,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "7",
+              "internalLevel": 7.2,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "7",
               "internalLevel": 7.2,
               "version": "CiRCLE PLUS"
@@ -414325,6 +414345,16 @@
               "level": "10+",
               "internalLevel": 10.7,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "10+",
+              "internalLevel": 10.7,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "10+",
+              "internalLevel": 10.7,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -414342,6 +414372,16 @@
           },
           "regions": {
             "jp": {
+              "level": "13+",
+              "internalLevel": 13.6,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "13+",
+              "internalLevel": 13.6,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "13+",
               "internalLevel": 13.6,
               "version": "CiRCLE PLUS"
@@ -414465,6 +414505,16 @@
               "level": "5",
               "internalLevel": 5,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "5",
+              "internalLevel": 5,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "5",
+              "internalLevel": 5,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -414482,6 +414532,16 @@
           },
           "regions": {
             "jp": {
+              "level": "8",
+              "internalLevel": 8,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "8",
+              "internalLevel": 8,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "8",
               "internalLevel": 8,
               "version": "CiRCLE PLUS"
@@ -414505,6 +414565,16 @@
               "level": "12+",
               "internalLevel": 12.7,
               "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "12+",
+              "internalLevel": 12.7,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
+              "level": "12+",
+              "internalLevel": 12.7,
+              "version": "CiRCLE PLUS"
             }
           }
         },
@@ -414522,6 +414592,16 @@
           },
           "regions": {
             "jp": {
+              "level": "14",
+              "internalLevel": 14.1,
+              "version": "CiRCLE PLUS"
+            },
+            "intl": {
+              "level": "14",
+              "internalLevel": 14.1,
+              "version": "CiRCLE PLUS"
+            },
+            "us": {
               "level": "14",
               "internalLevel": 14.1,
               "version": "CiRCLE PLUS"
@@ -419396,7 +419476,7 @@
       "artist": "cybermiso feat. tigerlily",
       "bpm": 174,
       "category": "ゲーム＆バラエティ",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -419486,7 +419566,7 @@
       "artist": "ARForest",
       "bpm": 180,
       "category": "ゲーム＆バラエティ",
-      "isLocked": true,
+      "isLocked": false,
       "charts": [
         {
           "type": "dx",
@@ -420743,6 +420823,366 @@
           "卡日本人脖子"
         ]
       }
+    },
+    {
+      "id": 2026,
+      "title": "ルミネイション",
+      "artist": "Room97 feat.藍来いあ.",
+      "bpm": null,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "6",
+              "internalLevel": 6,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "11+",
+              "internalLevel": 11.9,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "13+",
+              "internalLevel": 13.7,
+              "version": "MAGiCAL"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2027,
+      "title": "Flare",
+      "artist": "Aut0＆ILusMin feat.羊羊",
+      "bpm": null,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "3",
+              "internalLevel": 3,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "7+",
+              "internalLevel": 7.8,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "10",
+              "internalLevel": 10.5,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "13+",
+              "internalLevel": 13.7,
+              "version": "MAGiCAL"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2028,
+      "title": "Asthenosphere",
+      "artist": "溝口ゆうま（Yuma.Mizo） feat. 大瀬良あい",
+      "bpm": null,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "4",
+              "internalLevel": 4,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "8",
+              "internalLevel": 8,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "11+",
+              "internalLevel": 11.8,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "13+",
+              "internalLevel": 13.9,
+              "version": "MAGiCAL"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2029,
+      "title": "Unfollow",
+      "artist": "Maozon feat. MOMONADY",
+      "bpm": null,
+      "category": "maimai",
+      "isLocked": true,
+      "charts": [
+        {
+          "type": "dx",
+          "difficulty": 0,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "4",
+              "internalLevel": 4,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 1,
+          "noteDesigner": "-",
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "8",
+              "internalLevel": 8,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 2,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "12",
+              "internalLevel": 12,
+              "version": "MAGiCAL"
+            }
+          }
+        },
+        {
+          "type": "dx",
+          "difficulty": 3,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "14",
+              "internalLevel": 14.2,
+              "version": "MAGiCAL"
+            }
+          }
+        }
+      ]
     },
     {
       "id": 2040,
@@ -427694,6 +428134,36 @@
       }
     },
     {
+      "id": 111667,
+      "title": "[音]にっこり^^調査隊のテーマ",
+      "artist": "ワンダフル☆オポチュニティ！ / ワンダーランズ×ショウタイム × 初音ミク「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "【音】",
+              "internalLevel": 14
+            }
+          }
+        }
+      ],
+      "comment": "～音取りほぼMAXバージョン～"
+    },
+    {
       "id": 111670,
       "title": "[奏]のじゃロリック",
       "artist": "なみぐる feat.ちょこ 桃寝ちのい",
@@ -428647,6 +429117,36 @@
         }
       ],
       "comment": "【🤝バディ】目と目を合わせて舞を分け合おう"
+    },
+    {
+      "id": 111983,
+      "title": "[奏]T氏の話を信じるな",
+      "artist": "ピノキオピー",
+      "bpm": null,
+      "category": "宴会場",
+      "isLocked": false,
+      "charts": [
+        {
+          "type": "utage",
+          "difficulty": 10,
+          "noteDesigner": null,
+          "noteCounts": {
+            "tap": null,
+            "hold": null,
+            "slide": null,
+            "touch": null,
+            "break": null,
+            "total": null
+          },
+          "regions": {
+            "jp": {
+              "level": "【奏】",
+              "internalLevel": 13
+            }
+          }
+        }
+      ],
+      "comment": "【🤝バディ】T氏の譜面は右側だ"
     },
     {
       "id": 112002,
